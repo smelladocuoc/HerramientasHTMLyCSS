@@ -1,0 +1,743 @@
+0 verbose cli [
+0 verbose cli   '/usr/bin/node',
+0 verbose cli   '/usr/bin/npm',
+0 verbose cli   'install',
+0 verbose cli   '--json',
+0 verbose cli   '--save-dev',
+0 verbose cli   'tailwindcss'
+0 verbose cli ]
+1 info using npm@8.5.5
+2 info using node@v17.8.0
+3 timing npm:load:whichnode Completed in 0ms
+4 timing config:load:defaults Completed in 1ms
+5 timing config:load:file:/usr/lib/node_modules/npm/npmrc Completed in 2ms
+6 timing config:load:builtin Completed in 3ms
+7 timing config:load:cli Completed in 1ms
+8 timing config:load:env Completed in 0ms
+9 timing config:load:project Completed in 2ms
+10 verbose config init.author.email Use `--init-author-email` instead.
+11 verbose config init.author.name Use `--init-author-name` instead.
+12 verbose config init.license Use `--init-license` instead.
+13 timing config:load:file:/home/smelladoc/.npmrc Completed in 2ms
+14 timing config:load:user Completed in 2ms
+15 timing config:load:file:/usr/etc/npmrc Completed in 0ms
+16 timing config:load:global Completed in 0ms
+17 timing config:load:validate Completed in 0ms
+18 timing config:load:credentials Completed in 1ms
+19 timing config:load:setEnvs Completed in 0ms
+20 timing config:load Completed in 13ms
+21 timing npm:load:configload Completed in 13ms
+22 timing npm:load:setTitle Completed in 0ms
+23 timing config:load:flatten Completed in 2ms
+24 timing npm:load:display Completed in 2ms
+25 verbose logfile /home/smelladoc/.npm/_logs/2022-04-11T23_03_31_702Z-debug-0.log
+26 timing npm:load:logFile Completed in 4ms
+27 timing npm:load:timers Completed in 0ms
+28 timing npm:load:configScope Completed in 0ms
+29 timing npm:load Completed in 19ms
+30 timing arborist:ctor Completed in 1ms
+31 silly logfile start cleaning logs, removing 1 files
+32 timing idealTree:init Completed in 72ms
+33 timing idealTree:userRequests Completed in 1ms
+34 silly idealTree buildDeps
+35 silly fetch manifest tailwindcss@*
+36 timing arborist:ctor Completed in 0ms
+37 http fetch GET 200 https://registry.npmjs.org/tailwindcss 259ms (cache revalidated)
+38 silly fetch manifest autoprefixer@^10.0.2
+39 http fetch GET 200 https://registry.npmjs.org/autoprefixer 44ms (cache revalidated)
+40 silly fetch manifest postcss@^8.1.0
+41 http fetch GET 200 https://registry.npmjs.org/postcss 5ms (cache hit)
+42 silly placeDep ROOT tailwindcss@3.0.23 OK for: smelladoc@1.0.0 want: *
+43 silly placeDep ROOT autoprefixer@10.4.4 OK for: tailwindcss@3.0.23 want: ^10.0.2
+44 silly placeDep ROOT postcss@8.4.12 OK for: autoprefixer@10.4.4 want: ^8.1.0
+45 silly fetch manifest arg@^5.0.1
+46 silly fetch manifest chokidar@^3.5.3
+47 silly fetch manifest detective@^5.2.0
+48 silly fetch manifest didyoumean@^1.2.2
+49 silly fetch manifest dlv@^1.1.3
+50 silly fetch manifest fast-glob@^3.2.11
+51 silly fetch manifest glob-parent@^6.0.2
+52 silly fetch manifest is-glob@^4.0.3
+53 silly fetch manifest normalize-path@^3.0.0
+54 silly fetch manifest object-hash@^2.2.0
+55 silly fetch manifest postcss-js@^4.0.0
+56 silly fetch manifest postcss-load-config@^3.1.0
+57 silly fetch manifest postcss-nested@5.0.6
+58 silly fetch manifest postcss-selector-parser@^6.0.9
+59 silly fetch manifest quick-lru@^5.1.1
+60 silly fetch manifest resolve@^1.22.0
+61 silly fetch manifest fraction.js@^4.2.0
+62 silly fetch manifest normalize-range@^0.1.2
+63 silly fetch manifest nanoid@^3.3.1
+64 silly fetch manifest source-map-js@^1.0.2
+65 http fetch GET 200 https://registry.npmjs.org/chokidar 170ms (cache revalidated)
+66 http fetch GET 200 https://registry.npmjs.org/postcss-js 188ms (cache revalidated)
+67 http fetch GET 200 https://registry.npmjs.org/is-glob 191ms (cache revalidated)
+68 http fetch GET 200 https://registry.npmjs.org/postcss-load-config 190ms (cache revalidated)
+69 http fetch GET 200 https://registry.npmjs.org/fast-glob 195ms (cache revalidated)
+70 http fetch GET 200 https://registry.npmjs.org/postcss-nested 199ms (cache revalidated)
+71 http fetch GET 200 https://registry.npmjs.org/postcss-selector-parser 201ms (cache revalidated)
+72 http fetch GET 200 https://registry.npmjs.org/normalize-path 203ms (cache revalidated)
+73 http fetch GET 200 https://registry.npmjs.org/resolve 202ms (cache revalidated)
+74 http fetch GET 200 https://registry.npmjs.org/quick-lru 217ms (cache revalidated)
+75 http fetch GET 200 https://registry.npmjs.org/fraction.js 228ms (cache revalidated)
+76 http fetch GET 200 https://registry.npmjs.org/normalize-range 229ms (cache revalidated)
+77 http fetch GET 200 https://registry.npmjs.org/source-map-js 229ms (cache revalidated)
+78 http fetch GET 200 https://registry.npmjs.org/glob-parent 390ms (cache revalidated)
+79 http fetch GET 200 https://registry.npmjs.org/arg 883ms (cache revalidated)
+80 http fetch GET 200 https://registry.npmjs.org/dlv 919ms (cache revalidated)
+81 http fetch GET 200 https://registry.npmjs.org/detective 948ms (cache revalidated)
+82 http fetch GET 200 https://registry.npmjs.org/didyoumean 994ms (cache revalidated)
+83 http fetch GET 200 https://registry.npmjs.org/nanoid 990ms (cache revalidated)
+84 http fetch GET 200 https://registry.npmjs.org/object-hash 1016ms (cache revalidated)
+85 timing idealTree:#root Completed in 1344ms
+86 silly placeDep ROOT fraction.js@4.2.0 OK for: autoprefixer@10.4.4 want: ^4.2.0
+87 silly placeDep ROOT normalize-range@0.1.2 OK for: autoprefixer@10.4.4 want: ^0.1.2
+88 timing idealTree:node_modules/autoprefixer Completed in 2ms
+89 timing idealTree:node_modules/fraction.js Completed in 0ms
+90 timing idealTree:node_modules/normalize-range Completed in 0ms
+91 silly placeDep ROOT nanoid@3.3.2 OK for: postcss@8.4.12 want: ^3.3.1
+92 silly placeDep ROOT source-map-js@1.0.2 OK for: postcss@8.4.12 want: ^1.0.2
+93 timing idealTree:node_modules/postcss Completed in 1ms
+94 timing idealTree:node_modules/nanoid Completed in 0ms
+95 timing idealTree:node_modules/source-map-js Completed in 0ms
+96 silly fetch manifest postcss@^8.4.6
+97 silly fetch manifest ts-node@>=9.0.0
+98 http fetch GET 200 https://registry.npmjs.org/ts-node 44ms (cache revalidated)
+99 silly fetch manifest @swc/core@>=1.2.50
+100 http fetch GET 200 https://registry.npmjs.org/@swc%2fcore 79ms (cache revalidated)
+101 silly fetch manifest @swc/wasm@>=1.2.50
+102 http fetch GET 200 https://registry.npmjs.org/@swc%2fwasm 71ms (cache revalidated)
+103 silly fetch manifest @types/node@*
+104 http fetch GET 200 https://registry.npmjs.org/@types%2fnode 70ms (cache revalidated)
+105 silly fetch manifest typescript@>=2.7
+106 http fetch GET 200 https://registry.npmjs.org/typescript 52ms (cache revalidated)
+107 silly placeDep ROOT arg@5.0.1 OK for: tailwindcss@3.0.23 want: ^5.0.1
+108 silly placeDep ROOT chokidar@3.5.3 OK for: tailwindcss@3.0.23 want: ^3.5.3
+109 silly placeDep ROOT detective@5.2.0 OK for: tailwindcss@3.0.23 want: ^5.2.0
+110 silly placeDep ROOT didyoumean@1.2.2 OK for: tailwindcss@3.0.23 want: ^1.2.2
+111 silly placeDep ROOT dlv@1.1.3 OK for: tailwindcss@3.0.23 want: ^1.1.3
+112 silly placeDep ROOT fast-glob@3.2.11 OK for: tailwindcss@3.0.23 want: ^3.2.11
+113 silly placeDep ROOT glob-parent@6.0.2 OK for: tailwindcss@3.0.23 want: ^6.0.2
+114 silly placeDep ROOT is-glob@4.0.3 OK for: tailwindcss@3.0.23 want: ^4.0.3
+115 silly placeDep ROOT normalize-path@3.0.0 OK for: tailwindcss@3.0.23 want: ^3.0.0
+116 silly placeDep ROOT object-hash@2.2.0 OK for: tailwindcss@3.0.23 want: ^2.2.0
+117 silly placeDep ROOT postcss-js@4.0.0 OK for: tailwindcss@3.0.23 want: ^4.0.0
+118 silly placeDep ROOT postcss-load-config@3.1.4 OK for: tailwindcss@3.0.23 want: ^3.1.0
+119 silly placeDep ROOT postcss-nested@5.0.6 OK for: tailwindcss@3.0.23 want: 5.0.6
+120 silly placeDep ROOT postcss-selector-parser@6.0.10 OK for: tailwindcss@3.0.23 want: ^6.0.9
+121 silly placeDep ROOT quick-lru@5.1.1 OK for: tailwindcss@3.0.23 want: ^5.1.1
+122 silly placeDep ROOT resolve@1.22.0 OK for: tailwindcss@3.0.23 want: ^1.22.0
+123 silly fetch manifest anymatch@~3.1.2
+124 silly fetch manifest braces@~3.0.2
+125 silly fetch manifest glob-parent@~5.1.2
+126 silly fetch manifest is-binary-path@~2.1.0
+127 silly fetch manifest readdirp@~3.6.0
+128 silly fetch manifest fsevents@~2.3.2
+129 silly fetch manifest acorn-node@^1.6.1
+130 silly fetch manifest defined@^1.0.0
+131 silly fetch manifest minimist@^1.1.1
+132 silly fetch manifest @nodelib/fs.stat@^2.0.2
+133 silly fetch manifest @nodelib/fs.walk@^1.2.3
+134 silly fetch manifest glob-parent@^5.1.2
+135 silly fetch manifest merge2@^1.3.0
+136 silly fetch manifest micromatch@^4.0.4
+137 silly fetch manifest is-extglob@^2.1.1
+138 silly fetch manifest camelcase-css@^2.0.1
+139 silly fetch manifest lilconfig@^2.0.5
+140 silly fetch manifest cssesc@^3.0.0
+141 silly fetch manifest util-deprecate@^1.0.2
+142 silly fetch manifest is-core-module@^2.8.1
+143 silly fetch manifest path-parse@^1.0.7
+144 silly fetch manifest supports-preserve-symlinks-flag@^1.0.0
+145 http fetch GET 200 https://registry.npmjs.org/anymatch 72ms (cache revalidated)
+146 http fetch GET 200 https://registry.npmjs.org/fsevents 74ms (cache revalidated)
+147 http fetch GET 200 https://registry.npmjs.org/merge2 75ms (cache revalidated)
+148 http fetch GET 200 https://registry.npmjs.org/readdirp 83ms (cache revalidated)
+149 http fetch GET 200 https://registry.npmjs.org/braces 86ms (cache revalidated)
+150 http fetch GET 200 https://registry.npmjs.org/defined 84ms (cache revalidated)
+151 http fetch GET 200 https://registry.npmjs.org/camelcase-css 79ms (cache revalidated)
+152 http fetch GET 200 https://registry.npmjs.org/is-binary-path 88ms (cache revalidated)
+153 http fetch GET 200 https://registry.npmjs.org/is-extglob 80ms (cache revalidated)
+154 http fetch GET 200 https://registry.npmjs.org/util-deprecate 79ms (cache revalidated)
+155 http fetch GET 200 https://registry.npmjs.org/minimist 91ms (cache revalidated)
+156 http fetch GET 200 https://registry.npmjs.org/@nodelib%2ffs.stat 94ms (cache revalidated)
+157 http fetch GET 200 https://registry.npmjs.org/lilconfig 87ms (cache revalidated)
+158 http fetch GET 200 https://registry.npmjs.org/@nodelib%2ffs.walk 97ms (cache revalidated)
+159 http fetch GET 200 https://registry.npmjs.org/cssesc 98ms (cache revalidated)
+160 http fetch GET 200 https://registry.npmjs.org/supports-preserve-symlinks-flag 98ms (cache revalidated)
+161 http fetch GET 200 https://registry.npmjs.org/path-parse 101ms (cache revalidated)
+162 http fetch GET 200 https://registry.npmjs.org/is-core-module 113ms (cache revalidated)
+163 http fetch GET 200 https://registry.npmjs.org/micromatch 116ms (cache revalidated)
+164 http fetch GET 200 https://registry.npmjs.org/acorn-node 903ms (cache revalidated)
+165 timing idealTree:node_modules/tailwindcss Completed in 1293ms
+166 timing idealTree:node_modules/arg Completed in 0ms
+167 silly placeDep ROOT anymatch@3.1.2 OK for: chokidar@3.5.3 want: ~3.1.2
+168 silly placeDep ROOT braces@3.0.2 OK for: chokidar@3.5.3 want: ~3.0.2
+169 silly placeDep ROOT fsevents@2.3.2 OK for: chokidar@3.5.3 want: ~2.3.2
+170 silly placeDep node_modules/chokidar glob-parent@5.1.2 OK for: chokidar@3.5.3 want: ~5.1.2
+171 silly placeDep ROOT is-binary-path@2.1.0 OK for: chokidar@3.5.3 want: ~2.1.0
+172 silly placeDep ROOT readdirp@3.6.0 OK for: chokidar@3.5.3 want: ~3.6.0
+173 silly fetch manifest picomatch@^2.0.4
+174 silly fetch manifest fill-range@^7.0.1
+175 silly fetch manifest binary-extensions@^2.0.0
+176 silly fetch manifest picomatch@^2.2.1
+177 http fetch GET 200 https://registry.npmjs.org/fill-range 47ms (cache revalidated)
+178 http fetch GET 200 https://registry.npmjs.org/binary-extensions 49ms (cache revalidated)
+179 http fetch GET 200 https://registry.npmjs.org/picomatch 253ms (cache revalidated)
+180 timing idealTree:node_modules/chokidar Completed in 257ms
+181 silly placeDep ROOT picomatch@2.3.1 OK for: anymatch@3.1.2 want: ^2.0.4
+182 timing idealTree:node_modules/anymatch Completed in 1ms
+183 silly placeDep ROOT fill-range@7.0.1 OK for: braces@3.0.2 want: ^7.0.1
+184 silly fetch manifest to-regex-range@^5.0.1
+185 http fetch GET 200 https://registry.npmjs.org/to-regex-range 45ms (cache revalidated)
+186 timing idealTree:node_modules/braces Completed in 47ms
+187 silly placeDep ROOT acorn-node@1.8.2 OK for: detective@5.2.0 want: ^1.6.1
+188 silly placeDep ROOT defined@1.0.0 OK for: detective@5.2.0 want: ^1.0.0
+189 silly placeDep ROOT minimist@1.2.6 OK for: detective@5.2.0 want: ^1.1.1
+190 silly fetch manifest acorn@^7.0.0
+191 silly fetch manifest acorn-walk@^7.0.0
+192 silly fetch manifest xtend@^4.0.2
+193 http fetch GET 200 https://registry.npmjs.org/acorn 10ms (cache hit)
+194 http fetch GET 200 https://registry.npmjs.org/xtend 46ms (cache revalidated)
+195 http fetch GET 200 https://registry.npmjs.org/acorn-walk 50ms (cache revalidated)
+196 timing idealTree:node_modules/detective Completed in 53ms
+197 silly placeDep node_modules/acorn-node acorn@7.4.1 OK for: acorn-node@1.8.2 want: ^7.0.0
+198 silly placeDep ROOT acorn-walk@7.2.0 OK for: acorn-node@1.8.2 want: ^7.0.0
+199 silly placeDep ROOT xtend@4.0.2 OK for: acorn-node@1.8.2 want: ^4.0.2
+200 timing idealTree:node_modules/acorn-node Completed in 2ms
+201 timing idealTree:node_modules/acorn-walk Completed in 0ms
+202 timing idealTree:node_modules/defined Completed in 0ms
+203 timing idealTree:node_modules/didyoumean Completed in 0ms
+204 timing idealTree:node_modules/dlv Completed in 0ms
+205 silly placeDep ROOT @nodelib/fs.stat@2.0.5 OK for: fast-glob@3.2.11 want: ^2.0.2
+206 silly placeDep ROOT @nodelib/fs.walk@1.2.8 OK for: fast-glob@3.2.11 want: ^1.2.3
+207 silly placeDep node_modules/fast-glob glob-parent@5.1.2 OK for: fast-glob@3.2.11 want: ^5.1.2
+208 silly placeDep ROOT merge2@1.4.1 OK for: fast-glob@3.2.11 want: ^1.3.0
+209 silly placeDep ROOT micromatch@4.0.5 OK for: fast-glob@3.2.11 want: ^4.0.4
+210 silly fetch manifest @nodelib/fs.scandir@2.1.5
+211 silly fetch manifest fastq@^1.6.0
+212 http fetch GET 200 https://registry.npmjs.org/fastq 54ms (cache revalidated)
+213 http fetch GET 200 https://registry.npmjs.org/@nodelib%2ffs.scandir 75ms (cache revalidated)
+214 timing idealTree:node_modules/fast-glob Completed in 81ms
+215 timing idealTree:node_modules/@nodelib/fs.stat Completed in 0ms
+216 silly placeDep ROOT @nodelib/fs.scandir@2.1.5 OK for: @nodelib/fs.walk@1.2.8 want: 2.1.5
+217 silly placeDep ROOT fastq@1.13.0 OK for: @nodelib/fs.walk@1.2.8 want: ^1.6.0
+218 silly fetch manifest run-parallel@^1.1.9
+219 silly fetch manifest reusify@^1.0.4
+220 http fetch GET 200 https://registry.npmjs.org/reusify 52ms (cache revalidated)
+221 http fetch GET 200 https://registry.npmjs.org/run-parallel 55ms (cache revalidated)
+222 timing idealTree:node_modules/@nodelib/fs.walk Completed in 61ms
+223 silly placeDep ROOT run-parallel@1.2.0 OK for: @nodelib/fs.scandir@2.1.5 want: ^1.1.9
+224 silly fetch manifest queue-microtask@^1.2.2
+225 http fetch GET 200 https://registry.npmjs.org/queue-microtask 50ms (cache revalidated)
+226 timing idealTree:node_modules/@nodelib/fs.scandir Completed in 52ms
+227 silly placeDep ROOT reusify@1.0.4 OK for: fastq@1.13.0 want: ^1.0.4
+228 timing idealTree:node_modules/fastq Completed in 3ms
+229 silly placeDep ROOT to-regex-range@5.0.1 OK for: fill-range@7.0.1 want: ^5.0.1
+230 silly fetch manifest is-number@^7.0.0
+231 http fetch GET 200 https://registry.npmjs.org/is-number 62ms (cache revalidated)
+232 timing idealTree:node_modules/fill-range Completed in 67ms
+233 timing idealTree:node_modules/fsevents Completed in 0ms
+234 timing idealTree:node_modules/glob-parent Completed in 0ms
+235 silly placeDep ROOT binary-extensions@2.2.0 OK for: is-binary-path@2.1.0 want: ^2.0.0
+236 timing idealTree:node_modules/is-binary-path Completed in 0ms
+237 timing idealTree:node_modules/binary-extensions Completed in 0ms
+238 silly placeDep ROOT is-extglob@2.1.1 OK for: is-glob@4.0.3 want: ^2.1.1
+239 timing idealTree:node_modules/is-glob Completed in 0ms
+240 timing idealTree:node_modules/is-extglob Completed in 0ms
+241 timing idealTree:node_modules/merge2 Completed in 0ms
+242 timing idealTree:node_modules/micromatch Completed in 0ms
+243 timing idealTree:node_modules/minimist Completed in 0ms
+244 timing idealTree:node_modules/normalize-path Completed in 0ms
+245 timing idealTree:node_modules/object-hash Completed in 0ms
+246 timing idealTree:node_modules/picomatch Completed in 0ms
+247 silly placeDep ROOT camelcase-css@2.0.1 OK for: postcss-js@4.0.0 want: ^2.0.1
+248 timing idealTree:node_modules/postcss-js Completed in 1ms
+249 timing idealTree:node_modules/camelcase-css Completed in 0ms
+250 silly placeDep ROOT lilconfig@2.0.5 OK for: postcss-load-config@3.1.4 want: ^2.0.5
+251 timing idealTree:node_modules/postcss-load-config Completed in 1ms
+252 timing idealTree:node_modules/lilconfig Completed in 0ms
+253 timing idealTree:node_modules/postcss-nested Completed in 0ms
+254 silly placeDep ROOT cssesc@3.0.0 OK for: postcss-selector-parser@6.0.10 want: ^3.0.0
+255 silly placeDep ROOT util-deprecate@1.0.2 OK for: postcss-selector-parser@6.0.10 want: ^1.0.2
+256 timing idealTree:node_modules/postcss-selector-parser Completed in 1ms
+257 timing idealTree:node_modules/cssesc Completed in 0ms
+258 timing idealTree:node_modules/quick-lru Completed in 0ms
+259 timing idealTree:node_modules/readdirp Completed in 0ms
+260 silly placeDep ROOT is-core-module@2.8.1 OK for: resolve@1.22.0 want: ^2.8.1
+261 silly placeDep ROOT path-parse@1.0.7 OK for: resolve@1.22.0 want: ^1.0.7
+262 silly placeDep ROOT supports-preserve-symlinks-flag@1.0.0 OK for: resolve@1.22.0 want: ^1.0.0
+263 silly fetch manifest has@^1.0.3
+264 http fetch GET 200 https://registry.npmjs.org/has 52ms (cache revalidated)
+265 timing idealTree:node_modules/resolve Completed in 56ms
+266 silly placeDep ROOT has@1.0.3 OK for: is-core-module@2.8.1 want: ^1.0.3
+267 silly fetch manifest function-bind@^1.1.1
+268 http fetch GET 200 https://registry.npmjs.org/function-bind 49ms (cache revalidated)
+269 timing idealTree:node_modules/is-core-module Completed in 54ms
+270 silly placeDep ROOT function-bind@1.1.1 OK for: has@1.0.3 want: ^1.1.1
+271 timing idealTree:node_modules/has Completed in 1ms
+272 timing idealTree:node_modules/function-bind Completed in 0ms
+273 timing idealTree:node_modules/path-parse Completed in 0ms
+274 timing idealTree:node_modules/reusify Completed in 0ms
+275 silly placeDep ROOT queue-microtask@1.2.3 OK for: run-parallel@1.2.0 want: ^1.2.2
+276 timing idealTree:node_modules/run-parallel Completed in 0ms
+277 timing idealTree:node_modules/queue-microtask Completed in 0ms
+278 timing idealTree:node_modules/supports-preserve-symlinks-flag Completed in 0ms
+279 silly placeDep ROOT is-number@7.0.0 OK for: to-regex-range@5.0.1 want: ^7.0.0
+280 timing idealTree:node_modules/to-regex-range Completed in 0ms
+281 timing idealTree:node_modules/is-number Completed in 0ms
+282 timing idealTree:node_modules/util-deprecate Completed in 0ms
+283 timing idealTree:node_modules/xtend Completed in 0ms
+284 timing idealTree:node_modules/acorn-node/node_modules/acorn Completed in 0ms
+285 timing idealTree:node_modules/chokidar/node_modules/glob-parent Completed in 0ms
+286 timing idealTree:node_modules/fast-glob/node_modules/glob-parent Completed in 0ms
+287 timing idealTree:buildDeps Completed in 3386ms
+288 timing idealTree:fixDepFlags Completed in 1ms
+289 timing idealTree Completed in 3464ms
+290 timing reify:loadTrees Completed in 3464ms
+291 timing reify:diffTrees Completed in 4ms
+292 silly reify mark retired [
+292 silly reify   '/home/smelladoc/node_modules/node-gyp-build',
+292 silly reify   '/home/smelladoc/node_modules/.bin/node-gyp-build',
+292 silly reify   '/home/smelladoc/node_modules/.bin/node-gyp-build-optional',
+292 silly reify   '/home/smelladoc/node_modules/.bin/node-gyp-build-test'
+292 silly reify ]
+293 silly reify moves {
+293 silly reify   '/home/smelladoc/node_modules/node-gyp-build': '/home/smelladoc/node_modules/.node-gyp-build-NkD6kP9T',
+293 silly reify   '/home/smelladoc/node_modules/.bin/node-gyp-build': '/home/smelladoc/node_modules/.bin/.node-gyp-build-7JNzCxES',
+293 silly reify   '/home/smelladoc/node_modules/.bin/node-gyp-build-optional': '/home/smelladoc/node_modules/.bin/.node-gyp-build-optional-azitOr09',
+293 silly reify   '/home/smelladoc/node_modules/.bin/node-gyp-build-test': '/home/smelladoc/node_modules/.bin/.node-gyp-build-test-D204KGRo'
+293 silly reify }
+294 timing reify:retireShallow Completed in 3ms
+295 timing reify:createSparse Completed in 13ms
+296 timing reify:loadBundles Completed in 0ms
+297 silly audit bulk request {
+297 silly audit   '@babel/code-frame': [ '7.16.7' ],
+297 silly audit   '@babel/helper-validator-identifier': [ '7.16.7' ],
+297 silly audit   '@babel/highlight': [ '7.17.9' ],
+297 silly audit   'ansi-styles': [ '3.2.1', '4.3.0' ],
+297 silly audit   chalk: [ '2.4.2', '4.1.2' ],
+297 silly audit   'color-convert': [ '1.9.3', '2.0.1' ],
+297 silly audit   'color-name': [ '1.1.3', '1.1.4' ],
+297 silly audit   'has-flag': [ '3.0.0', '4.0.0' ],
+297 silly audit   'supports-color': [ '5.5.0', '7.2.0' ],
+297 silly audit   '@parcel/bundler-default': [ '2.4.1' ],
+297 silly audit   '@parcel/cache': [ '2.4.1' ],
+297 silly audit   '@parcel/codeframe': [ '2.4.1' ],
+297 silly audit   '@parcel/compressor-raw': [ '2.4.1' ],
+297 silly audit   '@parcel/config-default': [ '2.4.1' ],
+297 silly audit   '@parcel/core': [ '2.4.1' ],
+297 silly audit   '@parcel/css': [ '1.8.1' ],
+297 silly audit   '@parcel/css-darwin-arm64': [ '1.8.1' ],
+297 silly audit   '@parcel/css-darwin-x64': [ '1.8.1' ],
+297 silly audit   '@parcel/css-linux-arm-gnueabihf': [ '1.8.1' ],
+297 silly audit   '@parcel/css-linux-arm64-gnu': [ '1.8.1' ],
+297 silly audit   '@parcel/css-linux-arm64-musl': [ '1.8.1' ],
+297 silly audit   '@parcel/css-linux-x64-gnu': [ '1.8.1' ],
+297 silly audit   '@parcel/css-linux-x64-musl': [ '1.8.1' ],
+297 silly audit   '@parcel/css-win32-x64-msvc': [ '1.8.1' ],
+297 silly audit   '@parcel/diagnostic': [ '2.4.1' ],
+297 silly audit   '@parcel/events': [ '2.4.1' ],
+297 silly audit   '@parcel/fs': [ '2.4.1' ],
+297 silly audit   '@parcel/fs-search': [ '2.4.1' ],
+297 silly audit   '@parcel/graph': [ '2.4.1' ],
+297 silly audit   '@parcel/hash': [ '2.4.1' ],
+297 silly audit   '@parcel/logger': [ '2.4.1' ],
+297 silly audit   '@parcel/markdown-ansi': [ '2.4.1' ],
+297 silly audit   '@parcel/namer-default': [ '2.4.1' ],
+297 silly audit   '@parcel/node-resolver-core': [ '2.4.1' ],
+297 silly audit   '@parcel/optimizer-css': [ '2.4.1' ],
+297 silly audit   '@parcel/optimizer-htmlnano': [ '2.4.1' ],
+297 silly audit   '@parcel/optimizer-image': [ '2.4.1' ],
+297 silly audit   '@parcel/optimizer-svgo': [ '2.4.1' ],
+297 silly audit   '@parcel/optimizer-terser': [ '2.4.1' ],
+297 silly audit   '@parcel/package-manager': [ '2.4.1' ],
+297 silly audit   '@parcel/packager-css': [ '2.4.1' ],
+297 silly audit   '@parcel/packager-html': [ '2.4.1' ],
+297 silly audit   '@parcel/packager-js': [ '2.4.1' ],
+297 silly audit   '@parcel/packager-raw': [ '2.4.1' ],
+297 silly audit   '@parcel/packager-svg': [ '2.4.1' ],
+297 silly audit   '@parcel/plugin': [ '2.4.1' ],
+297 silly audit   '@parcel/reporter-cli': [ '2.4.1' ],
+297 silly audit   '@parcel/reporter-dev-server': [ '2.4.1' ],
+297 silly audit   '@parcel/resolver-default': [ '2.4.1' ],
+297 silly audit   '@parcel/runtime-browser-hmr': [ '2.4.1' ],
+297 silly audit   '@parcel/runtime-js': [ '2.4.1' ],
+297 silly audit   '@parcel/runtime-react-refresh': [ '2.4.1' ],
+297 silly audit   '@parcel/runtime-service-worker': [ '2.4.1' ],
+297 silly audit   '@parcel/source-map': [ '2.0.2' ],
+297 silly audit   '@parcel/transformer-babel': [ '2.4.1' ],
+297 silly audit   '@parcel/transformer-css': [ '2.4.1' ],
+297 silly audit   '@parcel/transformer-html': [ '2.4.1' ],
+297 silly audit   '@parcel/transformer-image': [ '2.4.1' ],
+297 silly audit   '@parcel/transformer-js': [ '2.4.1' ],
+297 silly audit   '@parcel/transformer-json': [ '2.4.1' ],
+297 silly audit   '@parcel/transformer-postcss': [ '2.4.1' ],
+297 silly audit   '@parcel/transformer-posthtml': [ '2.4.1' ],
+297 silly audit   '@parcel/transformer-raw': [ '2.4.1' ],
+297 silly audit   '@parcel/transformer-react-refresh-wrap': [ '2.4.1' ],
+297 silly audit   '@parcel/transformer-svg': [ '2.4.1' ],
+297 silly audit   '@parcel/types': [ '2.4.1' ],
+297 silly audit   '@parcel/utils': [ '2.4.1' ],
+297 silly audit   '@parcel/watcher': [ '2.0.5' ],
+297 silly audit   '@parcel/workers': [ '2.4.1' ],
+297 silly audit   '@swc/helpers': [ '0.3.8' ],
+297 silly audit   '@trysound/sax': [ '0.2.0' ],
+297 silly audit   '@types/parse-json': [ '4.0.0' ],
+297 silly audit   'abortcontroller-polyfill': [ '1.7.3' ],
+297 silly audit   acorn: [ '8.7.0', '7.4.1' ],
+297 silly audit   'base-x': [ '3.0.9' ],
+297 silly audit   boolbase: [ '1.0.0' ],
+297 silly audit   browserslist: [ '4.20.2' ],
+297 silly audit   'buffer-from': [ '1.1.2' ],
+297 silly audit   callsites: [ '3.1.0' ],
+297 silly audit   'caniuse-lite': [ '1.0.30001327' ],
+297 silly audit   'chrome-trace-event': [ '1.0.3' ],
+297 silly audit   clone: [ '2.1.2' ],
+297 silly audit   commander: [ '7.2.0', '2.20.3' ],
+297 silly audit   cosmiconfig: [ '7.0.1' ],
+297 silly audit   'css-select': [ '4.3.0' ],
+297 silly audit   'css-tree': [ '1.1.3' ],
+297 silly audit   'css-what': [ '6.1.0' ],
+297 silly audit   csso: [ '4.2.0' ],
+297 silly audit   'detect-libc': [ '1.0.3' ],
+297 silly audit   'dom-serializer': [ '1.4.1' ],
+297 silly audit   entities: [ '2.2.0', '3.0.1' ],
+297 silly audit   domelementtype: [ '2.3.0' ],
+297 silly audit   domhandler: [ '4.3.1' ],
+297 silly audit   domutils: [ '2.8.0' ],
+297 silly audit   dotenv: [ '7.0.0' ],
+297 silly audit   'dotenv-expand': [ '5.1.0' ],
+297 silly audit   'electron-to-chromium': [ '1.4.106' ],
+297 silly audit   'error-ex': [ '1.3.2' ],
+297 silly audit   escalade: [ '3.1.1' ],
+297 silly audit   'escape-string-regexp': [ '1.0.5' ],
+297 silly audit   'get-port': [ '4.2.0' ],
+297 silly audit   globals: [ '13.13.0' ],
+297 silly audit   htmlnano: [ '2.0.2' ],
+297 silly audit   htmlparser2: [ '7.2.0' ],
+297 silly audit   'import-fresh': [ '3.3.0' ],
+297 silly audit   'is-arrayish': [ '0.2.1' ],
+297 silly audit   'is-json': [ '2.0.1' ],
+297 silly audit   'js-tokens': [ '4.0.0' ],
+297 silly audit   'json-parse-even-better-errors': [ '2.3.1' ],
+297 silly audit   'json-source-map': [ '0.6.1' ],
+297 silly audit   json5: [ '2.2.1' ],
+297 silly audit   'lines-and-columns': [ '1.2.4' ],
+297 silly audit   lmdb: [ '2.2.4' ],
+297 silly audit   'mdn-data': [ '2.0.14' ],
+297 silly audit   msgpackr: [ '1.5.5' ],
+297 silly audit   'msgpackr-extract': [ '1.1.4' ],
+297 silly audit   'msgpackr-extract-darwin-arm64': [ '1.1.0' ],
+297 silly audit   'msgpackr-extract-darwin-x64': [ '1.1.0' ],
+297 silly audit   'msgpackr-extract-linux-arm': [ '1.1.0' ],
+297 silly audit   'msgpackr-extract-linux-arm64': [ '1.1.0' ],
+297 silly audit   'msgpackr-extract-linux-x64': [ '1.1.0' ],
+297 silly audit   'msgpackr-extract-win32-x64': [ '1.1.0' ],
+297 silly audit   nan: [ '2.15.0' ],
+297 silly audit   'node-addon-api': [ '3.2.1' ],
+297 silly audit   'node-gyp-build': [ '4.4.0' ],
+297 silly audit   'node-gyp-build-optional-packages': [ '4.3.2' ],
+297 silly audit   'node-releases': [ '2.0.3' ],
+297 silly audit   'nth-check': [ '2.0.1' ],
+297 silly audit   nullthrows: [ '1.1.1' ],
+297 silly audit   'ordered-binary': [ '1.2.5' ],
+297 silly audit   parcel: [ '2.4.1' ],
+297 silly audit   'parent-module': [ '1.0.1' ],
+297 silly audit   'parse-json': [ '5.2.0' ],
+297 silly audit   'path-type': [ '4.0.0' ],
+297 silly audit   picocolors: [ '1.0.0' ],
+297 silly audit   'postcss-value-parser': [ '4.2.0' ],
+297 silly audit   posthtml: [ '0.16.6' ],
+297 silly audit   'posthtml-parser': [ '0.10.2', '0.11.0' ],
+297 silly audit   'posthtml-render': [ '3.0.0' ],
+297 silly audit   'react-refresh': [ '0.9.0' ],
+297 silly audit   'regenerator-runtime': [ '0.13.9' ],
+297 silly audit   'resolve-from': [ '4.0.0' ],
+297 silly audit   'safe-buffer': [ '5.2.1' ],
+297 silly audit   semver: [ '5.7.1' ],
+297 silly audit   'source-map': [ '0.6.1', '0.7.3' ],
+297 silly audit   'source-map-support': [ '0.5.21' ],
+297 silly audit   stable: [ '0.1.8' ],
+297 silly audit   svgo: [ '2.8.0' ],
+297 silly audit   'term-size': [ '2.2.1' ],
+297 silly audit   terser: [ '5.12.1' ],
+297 silly audit   timsort: [ '0.3.0' ],
+297 silly audit   'type-fest': [ '0.20.2' ],
+297 silly audit   'utility-types': [ '3.10.0' ],
+297 silly audit   'v8-compile-cache': [ '2.3.0' ],
+297 silly audit   'weak-lru-cache': [ '1.2.2' ],
+297 silly audit   'xxhash-wasm': [ '0.4.2' ],
+297 silly audit   yaml: [ '1.10.2' ],
+297 silly audit   tailwindcss: [ '3.0.23' ],
+297 silly audit   autoprefixer: [ '10.4.4' ],
+297 silly audit   postcss: [ '8.4.12' ],
+297 silly audit   'fraction.js': [ '4.2.0' ],
+297 silly audit   'normalize-range': [ '0.1.2' ],
+297 silly audit   nanoid: [ '3.3.2' ],
+297 silly audit   'source-map-js': [ '1.0.2' ],
+297 silly audit   arg: [ '5.0.1' ],
+297 silly audit   chokidar: [ '3.5.3' ],
+297 silly audit   detective: [ '5.2.0' ],
+297 silly audit   didyoumean: [ '1.2.2' ],
+297 silly audit   dlv: [ '1.1.3' ],
+297 silly audit   'fast-glob': [ '3.2.11' ],
+297 silly audit   'glob-parent': [ '6.0.2', '5.1.2' ],
+297 silly audit   'is-glob': [ '4.0.3' ],
+297 silly audit   'normalize-path': [ '3.0.0' ],
+297 silly audit   'object-hash': [ '2.2.0' ],
+297 silly audit   'postcss-js': [ '4.0.0' ],
+297 silly audit   'postcss-load-config': [ '3.1.4' ],
+297 silly audit   'postcss-nested': [ '5.0.6' ],
+297 silly audit   'postcss-selector-parser': [ '6.0.10' ],
+297 silly audit   'quick-lru': [ '5.1.1' ],
+297 silly audit   resolve: [ '1.22.0' ],
+297 silly audit   anymatch: [ '3.1.2' ],
+297 silly audit   braces: [ '3.0.2' ],
+297 silly audit   fsevents: [ '2.3.2' ],
+297 silly audit   'is-binary-path': [ '2.1.0' ],
+297 silly audit   readdirp: [ '3.6.0' ],
+297 silly audit   picomatch: [ '2.3.1' ],
+297 silly audit   'fill-range': [ '7.0.1' ],
+297 silly audit   'acorn-node': [ '1.8.2' ],
+297 silly audit   defined: [ '1.0.0' ],
+297 silly audit   minimist: [ '1.2.6' ],
+297 silly audit   'acorn-walk': [ '7.2.0' ],
+297 silly audit   xtend: [ '4.0.2' ],
+297 silly audit   '@nodelib/fs.stat': [ '2.0.5' ],
+297 silly audit   '@nodelib/fs.walk': [ '1.2.8' ],
+297 silly audit   merge2: [ '1.4.1' ],
+297 silly audit   micromatch: [ '4.0.5' ],
+297 silly audit   '@nodelib/fs.scandir': [ '2.1.5' ],
+297 silly audit   fastq: [ '1.13.0' ],
+297 silly audit   'run-parallel': [ '1.2.0' ],
+297 silly audit   reusify: [ '1.0.4' ],
+297 silly audit   'to-regex-range': [ '5.0.1' ],
+297 silly audit   'binary-extensions': [ '2.2.0' ],
+297 silly audit   'is-extglob': [ '2.1.1' ],
+297 silly audit   'camelcase-css': [ '2.0.1' ],
+297 silly audit   lilconfig: [ '2.0.5' ],
+297 silly audit   cssesc: [ '3.0.0' ],
+297 silly audit   'util-deprecate': [ '1.0.2' ],
+297 silly audit   'is-core-module': [ '2.8.1' ],
+297 silly audit   'path-parse': [ '1.0.7' ],
+297 silly audit   'supports-preserve-symlinks-flag': [ '1.0.0' ],
+297 silly audit   has: [ '1.0.3' ],
+297 silly audit   'function-bind': [ '1.1.1' ],
+297 silly audit   'queue-microtask': [ '1.2.3' ],
+297 silly audit   'is-number': [ '7.0.0' ]
+297 silly audit }
+298 verbose reify failed optional dependency /home/smelladoc/node_modules/fsevents
+299 silly reify mark deleted [ '/home/smelladoc/node_modules/fsevents' ]
+300 verbose reify failed optional dependency /home/smelladoc/node_modules/msgpackr-extract-win32-x64
+301 silly reify mark deleted [ '/home/smelladoc/node_modules/msgpackr-extract-win32-x64' ]
+302 verbose reify failed optional dependency /home/smelladoc/node_modules/msgpackr-extract-linux-arm64
+303 silly reify mark deleted [ '/home/smelladoc/node_modules/msgpackr-extract-linux-arm64' ]
+304 verbose reify failed optional dependency /home/smelladoc/node_modules/msgpackr-extract-linux-arm
+305 silly reify mark deleted [ '/home/smelladoc/node_modules/msgpackr-extract-linux-arm' ]
+306 verbose reify failed optional dependency /home/smelladoc/node_modules/msgpackr-extract-darwin-x64
+307 silly reify mark deleted [ '/home/smelladoc/node_modules/msgpackr-extract-darwin-x64' ]
+308 verbose reify failed optional dependency /home/smelladoc/node_modules/msgpackr-extract-darwin-arm64
+309 silly reify mark deleted [ '/home/smelladoc/node_modules/msgpackr-extract-darwin-arm64' ]
+310 verbose reify failed optional dependency /home/smelladoc/node_modules/@parcel/css-win32-x64-msvc
+311 silly reify mark deleted [ '/home/smelladoc/node_modules/@parcel/css-win32-x64-msvc' ]
+312 verbose reify failed optional dependency /home/smelladoc/node_modules/@parcel/css-linux-arm64-musl
+313 silly reify mark deleted [ '/home/smelladoc/node_modules/@parcel/css-linux-arm64-musl' ]
+314 verbose reify failed optional dependency /home/smelladoc/node_modules/@parcel/css-linux-arm64-gnu
+315 silly reify mark deleted [ '/home/smelladoc/node_modules/@parcel/css-linux-arm64-gnu' ]
+316 verbose reify failed optional dependency /home/smelladoc/node_modules/@parcel/css-linux-arm-gnueabihf
+317 silly reify mark deleted [ '/home/smelladoc/node_modules/@parcel/css-linux-arm-gnueabihf' ]
+318 verbose reify failed optional dependency /home/smelladoc/node_modules/@parcel/css-darwin-x64
+319 silly reify mark deleted [ '/home/smelladoc/node_modules/@parcel/css-darwin-x64' ]
+320 verbose reify failed optional dependency /home/smelladoc/node_modules/@parcel/css-darwin-arm64
+321 silly reify mark deleted [ '/home/smelladoc/node_modules/@parcel/css-darwin-arm64' ]
+322 timing reifyNode:node_modules/fsevents Completed in 13ms
+323 timing reifyNode:node_modules/msgpackr-extract-win32-x64 Completed in 12ms
+324 timing reifyNode:node_modules/msgpackr-extract-linux-arm64 Completed in 12ms
+325 timing reifyNode:node_modules/msgpackr-extract-linux-arm Completed in 12ms
+326 timing reifyNode:node_modules/msgpackr-extract-darwin-x64 Completed in 12ms
+327 timing reifyNode:node_modules/msgpackr-extract-darwin-arm64 Completed in 12ms
+328 timing reifyNode:node_modules/@parcel/css-win32-x64-msvc Completed in 11ms
+329 timing reifyNode:node_modules/@parcel/css-linux-arm64-musl Completed in 11ms
+330 timing reifyNode:node_modules/@parcel/css-linux-arm64-gnu Completed in 11ms
+331 timing reifyNode:node_modules/@parcel/css-linux-arm-gnueabihf Completed in 11ms
+332 timing reifyNode:node_modules/@parcel/css-darwin-x64 Completed in 11ms
+333 timing reifyNode:node_modules/@parcel/css-darwin-arm64 Completed in 11ms
+334 timing reifyNode:node_modules/is-number Completed in 261ms
+335 timing reifyNode:node_modules/path-parse Completed in 261ms
+336 timing reifyNode:node_modules/is-extglob Completed in 261ms
+337 timing reifyNode:node_modules/run-parallel Completed in 261ms
+338 timing reifyNode:node_modules/merge2 Completed in 261ms
+339 timing reifyNode:node_modules/normalize-path Completed in 262ms
+340 timing reifyNode:node_modules/glob-parent Completed in 263ms
+341 timing reifyNode:node_modules/normalize-range Completed in 264ms
+342 timing reifyNode:node_modules/camelcase-css Completed in 267ms
+343 timing reifyNode:node_modules/queue-microtask Completed in 268ms
+344 timing reifyNode:node_modules/lilconfig Completed in 268ms
+345 timing reifyNode:node_modules/to-regex-range Completed in 268ms
+346 timing reifyNode:node_modules/fill-range Completed in 268ms
+347 timing reifyNode:node_modules/is-binary-path Completed in 268ms
+348 timing reifyNode:node_modules/anymatch Completed in 268ms
+349 timing reifyNode:node_modules/quick-lru Completed in 268ms
+350 timing reifyNode:node_modules/postcss-nested Completed in 268ms
+351 timing reifyNode:node_modules/is-glob Completed in 269ms
+352 timing reifyNode:node_modules/didyoumean Completed in 268ms
+353 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 273ms
+354 timing auditReport:getReport Completed in 276ms
+355 silly audit report {}
+356 timing auditReport:init Completed in 0ms
+357 timing reify:audit Completed in 277ms
+358 timing reifyNode:node_modules/arg Completed in 271ms
+359 timing reifyNode:node_modules/fast-glob/node_modules/glob-parent Completed in 271ms
+360 timing reifyNode:node_modules/chokidar/node_modules/glob-parent Completed in 271ms
+361 timing reifyNode:node_modules/util-deprecate Completed in 274ms
+362 timing reifyNode:node_modules/micromatch Completed in 274ms
+363 timing reifyNode:node_modules/binary-extensions Completed in 278ms
+364 timing reifyNode:node_modules/has Completed in 279ms
+365 timing reifyNode:node_modules/xtend Completed in 278ms
+366 timing reifyNode:node_modules/readdirp Completed in 279ms
+367 timing reifyNode:node_modules/msgpackr-extract Completed in 279ms
+368 timing reifyNode:node_modules/node-gyp-build-optional-packages Completed in 282ms
+369 timing reifyNode:node_modules/node-gyp-build Completed in 281ms
+370 timing reifyNode:node_modules/cssesc Completed in 287ms
+371 timing reifyNode:node_modules/defined Completed in 287ms
+372 timing reifyNode:node_modules/object-hash Completed in 288ms
+373 timing reifyNode:node_modules/postcss-js Completed in 288ms
+374 timing reifyNode:node_modules/dlv Completed in 287ms
+375 timing reifyNode:node_modules/reusify Completed in 290ms
+376 timing reifyNode:node_modules/postcss-load-config Completed in 290ms
+377 timing reifyNode:node_modules/supports-preserve-symlinks-flag Completed in 293ms
+378 timing reifyNode:node_modules/is-core-module Completed in 295ms
+379 timing reifyNode:node_modules/function-bind Completed in 300ms
+380 timing reifyNode:node_modules/fraction.js Completed in 298ms
+381 timing reifyNode:node_modules/braces Completed in 300ms
+382 timing reifyNode:node_modules/chokidar Completed in 304ms
+383 timing reifyNode:node_modules/picomatch Completed in 305ms
+384 timing reifyNode:node_modules/acorn-walk Completed in 308ms
+385 timing reifyNode:node_modules/fastq Completed in 311ms
+386 timing reifyNode:node_modules/@nodelib/fs.stat Completed in 318ms
+387 timing reifyNode:node_modules/minimist Completed in 320ms
+388 timing reifyNode:node_modules/source-map-js Completed in 325ms
+389 timing reifyNode:node_modules/@nodelib/fs.scandir Completed in 328ms
+390 timing reifyNode:node_modules/nanoid Completed in 326ms
+391 timing reifyNode:node_modules/@nodelib/fs.walk Completed in 333ms
+392 timing reifyNode:node_modules/acorn-node Completed in 339ms
+393 timing reifyNode:node_modules/detective Completed in 343ms
+394 timing reifyNode:node_modules/postcss-selector-parser Completed in 354ms
+395 timing reifyNode:node_modules/postcss Completed in 362ms
+396 timing reifyNode:node_modules/fast-glob Completed in 364ms
+397 timing reifyNode:node_modules/acorn-node/node_modules/acorn Completed in 368ms
+398 timing reifyNode:node_modules/autoprefixer Completed in 374ms
+399 timing reifyNode:node_modules/resolve Completed in 393ms
+400 timing reifyNode:node_modules/tailwindcss Completed in 422ms
+401 timing reify:unpack Completed in 425ms
+402 timing reify:unretire Completed in 1ms
+403 timing build:queue Completed in 3ms
+404 timing build:link:node_modules/autoprefixer Completed in 6ms
+405 timing build:link:node_modules/cssesc Completed in 6ms
+406 timing build:link:node_modules/detective Completed in 6ms
+407 timing build:link:node_modules/nanoid Completed in 6ms
+408 timing build:link:node_modules/node-gyp-build Completed in 6ms
+409 timing build:link:node_modules/node-gyp-build-optional-packages Completed in 5ms
+410 timing build:link:node_modules/resolve Completed in 5ms
+411 timing build:link:node_modules/tailwindcss Completed in 5ms
+412 timing build:link:node_modules/acorn-node/node_modules/acorn Completed in 5ms
+413 timing build:link Completed in 6ms
+414 info run msgpackr-extract@1.1.4 install node_modules/msgpackr-extract node-gyp-build-optional-packages
+415 info run msgpackr-extract@1.1.4 install { code: 1, signal: null }
+416 verbose reify failed optional dependency /home/smelladoc/node_modules/msgpackr-extract
+417 silly reify mark deleted [ '/home/smelladoc/node_modules/msgpackr-extract' ]
+418 verbose reify failed optional dependency /home/smelladoc/node_modules/node-gyp-build-optional-packages
+419 silly reify mark deleted [
+419 silly reify   '/home/smelladoc/node_modules/node-gyp-build-optional-packages',
+419 silly reify   '/home/smelladoc/node_modules/.bin/node-gyp-build-optional',
+419 silly reify   '/home/smelladoc/node_modules/.bin/node-gyp-build-optional-packages',
+419 silly reify   '/home/smelladoc/node_modules/.bin/node-gyp-build-test'
+419 silly reify ]
+420 timing build:run:install:node_modules/msgpackr-extract Completed in 341ms
+421 timing build:run:install Completed in 341ms
+422 timing build:deps Completed in 351ms
+423 timing build Completed in 351ms
+424 timing reify:build Completed in 351ms
+425 timing reify:trash Completed in 5ms
+426 timing reify:save Completed in 24ms
+427 timing reify Completed in 4311ms
+428 silly ADD node_modules/is-number
+429 silly ADD node_modules/queue-microtask
+430 silly ADD node_modules/function-bind
+431 silly ADD node_modules/has
+432 silly ADD node_modules/supports-preserve-symlinks-flag
+433 silly ADD node_modules/path-parse
+434 silly ADD node_modules/is-core-module
+435 silly ADD node_modules/util-deprecate
+436 silly ADD node_modules/cssesc
+437 silly ADD node_modules/lilconfig
+438 silly ADD node_modules/camelcase-css
+439 silly ADD node_modules/is-extglob
+440 silly ADD node_modules/binary-extensions
+441 silly ADD node_modules/to-regex-range
+442 silly ADD node_modules/reusify
+443 silly ADD node_modules/run-parallel
+444 silly ADD node_modules/fastq
+445 silly ADD node_modules/@nodelib/fs.scandir
+446 silly ADD node_modules/micromatch
+447 silly ADD node_modules/merge2
+448 silly ADD node_modules/@nodelib/fs.walk
+449 silly ADD node_modules/@nodelib/fs.stat
+450 silly ADD node_modules/xtend
+451 silly ADD node_modules/acorn-walk
+452 silly ADD node_modules/minimist
+453 silly ADD node_modules/defined
+454 silly ADD node_modules/acorn-node
+455 silly ADD node_modules/acorn-node/node_modules/acorn
+456 silly ADD node_modules/fill-range
+457 silly ADD node_modules/picomatch
+458 silly ADD node_modules/readdirp
+459 silly ADD node_modules/is-binary-path
+460 silly ADD
+461 silly ADD node_modules/braces
+462 silly ADD node_modules/anymatch
+463 silly ADD node_modules/resolve
+464 silly ADD node_modules/quick-lru
+465 silly ADD node_modules/postcss-selector-parser
+466 silly ADD node_modules/postcss-nested
+467 silly ADD node_modules/postcss-load-config
+468 silly ADD node_modules/postcss-js
+469 silly ADD node_modules/object-hash
+470 silly ADD node_modules/normalize-path
+471 silly ADD node_modules/is-glob
+472 silly ADD node_modules/glob-parent
+473 silly ADD node_modules/fast-glob
+474 silly ADD node_modules/fast-glob/node_modules/glob-parent
+475 silly ADD node_modules/dlv
+476 silly ADD node_modules/didyoumean
+477 silly ADD node_modules/detective
+478 silly ADD node_modules/chokidar
+479 silly ADD node_modules/chokidar/node_modules/glob-parent
+480 silly ADD node_modules/arg
+481 silly ADD node_modules/source-map-js
+482 silly ADD node_modules/nanoid
+483 silly ADD node_modules/normalize-range
+484 silly ADD node_modules/fraction.js
+485 silly ADD node_modules/postcss
+486 silly ADD node_modules/autoprefixer
+487 silly ADD node_modules/tailwindcss
+488 silly ADD
+489 silly ADD
+490 silly ADD
+491 silly ADD
+492 silly ADD
+493 silly ADD
+494 silly ADD
+495 silly ADD
+496 silly ADD
+497 silly ADD
+498 silly ADD
+499 silly ADD
+500 silly ADD
+501 silly CHANGE node_modules/node-gyp-build
+502 timing command:install Completed in 4317ms
+503 verbose exit 0
+504 timing npm Completed in 4448ms
+505 info ok
