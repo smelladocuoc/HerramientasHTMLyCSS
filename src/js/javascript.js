@@ -1,3 +1,5 @@
+import log from 'loglevel';
+
 function startT() {
     var today = new Date();
     var horas = today.getHours();
@@ -32,12 +34,17 @@ function startT() {
     document.getElementById("fecha").innerHTML = fecha;
 
     var horario = setTimeout(function () { startT() }, 500);
+
+    log.setLevel('info');
 }
 
 function comprobarHorario(i) {
     if (i <= 9) {
         i = "0" + i;
     }
+
+    log.setLevel('info');
+
     return i;
 }
 
@@ -45,4 +52,6 @@ function comprobarHorario(i) {
 
 function confirmacion() {
     alert("Accediendo a una dirección externa")
+
+    log.setLevel('info');
 }
