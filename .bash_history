@@ -270,3 +270,143 @@ explorer.exe
 cd
 dir
 explorer.exe
+dir
+cd /
+dir
+cd home/
+dir
+mkdir smelladoc-PEC
+DIR
+dir
+sudo mkdir smelladoc-PEC
+dir
+cd smelladoc-PEC/
+di
+dir
+npm -v
+npm init --yes
+touch package.json
+dir
+mkdir prueba
+cd /
+cd home/
+sudo rm smelladoc-PEC/
+cd smelladoc
+dir
+cd dist
+dir
+cd ..
+rm -r dist/*
+cd dist/
+dir
+cd ..
+dir
+nano tailwind.config.js 
+rm -r node_modules/
+rm -r tailwind.config.js 
+dir
+rm -r package.json.save 
+dir
+clear
+dir
+src
+cd src
+dir
+cd images/
+dir
+cd ..
+dir
+cd ..
+nano package.json 
+npx parcel src/index.html 
+dir
+rm -r node_modules/*
+cd node_modules/
+dir
+cd ..
+npx parcel src/index.html 
+nano package.json 
+npx parcel src/index.html 
+cd node_modules/
+dir
+cd ..
+rm -r
+rm -r node_modules/*
+dir
+nano package.json 
+dir
+nano package-lock.json 
+npx parcel src/index.html 
+rm -r node_modules/*
+rm -r package-lock.json 
+nano package-lock.json 
+dir
+nano package.json 
+npx parcel src/index.html 
+rm -r node_modules/*
+nano package-lock.json 
+rm -r package-lock.json 
+dir
+nano package.json 
+dir
+cd dist/
+dir
+cd ..
+cd node_modules/
+dir
+cd ..
+npx parcel src/index.html 
+sudo apt-get remove tailwindcss
+tailwindcss
+tailwindcss -v
+which tailwindcss
+dir
+nano package.json 
+dir
+rm -r dist/
+rm -r node_modules/
+rm -r package-lock.json 
+rm -r package.json 
+dir
+npm init --yes
+dir
+nano package.json
+npm install --save-dev parcel
+dir
+cd src/
+dir
+cd ..
+dir
+npx parcel src/index.html 
+dir
+nano .postcssrc
+npx parcel src/index.html 
+nano package.json 
+npm run build
+npm run start
+npm install --save-dev rimraf npm-run-all
+nano package.json 
+npm run build
+nano package.json 
+dir
+git add .
+git commit -m "PEC1"
+git push
+git pull
+git init -b main
+git add . && git commit -m "initial commit"
+gh repo create
+git remote add origin https://github.com/smelladocuoc/HerramientasHTMLyCSS.git
+ls -la
+rm -fr .git
+rm -fr .gitconfig
+ls -la
+git init -b main
+git add . && git commit -m "initial commit"
+nano package.json
+git config --global user.email "smelladoc@uoc.edu"
+git config --global user.name "Sergio Mellado Contioso"
+git add . && git commit -m "initial commit"
+gh repo create
+git remote add origin https://github.com/smelladocuoc/HerramientasHTMLyCSS.git
+git push origin main

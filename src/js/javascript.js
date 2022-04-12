@@ -44,11 +44,5 @@ function comprobarHorario(i) {
 
 
 function confirmacion() {
-    var pregunta = confirm("¿Deseas visitar la página externa?")
-    if (pregunta) {
-        alert("Accediendo")
-    }
-    else {
-        alert("En otro momento\n Gracias")
-    }
+    alert("Accediendo a una dirección externa")
 }

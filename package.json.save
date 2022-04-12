@@ -1,0 +1,30 @@
+{
+  "name": "my-project",
+  "source": "src/index.html",
+  "scripts": {
+    "start": ""npm-run-all clean parcel:dev",
+    "build": "parcel build",
+    "parcel:dev" : "",
+    "parcel:build" : "parcel build",
+    "clean": "rimraf dist .parcel-cache"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smelladocuoc/Herramientas_HTML_CSS.git"
+  },
+  "keywords": [],
+  "author": "Sergio Mellado Contioso <smelladoc@uoc.edu>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smelladocuoc/Herramientas_HTML_CSS/issues"
+  },
+  "homepage": "https://github.com/smelladocuoc/Herramientas_HTML_CSS#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.4",
+    "npm-run-all": "^4.1.5",
+    "parcel": "latest",
+    "postcss": "^8.4.12",
+    "rimraf": "^3.0.2",
+    "tailwindcss": "^3.0.23"
+  }
+}
