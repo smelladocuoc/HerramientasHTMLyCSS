@@ -34,16 +34,12 @@ function startT() {
     document.getElementById("fecha").innerHTML = fecha;
 
     var horario = setTimeout(function () { startT() }, 500);
-
-    log.setLevel('info');
 }
 
 function comprobarHorario(i) {
     if (i <= 9) {
         i = "0" + i;
     }
-
-    log.setLevel('info');
 
     return i;
 }
