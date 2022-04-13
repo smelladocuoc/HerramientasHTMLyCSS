@@ -1,6 +1,4 @@
-import log from 'loglevel';
-
-export function startT() {
+function startT() {
     var today = new Date();
     var horas = today.getHours();
     var minutos = today.getMinutes();
@@ -35,23 +33,20 @@ export function startT() {
 
     var horario = setTimeout(function () { startT() }, 500);
 
-    log.setLevel('info');
 }
 
-export function comprobarHorario(i) {
+function comprobarHorario(i) {
     if (i <= 9) {
         i = "0" + i;
     }
 
-    log.setLevel('info');
 
     return i;
 }
 
 
 
-export function confirmacion() {
+function confirmacion() {
     alert("Accediendo a una dirección externa")
 
-    log.setLevel('info');
 }

@@ -410,3 +410,69 @@ git add . && git commit -m "initial commit"
 gh repo create
 git remote add origin https://github.com/smelladocuoc/HerramientasHTMLyCSS.git
 git push origin main
+git status
+git add .
+git commit -m "modificacion javascript"
+git push
+git push main
+git branches
+git push -u origin main
+dir
+nano package.json
+cd node_modules/
+dir
+nano package.json
+dir
+cd ..
+nano package.json
+npm list -g --depth 0
+dir
+npm install loglevel
+nano package.json
+git add .
+git commit -m "Añadir dependencia npm"
+git push -u origin main
+git status
+git add .
+git commit -m "Añadir type module a index"
+git push -u origin main
+git add .
+git commit -m "Añadir type module"
+git push -u origin main
+git add .
+git commit -m "Añadir type module"
+git push -u origin main
+git add .
+git commit -m "Añadir type module"
+git push -u origin main
+npm -v
+npm run build
+nano package.json
+npm run build
+nano package.json
+npm run build
+clear
+npm run build
+npm run start
+npm run build
+npm run start
+dir
+nano package.json
+npm run build
+npm run start
+nano package.json
+npm install loglevel --save-dev
+npm run build
+nano package.json
+npm run build
+nano package.json
+npm install loglevel
+nano package.json
+npm install loglevel --save-prod
+nano package.json
+npm run build
+npm uninstall loglevel
+nano package.json
+clear
+npm install log4js
+nano package.json

@@ -1,7 +1,7 @@
 {
   "name": "my-project",
   "source": "src/index.html",
-  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "browserslist": "> 1%, last 3 versions, Firefox > 38, not ie <=8,  not dead",
   "scripts": {
     "start": "npm-run-all clean parcel:dev",
     "build": "npm-run-all clean parcel:build",
@@ -10,14 +10,23 @@
     "clean": "rimraf dist .parcel-cache"
   },
   "devDependencies": {
+    "assert": "^2.0.0",
     "autoprefixer": "^10.4.4",
+    "browserify-zlib": "^0.2.0",
+    "buffer": "^6.0.3",
+    "constants-browserify": "^1.0.0",
+    "events": "^3.3.0",
     "npm-run-all": "^4.1.5",
     "parcel": "latest",
+    "path-browserify": "^1.0.1",
     "postcss": "^8.4.12",
+    "process": "^0.11.10",
     "rimraf": "^3.0.2",
-    "tailwindcss": "^3.0.23"
+    "stream-browserify": "^3.0.0",
+    "tailwindcss": "^3.0.23",
+    "util": "^0.12.4"
   },
   "dependencies": {
-    "loglevel": "^1.8.0"
+    "log4js": "^6.4.4"
   }
 }
