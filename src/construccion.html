@@ -117,22 +117,34 @@
         <div class="zona-imagenes-detalle">
             <div>
                 <figure>
-                    <img src="images/Construccion_coliseo_detalle_small.jpg"
-                        srcset="images/Construccion_coliseo_detalle_small.jpg 400w, images/Construccion_coliseo_detalle_medium.jpg 800w, images/Construccion_coliseo_detalle_large.jpg 1200w"
-                        sizes="(min-width: 60rem) 80vw,
-           (min-width: 40rem) 90vw,
-           100vw" alt="Construccion Coliseo Detalle">
+                    <picture>
+                        <source media="(max-width: 400px)" srcset="images/Construccion_coliseo_detalle.jpg?width=400"
+                            type="image/jpg">
+                        <source media="(max-width: 800px)" srcset="images/Construccion_coliseo_detalle.jpg?width=800"
+                            type="image/jpg">
+                        <source media="(min-width: 801px)" srcset="images/Construccion_coliseo_detalle.jpg?width=1200"
+                            type="image/jpg">
+                        <img src="images/Construccion_coliseo_detalle.jpg?width=1200" type="image/jpg" sizes="(min-width: 60rem) 80vw,
+            (min-width: 40rem) 90vw,
+            100vw" alt="Construcción Coliseo detalle">
+                    </picture>
 
                     <figcaption>Construcción del Coliseo.</figcaption>
                 </figure>
             </div>
             <div>
                 <figure>
-                    <img src="images/Construccion_roma_detalle_2_small.png"
-                        srcset="images/Construccion_roma_detalle_2_small.png 400w, images/Construccion_roma_detalle_2_medium.png 800w, images/Construccion_roma_detalle_2_large.png 1200w"
-                        sizes="(min-width: 60rem) 80vw,
-           (min-width: 40rem) 90vw,
-           100vw" alt="Construccion Coliseo Detalle 2">
+                    <picture>
+                        <source media="(max-width: 400px)" srcset="images/Construccion_roma_detalle_2.png?width=400"
+                            type="image/png">
+                        <source media="(max-width: 800px)" srcset="images/Construccion_roma_detalle_2.png?width=800"
+                            type="image/png">
+                        <source media="(min-width: 801px)" srcset="images/Construccion_roma_detalle_2.png?width=1200"
+                            type="image/png">
+                        <img src="images/Construccion_roma_detalle_2.png?width=1200" type="image/png" sizes="(min-width: 60rem) 80vw,
+            (min-width: 40rem) 90vw,
+            100vw" alt="Construcción Coliseo detalle 2">
+                    </picture>
 
                     <figcaption>Representación del Coliseo en blanco y negro.</figcaption>
                 </figure>

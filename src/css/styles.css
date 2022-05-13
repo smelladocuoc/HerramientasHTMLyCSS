@@ -196,10 +196,10 @@ header div {
             #222322 85%,
             #282727);
     width: fit-content;
-    border-radius: 20%;
-    font-size: 3rem;
     color: white;
+    font-size: 3rem;
     font-family: 'Shadows Into Light', cursive;
+    border-radius: 20%;
     text-shadow: 2px 4px 1px rgb(15, 103, 16);
     font-weight: bold;
 }
@@ -232,25 +232,25 @@ header div {
     clip-path: polygon(20% 0%, 80% 0%, 100% 20%, 100% 80%, 80% 100%, 20% 100%, 0% 80%, 0% 20%);
 }
 
-.shape-outer {
-    display: flex;
+.out {
+    background-image: linear-gradient(to bottom right, #3cff53, #22ac3b, #076218);
     flex-shrink: 0;
+    margin: 25px;
+    display: flex;
     height: calc(30rem);
     width: calc(100%);
-    margin: 25px;
-    background-image: linear-gradient(to bottom right, #3cff53, #22ac3b, #076218);
 }
 
-.shape-inner {
-    height: calc(90%);
-    width: calc(90%);
+.in {
     background: url(../images/Roma3.jpg) no-repeat center;
     background-size: cover;
+    height: calc(90%);
+    width: calc(90%);
     margin: auto;
 }
 
 .circle {
-    animation: 2s infinite alternate circle;
+    animation: 2s circle alternate infinite;
 }
 
 @keyframes circle {

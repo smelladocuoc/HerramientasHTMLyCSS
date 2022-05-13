@@ -105,11 +105,17 @@
             <div>
                 <figure>
 
-                    <img src="images/Batallas_roma_detalle_webp_small.webp"
-                        srcset="images/Batallas_roma_detalle_webp_small.webp 400w, images/Batallas_roma_detalle_webp_medium.webp 800w, images/Batallas_roma_detalle_webp_large.webp 1200w"
-                        sizes="(min-width: 60rem) 80vw,
-           (min-width: 40rem) 90vw,
-           100vw" alt="Batalla Roma Detalle">
+                    <picture>
+                        <source media="(max-width: 400px)" srcset="images/Batallas_roma_detalle_webp.webp?width=400"
+                            type="image/jpg">
+                        <source media="(max-width: 800px)" srcset="images/Batallas_roma_detalle_webp.webp?width=800"
+                            type="image/jpg">
+                        <source media="(min-width: 801px)" srcset="images/Batallas_roma_detalle_webp.webp?width=1200"
+                            type="image/jpg">
+                        <img src="images/Batallas_roma_detalle_webp.webp?width=1200" type="image/webp" sizes="(min-width: 60rem) 80vw,
+(min-width: 40rem) 90vw,
+100vw" alt="Batalla Roma Detalle">
+                    </picture>
 
                     <figcaption>Batallas en el Coliseo.</figcaption>
                 </figure>
@@ -117,11 +123,17 @@
             <div>
                 <figure>
 
-                    <img src="images/Batallas_roma_detalle_2_small.png"
-                        srcset="images/Batallas_roma_detalle_2_small.png 400w, images/Batallas_roma_detalle_2_medium.png 800w, images/Batallas_roma_detalle_2_large.png 1200w"
-                        sizes="(min-width: 60rem) 80vw,
-           (min-width: 40rem) 90vw,
-           100vw" alt="Batalla Roma Detalle 2">
+                    <picture>
+                        <source media="(max-width: 400px)" srcset="images/Batallas_roma_detalle_2.png?width=400"
+                            type="image/png">
+                        <source media="(max-width: 800px)" srcset="images/Batallas_roma_detalle_2.png?width=800"
+                            type="image/png">
+                        <source media="(min-width: 801px)" srcset="images/Batallas_roma_detalle_2.png?width=1200"
+                            type="image/png">
+                        <img src="images/Batallas_roma_detalle_2.png?width=1200" type="image/png" sizes="(min-width: 60rem) 80vw,
+(min-width: 40rem) 90vw,
+100vw" alt="Batalla Roma Detalle 2">
+                    </picture>
 
                     <figcaption>Batallas en el Coliseo con animales.</figcaption>
                 </figure>

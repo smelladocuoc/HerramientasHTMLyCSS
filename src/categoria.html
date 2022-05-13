@@ -55,11 +55,17 @@
 
     <div id="contenido">
         <div class="bloque">
-            <img src="images/Construccion_coliseo_webp_small.webp"
-                srcset="images/Construccion_coliseo_webp_small.webp 400w, images/Construccion_coliseo_webp_medium.webp 800w, images/Construccion_coliseo_webp_large.webp 1200w"
-                sizes="(min-width: 60rem) 80vw,
-           (min-width: 40rem) 90vw,
-           100vw" alt="Construccion coliseo">
+            <picture>
+                <source media="(max-width: 400px)" srcset="images/Construccion_coliseo.jpg?as=webp&width=400"
+                    type="image/webp">
+                <source media="(max-width: 800px)" srcset="images/Construccion_coliseo.jpg?as=webp&width=800"
+                    type="image/webp">
+                <source media="(min-width: 801px)" srcset="images/Construccion_coliseo.jpg?as=webp&width=1200"
+                    type="image/webp">
+                <img src="images/Construccion_coliseo.jpg?as=webp&width=1200" type="image/webp" sizes="(min-width: 60rem) 80vw,
+                (min-width: 40rem) 90vw,
+                100vw" alt="Construccion coliseo">
+            </picture>
             <div class="texto">
                 <h3>1. Construcción del Coliseo de Roma</h3>
                 <p>Una de las obras maestras de la arquitectura de todos los tiempos es el Coliseo de Roma, desde su
@@ -83,11 +89,17 @@
         </div>
 
         <div class="bloque">
-            <img src="images/Batallas_roma_small.jpg"
-                srcset="images/Batallas_roma_small.jpg 400w, images/Batallas_roma_medium.jpg 800w, images/Batallas_roma_large.jpg 1200w"
-                sizes="(min-width: 60rem) 80vw,
-           (min-width: 40rem) 90vw,
-           100vw" alt="Batallas roma">
+
+            <picture>
+                <source media="(max-width: 400px)" srcset="images/Batallas_roma.jpeg?width=400" type="image/jpeg">
+                <source media="(max-width: 800px)" srcset="images/Batallas_roma.jpeg?width=800" type="image/jpeg">
+                <source media="(min-width: 801px)" srcset="images/Batallas_roma.jpeg?width=1200" type="image/jpeg">
+                <img src="images/Batallas_roma.jpeg?width=1200" sizes="(min-width: 60rem) 80vw,
+                (min-width: 40rem) 90vw,
+                100vw" alt="Batallas roma">
+            </picture>
+
+
             <div class="texto">
                 <h3>2. Batallas en el Coliseo</h3>
                 <p> Luchas entre bestias salvajes, condenados devorados por las fieras, combates entre
@@ -106,11 +118,20 @@
         </div>
 
         <div class="bloque">
-            <img src="images/Actualidad_roma_webp_small.webp"
-                srcset="images/Actualidad_roma_webp_small.webp 400w, images/Actualidad_roma_webp_medium.webp 800w, images/Actualidad_roma_webp_large.webp 1200w"
-                sizes="(min-width: 60rem) 80vw,
-           (min-width: 40rem) 90vw,
-           100vw" alt="Actualidad roma">
+
+            <picture>
+                <source media="(max-width: 400px)" srcset="images/Actualidad_roma.jpg?as=webp&width=400"
+                    type="image/webp">
+                <source media="(max-width: 800px)" srcset="images/Actualidad_roma.jpg?as=webp&width=800"
+                    type="image/webp">
+                <source media="(min-width: 801px)" srcset="images/Actualidad_roma.jpg?as=webp&width=1200"
+                    type="image/webp">
+                <img src="images/Actualidad_roma.jpg?as=webp&width=1200" type="image/webp" sizes="(min-width: 60rem) 80vw,
+                (min-width: 40rem) 90vw,
+                100vw" alt="Actualidad roma">
+            </picture>
+
+
             <div class="texto">
                 <h3>3. El Coliseo en la actualidad</h3>
                 <p>En 1980, la Unesco declaró el centro histórico de Roma, incluido el Coliseo, Patrimonio de la

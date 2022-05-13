@@ -65,9 +65,15 @@ myLogger.info('Se ejecuta la aplicación');
             romano y un símbolo del poder de todo el Imperio Romano.</p>
 
         <figure>
-            <img src="/coliseo_romano_small.4a197c95.jpg" srcset="/coliseo_romano_small.4a197c95.jpg 400w,/coliseo_romano_medium.6db7fdae.jpg 800w,/coliseo_romano_large.8fab6afb.jpg 1200w" sizes="(min-width: 60rem) 80vw,
-           (min-width: 40rem) 90vw,
-           100vw" alt="Coliseo romano">
+
+            <picture>
+                <source media="(max-width: 400px)" srcset="/coliseo_romano.aa331652.jpeg" type="image/jpg">
+                <source media="(max-width: 800px)" srcset="/coliseo_romano.aae84728.jpeg" type="image/jpg">
+                <source media="(min-width: 801px)" srcset="/coliseo_romano.12b5f34e.jpeg" type="image/jpg">
+                <img src="/coliseo_romano.12b5f34e.jpeg" type="image/jpg" sizes="(min-width: 60rem) 80vw,
+(min-width: 40rem) 90vw,
+100vw" alt="Coliseo romano">
+            </picture>
 
             <figcaption>Interior del Coliseo.</figcaption>
         </figure>

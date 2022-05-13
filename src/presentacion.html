@@ -67,11 +67,15 @@
             romano y un símbolo del poder de todo el Imperio Romano.</p>
 
         <figure>
-            <img src="images/coliseo_romano_small.jpg"
-                srcset="images/coliseo_romano_small.jpg 400w, images/coliseo_romano_medium.jpg 800w, images/coliseo_romano_large.jpg 1200w"
-                sizes="(min-width: 60rem) 80vw,
-           (min-width: 40rem) 90vw,
-           100vw" alt="Coliseo romano">
+
+            <picture>
+                <source media="(max-width: 400px)" srcset="images/coliseo_romano.jpg?width=400" type="image/jpg">
+                <source media="(max-width: 800px)" srcset="images/coliseo_romano.jpg?width=800" type="image/jpg">
+                <source media="(min-width: 801px)" srcset="images/coliseo_romano.jpg?width=1200" type="image/jpg">
+                <img src="images/coliseo_romano.jpg?width=1200" type="image/jpg" sizes="(min-width: 60rem) 80vw,
+(min-width: 40rem) 90vw,
+100vw" alt="Coliseo romano">
+            </picture>
 
             <figcaption>Interior del Coliseo.</figcaption>
         </figure>

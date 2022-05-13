@@ -6835,8 +6835,8 @@ exports.fromPromise = function(fn) {
 };
 
 },{}],"cASLk":[function(require,module,exports) {
-var global = arguments[3];
 var process = require("process");
+var global = arguments[3];
 var fs = require('fs');
 var polyfills = require('./polyfills.js');
 var legacy = require('./legacy-streams.js');
