@@ -1,27 +1,40 @@
-26999
+27122
 28/home/smelladoc/.local/share1648911351804690300 1
 22/home/smelladoc/.local1648911351804690300 1
 23/home/smelladoc/.bashrc1648409156964433400 0
 24/home/smelladoc/.profile1648409156964433400 0
 22/home/smelladoc/.npmrc1648910783534690300 0
-27/home/smelladoc/.motd_shown1649841296349606000 0
-39/home/smelladoc/dist/index.77a9bc14.css1649864817454636600 0
-62/home/smelladoc/dist/Construccion_coliseo_detalle.88b997b9.jpg1649864817464636600 0
-42/home/smelladoc/dist/index.42255495.js.map1649864817504636600 0
-38/home/smelladoc/dist/index.42255495.js1649864817504636600 0
-56/home/smelladoc/dist/Batallas_roma_detalle.0c83aee0.jpeg1649864817504636600 0
-48/home/smelladoc/dist/Batallas_roma.450c46ab.webp1649864817484636600 0
-38/home/smelladoc/dist/construccion.html1649864817524636600 0
-54/home/smelladoc/dist/Construccion_coliseo.f7eda5f4.jpg1649864817504636600 0
-35/home/smelladoc/dist/categoria.html1649864817524636600 0
-39/home/smelladoc/dist/Roma3.0926caf7.jpg1649864817504636600 0
-42/home/smelladoc/dist/index.ce73f441.js.map1649864817524636600 0
-34/home/smelladoc/dist/batallas.html1649864817504636600 0
-43/home/smelladoc/dist/index.77a9bc14.css.map1649864817454636600 0
-48/home/smelladoc/dist/coliseo_romano.7e531e39.jpg1649864817474636600 0
-20/home/smelladoc/dist1649864817524636600 1
+27/home/smelladoc/.motd_shown1652424439245666600 0
+67/home/smelladoc/dist/Batallas_roma_detalle_webp_large.c2b3e289.webp1652425946085666600 0
+39/home/smelladoc/dist/index.77a9bc14.css1652425946125666600 0
+49/home/smelladoc/dist/favicon_coliseo.e35f3a54.ico1652425946085666600 0
+53/home/smelladoc/dist/Batallas_roma_small.525a94b2.jpg1652425946165666600 0
+54/home/smelladoc/dist/coliseo_romano_large.8fab6afb.jpg1652425946185666600 0
+68/home/smelladoc/dist/Construccion_coliseo_detalle_large.39f06950.jpg1652425946195666600 0
+77/home/smelladoc/dist/Construccion_coliseo_webp_categoria_medium.b7d850f7.webp1652425946075666600 0
+67/home/smelladoc/dist/Construccion_roma_detalle_2_small.1b5308cc.png1652425946175666600 0
+42/home/smelladoc/dist/index.42255495.js.map1652425946205666600 0
+38/home/smelladoc/dist/index.42255495.js1652425946205666600 0
+63/home/smelladoc/dist/Actualidad_roma_detalle_large.4cf4195c.jpg1652425946205666600 0
+66/home/smelladoc/dist/Actualidad_roma_detalle_2_medium.836ef05f.png1652425946205666600 0
+38/home/smelladoc/dist/construccion.html1652425946205666600 0
+53/home/smelladoc/dist/Batallas_roma_large.8a45b863.jpg1652425946205666600 0
+35/home/smelladoc/dist/categoria.html1652425946205666600 0
+48/home/smelladoc/dist/Batallas_roma.36a8fb56.jpeg1652425946195666600 0
+49/home/smelladoc/dist/enlaces_300_dpi.41eb2a07.png1652425946155666600 0
+39/home/smelladoc/dist/Roma3.0926caf7.jpg1652425946215666600 0
+42/home/smelladoc/dist/index.ce73f441.js.map1652425946215666600 0
+54/home/smelladoc/dist/Batallas_roma_medium.a7dda4b2.jpg1652425946165666600 0
+69/home/smelladoc/dist/Construccion_coliseo_detalle_medium.814ad99b.jpg1652425946165666600 0
+34/home/smelladoc/dist/batallas.html1652425946205666600 0
+49/home/smelladoc/dist/enlaces_600_dpi.0b3c4bd6.png1652425946195666600 0
+61/home/smelladoc/dist/Actualidad_roma_webp_large.bab4ffb0.webp1652425946085666600 0
+65/home/smelladoc/dist/Actualidad_roma_detalle_2_large.ae22a845.png1652425946225666600 0
+43/home/smelladoc/dist/index.77a9bc14.css.map1652425946125666600 0
+56/home/smelladoc/dist/imagen-clip-path_large.ba6a40fc.jpg1652425946175666600 0
+20/home/smelladoc/dist1652425946225666600 1
 33/home/smelladoc/package.json.save1649726629874087400 0
-29/home/smelladoc/.bash_history1649855218112411000 0
+29/home/smelladoc/.bash_history1649866825514636600 0
 53/home/smelladoc/.cache/node-gyp/17.8.0/installVersion1649716554184087400 0
 73/home/smelladoc/.cache/node-gyp/17.8.0/include/node/v8-value-serializer.h1647884634000000000 0
 63/home/smelladoc/.cache/node-gyp/17.8.0/include/node/v8-locker.h1647884634000000000 0
@@ -185,6 +198,7 @@
 108/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/linux-elf/asm_avx2/include/openssl/pkcs7.h1647884632000000000 0
 107/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/linux-elf/asm_avx2/include/openssl/x509.h1647884632000000000 0
 114/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/linux-elf/asm_avx2/include/openssl/opensslconf.h1634190635000000000 0
+105/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/linux-elf/asm_avx2/include/openssl/ui.h1647884632000000000 0
 109/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/linux-elf/asm_avx2/include/openssl/crypto.h1647884632000000000 0
 111/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/linux-elf/asm_avx2/include/openssl/opensslv.h1647884632000000000 0
 109/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/linux-elf/asm_avx2/include/openssl/pkcs12.h1647884632000000000 0
@@ -557,7 +571,7 @@
 107/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/darwin64-arm64-cc/asm_avx2/include/crypto1649716553204087400 1
 110/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/darwin64-arm64-cc/asm_avx2/crypto/buildinf.h1647884632000000000 0
 99/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/darwin64-arm64-cc/asm_avx2/crypto1649716553184087400 1
-33/home/smelladoc/dist/enlaces.html1649864817504636600 0
+33/home/smelladoc/dist/enlaces.html1652425946205666600 0
 134/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/darwin64-arm64-cc/no-asm/providers/common/include/prov/der_digests.h1647884632000000000 0
 131/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/darwin64-arm64-cc/no-asm/providers/common/include/prov/der_wrap.h1647884632000000000 0
 130/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/darwin64-arm64-cc/no-asm/providers/common/include/prov/der_rsa.h1647884632000000000 0
@@ -643,6 +657,7 @@
 108/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/aix64-gcc-as/no-asm/include/openssl/conf.h1647884632000000000 0
 117/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/aix64-gcc-as/no-asm/include/openssl/configuration.h1647884632000000000 0
 107/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/aix64-gcc-as/no-asm/include/openssl/ssl.h1647884632000000000 0
+109/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/aix64-gcc-as/no-asm/include/openssl/asn1t.h1647884632000000000 0
 108/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/aix64-gcc-as/no-asm/include/openssl/crmf.h1647884632000000000 0
 108/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/aix64-gcc-as/no-asm/include/openssl/ocsp.h1647884632000000000 0
 107/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/aix64-gcc-as/no-asm/include/openssl/cms.h1647884632000000000 0
@@ -673,7 +688,6 @@
 101/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/linux64-mips64/asm/providers/common1649716553874087400 1
 94/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/linux64-mips64/asm/providers1649716553874087400 1
 100/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/linux64-mips64/asm/include/progs.h1647884633000000000 0
-109/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/linux64-mips64/asm/include/openssl/x509v3.h1647884633000000000 0
 107/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/linux64-mips64/asm/include/openssl/conf.h1647884633000000000 0
 106/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/linux64-mips64/asm/include/openssl/srp.h1647884633000000000 0
 116/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/linux64-mips64/asm/include/openssl/configuration.h1647884633000000000 0
@@ -988,6 +1002,7 @@
 124/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/linux-armv4/no-asm/providers/common/include/prov/der_dsa.h1647884632000000000 0
 125/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/linux-armv4/no-asm/providers/common/include/prov/der_wrap.h1647884632000000000 0
 124/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/linux-armv4/no-asm/providers/common/include/prov/der_sm2.h1647884632000000000 0
+123/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/linux-armv4/no-asm/providers/common/include/prov/der_ec.h1647884632000000000 0
 114/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/linux-armv4/no-asm/providers/common/include/prov1649716553444087400 1
 109/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/linux-armv4/no-asm/providers/common/include1649716553444087400 1
 101/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/linux-armv4/no-asm/providers/common1649716553444087400 1
@@ -1283,7 +1298,6 @@
 121/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/aix-gcc/no-asm/providers/common/include/prov/der_wrap.h1647884632000000000 0
 120/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/aix-gcc/no-asm/providers/common/include/prov/der_ecx.h1647884632000000000 0
 119/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/aix-gcc/no-asm/providers/common/include/prov/der_ec.h1647884632000000000 0
-110/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/aix-gcc/no-asm/providers/common/include/prov1649716553074087400 1
 97/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/aix-gcc/no-asm/providers/common1649716553064087400 1
 96/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/aix-gcc/no-asm/include/progs.h1647884632000000000 0
 105/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/aix-gcc/no-asm/include/openssl/x509v3.h1647884632000000000 0
@@ -1462,7 +1476,6 @@
 108/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/VC-WIN64A/asm_avx2/include/openssl/pkcs7.h1647884632000000000 0
 112/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/linux-aarch64/asm_avx2/crypto/include/internal1649716553324087400 1
 107/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/VC-WIN64A/asm_avx2/include/openssl/x509.h1647884632000000000 0
-114/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/VC-WIN64A/asm_avx2/include/openssl/opensslconf.h1634190634000000000 0
 111/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/linux-ppc64le/asm_avx2/include/openssl/x509.h1647884633000000000 0
 105/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/VC-WIN64A/asm_avx2/include/openssl/ui.h1647884632000000000 0
 109/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/VC-WIN64A/asm_avx2/include/openssl/crypto.h1647884632000000000 0
@@ -1666,6 +1679,7 @@
 110/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/solaris-x86-gcc/no-asm/include/openssl/cmp.h1647884633000000000 0
 109/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/solaris-x86-gcc/no-asm/include/openssl/ct.h1647884633000000000 0
 113/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/solaris-x86-gcc/no-asm/include/openssl/x509v3.h1647884633000000000 0
+66/home/smelladoc/dist/Construccion_coliseo_webp_small.a01faea5.webp1652425946075666600 0
 120/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/solaris-x86-gcc/no-asm/include/openssl/configuration.h1647884633000000000 0
 110/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/solaris-x86-gcc/no-asm/include/openssl/ssl.h1647884633000000000 0
 111/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/solaris-x86-gcc/no-asm/include/openssl/crmf.h1647884633000000000 0
@@ -1866,7 +1880,6 @@
 103/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/BSD-x86/no-asm/include/openssl/x509.h1647884632000000000 0
 110/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/BSD-x86/no-asm/include/openssl/opensslconf.h1634190634000000000 0
 101/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/BSD-x86/no-asm/include/openssl/ui.h1647884632000000000 0
-105/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/BSD-x86/no-asm/include/openssl/crypto.h1647884632000000000 0
 107/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/BSD-x86/no-asm/include/openssl/opensslv.h1647884632000000000 0
 106/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/BSD-x86/no-asm/include/openssl/fipskey.h1647884632000000000 0
 108/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/BSD-x86/no-asm/include/openssl/safestack.h1647884632000000000 0
@@ -2082,27 +2095,84 @@
 41/home/smelladoc/.sudo_as_admin_successful1648417472307412600 0
 38/home/smelladoc/.landscape/sysinfo.log1648409187864433400 0
 26/home/smelladoc/.landscape1648409187864433400 1
+76/home/smelladoc/src/images/Batallas_roma_detalle_2_large.png:Zone.Identifier1652257807143549800 0
+58/home/smelladoc/src/images/Actualidad_roma_webp_small.webp1652259151638127100 0
+63/home/smelladoc/src/images/Actualidad_roma_detalle_2_medium.png1652258008771698500 0
+54/home/smelladoc/src/images/imagen-clip-path_medium.jpg1652345809378396100 0
+42/home/smelladoc/src/images/Roma3_large.jpg1652258752657877600 0
+53/home/smelladoc/src/images/imagen-clip-path_small.jpg1652345825388672300 0
+62/home/smelladoc/src/images/enlaces_150_dpi.png:Zone.Identifier1652379247691696100 0
+69/home/smelladoc/src/images/imagen-clip-path_small.jpg:Zone.Identifier1652345825388672300 0
+47/home/smelladoc/src/images/imagen-clip-path.jpg1651822848726012500 0
+60/home/smelladoc/src/images/Actualidad_roma_detalle_large.jpg1652255695156382300 0
+74/home/smelladoc/src/images/Batallas_roma_detalle_webp.webp:Zone.Identifier1649169078441958300 0
+63/home/smelladoc/src/images/Construccion_coliseo_webp_large.webp1652259395781336800 0
+66/home/smelladoc/src/images/Batallas_roma_small.jpg:Zone.Identifier1652257680072474200 0
+59/home/smelladoc/src/images/Roma3_medium.jpg:Zone.Identifier1652258767038669900 0
+59/home/smelladoc/src/images/Actualidad_roma_webp_medium.webp1652259136197888300 0
+109/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/linux64-mips64/asm/include/openssl/x509v3.h1647884633000000000 0
+67/home/smelladoc/src/images/coliseo_romano_large.jpg:Zone.Identifier1652258146290449700 0
 52/home/smelladoc/src/images/Roma3.jpg:Zone.Identifier1649116981260424200 0
-61/home/smelladoc/src/images/Batallas_roma.webp:Zone.Identifier1649169078441958300 0
-109/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/aix64-gcc-as/no-asm/include/openssl/asn1t.h1647884632000000000 0
-67/home/smelladoc/src/images/Construccion_coliseo.jpg:Zone.Identifier1649441105332569200 0
-105/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/linux-elf/asm_avx2/include/openssl/ui.h1647884632000000000 0
-46/home/smelladoc/src/images/Actualidad_roma.jpg1649169289862074300 0
+77/home/smelladoc/src/images/Batallas_roma_detalle_2_medium.png:Zone.Identifier1652257841994959500 0
+53/home/smelladoc/src/images/imagen-clip-path_large.jpg1652345791870885000 0
+50/home/smelladoc/src/images/Batallas_roma_small.jpg1652257680072474200 0
+60/home/smelladoc/src/images/Batallas_roma_detalle_2_large.png1652257807143549800 0
+80/home/smelladoc/src/images/Construccion_roma_detalle_2_small.png:Zone.Identifier1652258491578335100 0
+110/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/aix-gcc/no-asm/providers/common/include/prov1649716553074087400 1
+61/home/smelladoc/src/images/Batallas_roma_detalle_2_medium.png1652257841994959500 0
+51/home/smelladoc/src/images/coliseum-svgrepo-com.svg1652048705637916400 0
+90/home/smelladoc/src/images/Construccion_coliseo_webp_categoria_medium.webp:Zone.Identifier1652354007406472500 0
+60/home/smelladoc/src/images/Actualidad_roma_detalle_small.jpg1652255741407098400 0
+64/home/smelladoc/src/images/Batallas_roma_detalle_webp_small.webp1652259289764380400 0
+105/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/BSD-x86/no-asm/include/openssl/crypto.h1647884632000000000 0
+51/home/smelladoc/src/images/coliseo_romano_large.jpg1652258146290449700 0
 75/home/smelladoc/src/images/Construccion_coliseo_detalle.jpg:Zone.Identifier1649440932831138800 0
-69/home/smelladoc/src/images/Batallas_roma_detalle.jpeg:Zone.Identifier1649453788254244500 0
+80/home/smelladoc/src/images/Construccion_roma_detalle_2_large.png:Zone.Identifier1652258462742727400 0
+79/home/smelladoc/src/images/Construccion_coliseo_webp_large.webp:Zone.Identifier1652259395781336800 0
+64/home/smelladoc/src/images/Construccion_roma_detalle_2_large.png1652258462742727400 0
+58/home/smelladoc/src/images/Roma3_large.jpg:Zone.Identifier1652258752657877600 0
+58/home/smelladoc/src/images/Construccion_roma_detalle_2.png1652085495838617400 0
+64/home/smelladoc/src/images/Construccion_coliseo_webp_medium.webp1652259436004986600 0
+70/home/smelladoc/src/images/Batallas_roma_detalle_2.png:Zone.Identifier1652086505302382200 0
+61/home/smelladoc/src/images/Actualidad_roma_detalle_medium.jpg1652255724720351300 0
+85/home/smelladoc/src/images/Actualidad_roma_webp_categoria_medium.webp:Zone.Identifier1652354598140478100 0
+67/home/smelladoc/src/images/Batallas_roma_medium.jpg:Zone.Identifier1652257663037757600 0
+62/home/smelladoc/src/images/enlaces_600_dpi.png:Zone.Identifier1652379335011757600 0
+78/home/smelladoc/src/images/Actualidad_roma_detalle_2_large.png:Zone.Identifier1652257988066139000 0
+66/home/smelladoc/src/images/Construccion_coliseo_detalle_medium.jpg1652258337385693000 0
+65/home/smelladoc/src/images/Construccion_coliseo_detalle_large.jpg1652258323460342600 0
+51/home/smelladoc/src/images/Batallas_roma_medium.jpg1652257663037757600 0
+63/home/smelladoc/src/images/imagen-clip-path.jpg:Zone.Identifier1651822848726012500 0
+77/home/smelladoc/src/images/Batallas_roma_categoria_medium.jpg:Zone.Identifier1652354269310576600 0
+76/home/smelladoc/src/images/Actualidad_roma_detalle_large.jpg:Zone.Identifier1652255695156382300 0
+46/home/smelladoc/src/images/enlaces_150_dpi.png1652379247691696100 0
 36/home/smelladoc/src/images/Roma3.jpg1649116981260424200 0
+57/home/smelladoc/src/images/Roma_small.jpg:Zone.Identifier1652258782272966100 0
+74/home/smelladoc/src/images/Actualidad_roma_webp_large.webp:Zone.Identifier1652259118968198200 0
+64/home/smelladoc/src/images/Construccion_roma_detalle_2_small.png1652258491578335100 0
 59/home/smelladoc/src/images/Construccion_coliseo_detalle.jpg1649440932831138800 0
-51/home/smelladoc/src/images/Construccion_coliseo.jpg1649441105332569200 0
-45/home/smelladoc/src/images/Batallas_roma.webp1649169078441958300 0
-26/home/smelladoc/src/images1649715772364087400 1
+64/home/smelladoc/src/images/Batallas_roma_detalle_webp_large.webp1652259250614678400 0
+65/home/smelladoc/src/images/Construccion_roma_detalle_2_medium.png1652258479343915100 0
+50/home/smelladoc/src/images/Batallas_roma_large.jpg1652257639324847500 0
+58/home/smelladoc/src/images/Actualidad_roma_webp_large.webp1652259118968198200 0
+58/home/smelladoc/src/images/Batallas_roma_detalle_webp.webp1649169078441958300 0
+65/home/smelladoc/src/images/Construccion_coliseo_detalle_small.jpg1652258352869844400 0
+80/home/smelladoc/src/images/Batallas_roma_detalle_webp_large.webp:Zone.Identifier1652259250614678400 0
+65/home/smelladoc/src/images/Batallas_roma_detalle_webp_medium.webp1652259275709170600 0
+45/home/smelladoc/src/images/Batallas_roma.jpeg1651592469378510900 0
+81/home/smelladoc/src/images/Construccion_coliseo_detalle_small.jpg:Zone.Identifier1652258352869844400 0
+43/home/smelladoc/src/images/Roma3_medium.jpg1652258767038669900 0
+114/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/VC-WIN64A/asm_avx2/include/openssl/opensslconf.h1634190634000000000 0
+82/home/smelladoc/src/images/Construccion_coliseo_detalle_medium.jpg:Zone.Identifier1652258337385693000 0
+26/home/smelladoc/src/images1652425907865666600 1
 36/home/smelladoc/src/js/javascript.js1649863224672274300 0
-34/home/smelladoc/src/css/styles.css1649703530838029600 0
-23/home/smelladoc/src/css1649715672904087400 1
-37/home/smelladoc/src/presentacion.html1649864738957947000 0
-37/home/smelladoc/src/construccion.html1649864763735697400 0
-32/home/smelladoc/src/enlaces.html1649864734268722600 0
-35/home/smelladoc/src/actualidad.html1649864745492166400 0
-33/home/smelladoc/.npm/_cacache/tmp1649861437554636600 1
+34/home/smelladoc/src/css/styles.css1652382044524292500 0
+23/home/smelladoc/src/css1652424934815666600 1
+37/home/smelladoc/src/presentacion.html1652381378122192100 0
+37/home/smelladoc/src/construccion.html1652382157589349900 0
+32/home/smelladoc/src/enlaces.html1652381307646322500 0
+35/home/smelladoc/src/actualidad.html1652382326273792900 0
+33/home/smelladoc/.npm/_cacache/tmp1652425285855666600 1
 48/home/smelladoc/.npm/_cacache/content-v2/sha1/2f1648942541158058100 1
 88/home/smelladoc/.npm/_cacache/content-v2/sha1/b7/77/35e315ce30f6b6eff0f83b04151a224496221649850455052411000 0
 51/home/smelladoc/.npm/_cacache/content-v2/sha1/b7/771649850455262411000 1
@@ -2185,6 +2255,7 @@
 88/home/smelladoc/.npm/_cacache/content-v2/sha1/e0/4f/1c18d39485111396f9a0273eab51af2184641649850455642411000 0
 51/home/smelladoc/.npm/_cacache/content-v2/sha1/e0/4f1649850455982411000 1
 48/home/smelladoc/.npm/_cacache/content-v2/sha1/e01649850455932411000 1
+64/home/smelladoc/dist/Batallas_roma_detalle_2_medium.de9a621d.png1652425946215666600 0
 51/home/smelladoc/.npm/_cacache/content-v2/sha1/1b/681649850455632411000 1
 88/home/smelladoc/.npm/_cacache/content-v2/sha1/1b/61/c0562190a8dff6ae3bb2cf0200ca130b86d41648911559364690300 0
 51/home/smelladoc/.npm/_cacache/content-v2/sha1/1b/611648911559384690300 1
@@ -2535,6 +2606,7 @@
 178/home/smelladoc/.npm/_cacache/content-v2/sha512/b3/e2/c905caae733d116ef3816fff7945d1434c85c8799cc9e4464a12bf07f84b3f2dd1e2497ca648fa73f089a06a04b3801088cb4abdd789c60d62a8601e993a1649850434052411000 0
 53/home/smelladoc/.npm/_cacache/content-v2/sha512/b3/e21649850434052411000 1
 178/home/smelladoc/.npm/_cacache/content-v2/sha512/b3/bd/dcde172bd389824c64fc698c7509186afec30e8fc9babf5bf403269819e8e485fc68c9cbfca42cc1c67da27ecee8e21f5309e76f01154fb6aa7bf566c70d1649850433952411000 0
+62/home/smelladoc/dist/Actualidad_roma_webp_medium.dc023ba0.webp1652425946075666600 0
 53/home/smelladoc/.npm/_cacache/content-v2/sha512/c1/b31649850448072411000 1
 53/home/smelladoc/.npm/_cacache/content-v2/sha512/c1/a61648911545804690300 1
 178/home/smelladoc/.npm/_cacache/content-v2/sha512/c1/28/47e856c90aeceaa460ae5e134aff804c89dae3cb7d84ab5e1fb3638cf9191f6ee961150af0a9a32a7a1bcef7218a65832bebb86d50cc34204dabaa2dad811649850436672411000 0
@@ -2655,6 +2727,7 @@
 178/home/smelladoc/.npm/_cacache/content-v2/sha512/83/52/ae4301ce64098e64cb81b477710ed8eef93d914fc8e0082f5a00db1ba5d8830d34a78e07ee56c20134a6d4789237a0a31113171f343b499783a16df7ccb31649850462242411000 0
 53/home/smelladoc/.npm/_cacache/content-v2/sha512/83/521649850462262411000 1
 53/home/smelladoc/.npm/_cacache/content-v2/sha512/d4/951649850461202411000 1
+63/home/smelladoc/dist/Batallas_roma_detalle_2_small.35138cf0.png1652425946185666600 0
 178/home/smelladoc/.npm/_cacache/content-v2/sha512/d4/d3/42b3abaeadf9156de5c6e12f09153f6dd7d9b8e480a789ff3358b779a0f499e74427c0c7caf87de3bf8d3c7788f0ffb06db6fe5ac52e48887a0b695347791648911559774690300 0
 178/home/smelladoc/.npm/_cacache/content-v2/sha512/d4/c5/619a9eeab52b3986aae0feff2cdc5c11b29dd2b19f45aeb4886094068a459efd7fda383944fb81c1d7ebe4ea1d3cdfbd3e4d9ed3fdcc0b789ed028fc8cc91649716555894087400 0
 53/home/smelladoc/.npm/_cacache/content-v2/sha512/d4/c51649716555894087400 1
@@ -3489,7 +3562,8 @@
 53/home/smelladoc/.npm/_cacache/content-v2/sha512/f9/761648942537108058100 1
 178/home/smelladoc/.npm/_cacache/content-v2/sha512/f9/e1/f4aab75a0044084ebd14a70670ab24b209c425e23e188df1c87def3fbe2022cb23a480f0512001c841aeada6ac8adf9fd3d1078e2bc8ec62d377f2c2fb131648942537338058100 0
 53/home/smelladoc/.npm/_cacache/content-v2/sha512/f9/e11648942537338058100 1
-50/home/smelladoc/.npm/_cacache/content-v2/sha512/f91649850459802411000 1
+178/home/smelladoc/.npm/_cacache/content-v2/sha512/f9/3e/c4274f79986bffa86712cdd88848e2a7b63063e4bfe11d8a49817b7fbb5145bb4f3dccc7b57b2c1428a57524f36d30968f37a7edca318d9a923e1dac98581652425285105666600 0
+50/home/smelladoc/.npm/_cacache/content-v2/sha512/f91652425285115666600 1
 53/home/smelladoc/.npm/_cacache/content-v2/sha512/70/e61648942540798058100 1
 111/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/linux-ppc64/asm_avx2/include/openssl/x509v3.h1647884633000000000 0
 87/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/aix64-gcc/asm/include1649716553074087400 1
@@ -3539,6 +3613,7 @@
 178/home/smelladoc/.npm/_cacache/content-v2/sha512/e4/39/1289351601d3693e640b92e4980d71cf69701dd39f898b1bdddf4e78c228dba83a504c7e03ed4beb3616f1d16eef7dd897c3735019524cad56f908b50c101649850428192411000 0
 178/home/smelladoc/.npm/_cacache/content-v2/sha512/e4/96/d301d7f270d86706cd18f5eedccf34f53ae62b068fab4a5a96f7f84faae142d62d9c31597c735e7db9b50399473bbf389bd131777388d118b0e270db40871649850428462411000 0
 53/home/smelladoc/.npm/_cacache/content-v2/sha512/e4/961649850428462411000 1
+54/home/smelladoc/dist/coliseo_romano_small.4a197c95.jpg1652425946155666600 0
 178/home/smelladoc/.npm/_cacache/content-v2/sha512/e4/52/bcb042be5da804ae48b149bd564593a570bcde50848f14f6fb1292fb93cd911601a41f042c7ea1ade650ccaac73d8e7154bbec7a1302874395a890741cb21648911542194690300 0
 178/home/smelladoc/.npm/_cacache/content-v2/sha512/91/65/8699218a3d358eb576639d71a316dd6d3a09a53be029c8487304da2e6fe58114ef46ccb8dbf3a0fa69245163ec025b559f27162f8da7802988d9864327a21649850447952411000 0
 53/home/smelladoc/.npm/_cacache/content-v2/sha512/91/651649850447952411000 1
@@ -3685,6 +3760,7 @@
 119/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/linux-elf/asm_avx2/crypto/include/internal/dso_conf.h1634190635000000000 0
 178/home/smelladoc/.npm/_cacache/content-v2/sha512/1f/c9/fb709d2b3add006592ee3ee1ba86fba3516896cfc931c78a64a840e6df57628eb6ca6f4a4d81c7173a5950df87a6eabede96feb21fb971a31f230c2a74871648911563664690300 0
 50/home/smelladoc/.npm/_cacache/content-v2/sha512/1f1649861431604636600 1
+51/home/smelladoc/src/images/coliseo_romano_small.jpg1652258229460517400 0
 178/home/smelladoc/.npm/_cacache/content-v2/sha512/57/2f/57d37e6d36d538153cd3507f01a1670eafc2207c996437aa21bd5dc57848a7b8de90d66ac48009b93c9bc9a93b5f2b60ef3708ffac6cfd99c1810a767d461649850450982411000 0
 53/home/smelladoc/.npm/_cacache/content-v2/sha512/57/2f1649850450982411000 1
 178/home/smelladoc/.npm/_cacache/content-v2/sha512/57/7e/479d31c226e6078a4d5df3e3cd67573944609bafb762866a4516c4ccad092bf8718eef171e5902c0b1f2dd0202e4b87f80998876cb7111a8c9a5e37b01cc1648911544364690300 0
@@ -4118,6 +4194,8 @@
 99/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/@parcel/watcher/src/linux/InotifyBackend.hh1649716549534087400 0
 44/home/smelladoc/.npm/_cacache/index-v5/02/011649850456272411000 1
 63/home/smelladoc/node_modules/es-abstract/2021/ArraySetLength.js1649719864524087400 0
+104/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/VC-WIN32/no-asm/include/openssl/ocsp.h1647884632000000000 0
+105/home/smelladoc/.npm/_cacache/index-v5/14/fa/f87baceab26935686548c742091e7014930673bc1f077574c54c4c6c2d2d1649850457022411000 0
 88/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/linux-ppc64/asm/crypto1649716553584087400 1
 105/home/smelladoc/.npm/_cacache/index-v5/8f/e0/d0d067f30cadd73c41fe798b2b876e2a6dbfbce20fda2ad0f09eaee60b411649850445572411000 0
 61/home/smelladoc/node_modules/postcss-discard-comments/src/lib1649850457732411000 1
@@ -4139,6 +4217,7 @@
 110/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mtest_remap.c1649716549714087400 0
 109/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/darwin64-arm64-cc/asm/include/openssl/ssl.h1647884632000000000 0
 66/home/smelladoc/node_modules/acorn-globals/node_modules/.bin/acorn1649850463082411000 0
+63/home/smelladoc/.npm/_logs/2022-05-13T07_11_55_523Z-debug-0.log1652425915645666600 0
 80/home/smelladoc/node_modules/acorn-globals/node_modules/acorn-walk/dist/walk.mjs1649850459782411000 0
 84/home/smelladoc/node_modules/acorn-globals/node_modules/acorn-walk/dist/walk.mjs.map1649850459882411000 0
 44/home/smelladoc/node_modules/unbox-primitive1649719864484087400 1
@@ -4196,6 +4275,7 @@
 44/home/smelladoc/.npm/_cacache/index-v5/36/511649850429622411000 1
 80/home/smelladoc/node_modules/jsdom/lib/jsdom/living/nodes/HTMLMapElement-impl.js1649850462632411000 0
 79/home/smelladoc/node_modules/caniuse-lite/data/features/intersectionobserver.js1649717969464087400 0
+78/home/smelladoc/src/images/Actualidad_roma_detalle_2_small.png:Zone.Identifier1652258025724459100 0
 66/home/smelladoc/node_modules/tailwindcss/lib/util/getAllConfigs.js1649718215694087400 0
 81/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/@parcel/markdown-ansi/src1649716549284087400 1
 48/home/smelladoc/node_modules/yaml/parse-cst.d.ts1649717969244087400 0
@@ -4228,7 +4308,6 @@
 51/home/smelladoc/node_modules/minimatch/minimatch.js1649719864424087400 0
 43/home/smelladoc/node_modules/assert/LICENSE1649861434604636600 0
 86/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/@parcel/watcher/src/Watcher.hh1649716549554087400 0
-38/home/smelladoc/src/images/enlaces.png1649369905243083400 0
 86/home/smelladoc/node_modules/react-refresh/cjs/react-refresh-runtime.production.min.js1649717969024087400 0
 79/home/smelladoc/node_modules/tough-cookie/node_modules/punycode/punycode.es6.js1649850459512411000 0
 53/home/smelladoc/.npm/_cacache/content-v2/sha512/d5/891648946143028058100 1
@@ -4272,7 +4351,7 @@
 62/home/smelladoc/node_modules/browser-process-hrtime/index.d.ts1649850455082411000 0
 59/home/smelladoc/node_modules/browser-process-hrtime/LICENSE1649850455142411000 0
 102/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/linux-elf/asm/include/openssl/asn1.h1647884632000000000 0
-30/home/smelladoc/src/index.html1649864729174254100 0
+30/home/smelladoc/src/index.html1652381321877924000 0
 57/home/smelladoc/node_modules/spdx-exceptions/package.json1649719864404087400 0
 57/home/smelladoc/node_modules/is-date-object/test/index.js1649719864464087400 0
 49/home/smelladoc/node_modules/is-arrayish/index.js1649717968934087400 0
@@ -4324,6 +4403,7 @@
 66/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/quic.h1647884633000000000 0
 44/home/smelladoc/.npm/_cacache/index-v5/8a/a51649717948214087400 1
 105/home/smelladoc/.npm/_cacache/index-v5/eb/bc/5de662ea6d96571b008913ad47753bac742ceca3b4089f1bf40fc395ce791649850425772411000 0
+46/home/smelladoc/src/images/enlaces_300_dpi.png1652379257177746900 0
 41/home/smelladoc/node_modules/mdn-data/api1649717969104087400 1
 58/home/smelladoc/node_modules/log4js/lib/appenders/index.js1649852275862411000 0
 52/home/smelladoc/node_modules/mdn-data/css/units.json1649717969184087400 0
@@ -4410,7 +4490,6 @@
 52/home/smelladoc/node_modules/@parcel/source-map/dist1649717969124087400 1
 47/home/smelladoc/node_modules/ajv/lib/keyword.js1649850459422411000 0
 43/home/smelladoc/node_modules/ajv/lib/ajv.js1649850457642411000 0
-36/home/smelladoc/node_modules/ajv/lib1649850461682411000 1
 70/home/smelladoc/node_modules/caniuse-lite/data/features/audiotracks.js1649717969194087400 0
 62/home/smelladoc/node_modules/ajv/scripts/publish-built-version1649850455302411000 0
 111/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/linux64-mips64/asm_avx2/include/openssl/err.h1647884633000000000 0
@@ -4522,6 +4601,7 @@
 48/home/smelladoc/node_modules/assert/package.json1649861434594636600 0
 47/home/smelladoc/node_modules/yaml/dist/types.js1649717969214087400 0
 41/home/smelladoc/node_modules/lodash/gt.js1649850462642411000 0
+72/home/smelladoc/dist/Actualidad_roma_webp_categoria_medium.e93d0510.webp1652425946075666600 0
 59/home/smelladoc/node_modules/electron-to-chromium/README.md1649717969084087400 0
 63/home/smelladoc/node_modules/electron-to-chromium/versions.json1649717969074087400 0
 68/home/smelladoc/node_modules/es-abstract/2019/OrdinaryHasInstance.js1649719864634087400 0
@@ -4611,6 +4691,7 @@
 73/home/smelladoc/node_modules/read-pkg/node_modules/path-type/package.json1649719864404087400 0
 105/home/smelladoc/.npm/_cacache/index-v5/4d/dc/fc4845b4d897527a8d76f83ace9a59640d93ee5356ef3fa40374289be8f51649850455742411000 0
 84/home/smelladoc/node_modules/htmlnano/docs/versioned_docs/version-1.1.1/020-usage.md1649717969284087400 0
+41/home/smelladoc/src/images/Roma_small.jpg1652258782272966100 0
 51/home/smelladoc/node_modules/lodash/fp/transform.js1649850462862411000 0
 53/home/smelladoc/node_modules/domutils/lib/querying.js1649717968994087400 0
 57/home/smelladoc/node_modules/htmlnano/docs/versioned_docs1649717969274087400 1
@@ -4750,6 +4831,7 @@
 53/home/smelladoc/node_modules/dashdash/lib/dashdash.js1649850455532411000 0
 57/home/smelladoc/node_modules/es-abstract/2016/ToNumber.js1649719864684087400 0
 75/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/picocolors/types.ts1649716549324087400 0
+63/home/smelladoc/dist/Batallas_roma_detalle_2_large.519fe818.png1652425946225666600 0
 52/home/smelladoc/node_modules/color-convert/README.md1649717968974087400 0
 62/home/smelladoc/node_modules/@parcel/core/src/public/Target.js1649717969394087400 0
 120/home/smelladoc/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-main-directory/nested/index.js1649717969264087400 0
@@ -4813,6 +4895,7 @@
 85/home/smelladoc/node_modules/jsdom/lib/jsdom/living/events/EventModifierMixin-impl.js1649850459932411000 0
 79/home/smelladoc/node_modules/jsdom/lib/jsdom/living/events/MessageEvent-impl.js1649850460202411000 0
 66/home/smelladoc/node_modules/@swc/helpers/lib/_set_prototype_of.js1649717969204087400 0
+81/home/smelladoc/src/images/Construccion_roma_detalle_2_medium.png:Zone.Identifier1652258479343915100 0
 52/home/smelladoc/node_modules/lodash/_wrapperClone.js1649850462422411000 0
 113/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/linux64-riscv64/no-asm/include/openssl/crypto.h1647884633000000000 0
 70/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/x509_asm.h1647884633000000000 0
@@ -5491,9 +5574,6 @@
 46/home/smelladoc/node_modules/svgo/lib/style.js1649717969264087400 0
 47/home/smelladoc/node_modules/picocolors/LICENSE1649717968874087400 0
 64/home/smelladoc/node_modules/path-browserify/.github/FUNDING.yml1649861427954636600 0
-104/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/VC-WIN32/no-asm/include/openssl/ocsp.h1647884632000000000 0
-105/home/smelladoc/.npm/_cacache/index-v5/14/fa/f87baceab26935686548c742091e7014930673bc1f077574c54c4c6c2d2d1649850457022411000 0
-63/home/smelladoc/.npm/_logs/2022-04-13T15_29_21_127Z-debug-0.log1649863761254636600 0
 87/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/caniuse-lite/data/regions/SL.js1649716549964087400 0
 71/home/smelladoc/node_modules/svgo/plugins/removeAttributesBySelector.js1649717969214087400 0
 55/home/smelladoc/node_modules/svgo/plugins/reusePaths.js1649717969264087400 0
@@ -5750,6 +5830,7 @@
 48/home/smelladoc/node_modules/pako/lib/deflate.js1649861432944636600 0
 37/home/smelladoc/node_modules/pako/lib1649861432944636600 1
 41/home/smelladoc/.npm/_cacache/index-v5/e51649850449682411000 1
+81/home/smelladoc/src/images/Construccion_coliseo_detalle_large.jpg:Zone.Identifier1652258323460342600 0
 51/home/smelladoc/node_modules/nanoid/async/index.cjs1649718215574087400 0
 106/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/@parcel/workers/test/integration/workerfarm/ipc.js1649716549494087400 0
 50/home/smelladoc/node_modules/pako/dist/pako.min.js1649861432954636600 0
@@ -6098,6 +6179,7 @@
 48/home/smelladoc/node_modules/tailwindcss/lib/lib1649718215734087400 1
 85/home/smelladoc/node_modules/caniuse-lite/data/features/focusoptions-preventscroll.js1649717969444087400 0
 62/home/smelladoc/node_modules/postcss-value-parser/lib/index.js1649717968914087400 0
+56/home/smelladoc/dist/imagen-clip-path_small.603de6bf.jpg1652425946195666600 0
 59/home/smelladoc/node_modules/postcss-value-parser/README.md1649717969004087400 0
 52/home/smelladoc/node_modules/prelude-ls/CHANGELOG.md1649850456272411000 0
 78/home/smelladoc/node_modules/jsdom/lib/jsdom/living/generated/KeyboardEvent.js1649850462382411000 0
@@ -6465,6 +6547,7 @@
 57/home/smelladoc/node_modules/posthtml/types/posthtml.d.ts1649717968984087400 0
 75/home/smelladoc/node_modules/tailwindcss/stubs/defaultPostCssConfig.stub.js1649718215684087400 0
 56/home/smelladoc/node_modules/es-abstract/2018/ToInt32.js1649719864674087400 0
+74/home/smelladoc/src/images/Construccion_roma_detalle_2.png:Zone.Identifier1652085495838617400 0
 178/home/smelladoc/.npm/_cacache/content-v2/sha512/aa/a5/b3b8e8d214ebaa3e315ee0d3ac30b69f4e8410c0148e1294be17012ddc0d95def2ae6d3aae4f7be62d3429160317a7c02515616e3f5a8a68964eb4fa555e1649850456632411000 0
 69/home/smelladoc/node_modules/caniuse-lite/data/features/array-find.js1649717969164087400 0
 76/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/terser/dist/.gitkeep1649716549234087400 0
@@ -6539,6 +6622,7 @@
 86/home/smelladoc/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/mtest5.c1649717969324087400 0
 86/home/smelladoc/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/Doxyfile1649717969084087400 0
 86/home/smelladoc/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/mtest2.c1649717969314087400 0
+59/home/smelladoc/node_modules/commander/package-support.json1649717968974087400 0
 36/home/smelladoc/node_modules/flatted1649852275882411000 1
 85/home/smelladoc/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/LICENSE1649717969114087400 0
 59/home/smelladoc/node_modules/lmdb/dependencies/lmdb-data-v11649717968884087400 1
@@ -6605,6 +6689,7 @@
 53/home/smelladoc/.npm/_cacache/content-v2/sha512/0b/131648911536974690300 1
 103/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/BSD-x86/no-asm/include/openssl/ocsp.h1647884632000000000 0
 71/home/smelladoc/node_modules/lmdb/dependencies/lz4/lib/liblz4-dll.rc.in1649717969394087400 0
+67/home/smelladoc/dist/Batallas_roma_detalle_webp_small.84ad7a7b.webp1652425946125666600 0
 58/home/smelladoc/node_modules/readable-stream/GOVERNANCE.md1649861431504636600 0
 53/home/smelladoc/node_modules/array-equal/package.json1649850455442411000 0
 64/home/smelladoc/node_modules/lmdb/dependencies/lz4/lib/README.md1649717969404087400 0
@@ -6814,13 +6899,11 @@
 67/home/smelladoc/node_modules/es-abstract/2017/ArraySpeciesCreate.js1649719864524087400 0
 73/home/smelladoc/node_modules/@parcel/runtime-js/src/helpers/bundle-url.js1649717969004087400 0
 78/home/smelladoc/node_modules/caniuse-lite/data/features/background-img-opts.js1649717969214087400 0
-41/home/smelladoc/dist/enlaces.06a53530.png1649864817494636600 0
 59/home/smelladoc/node_modules/es-abstract/2017/RegExpExec.js1649719864644087400 0
 49/home/smelladoc/node_modules/flatted/esm/index.js1649852275872411000 0
 61/home/smelladoc/node_modules/es-abstract/2017/TimeFromYear.js1649719864674087400 0
 50/home/smelladoc/node_modules/acorn/dist/acorn.d.ts1649717969144087400 0
 105/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/@parcel/package-manager/src/promiseFromProcess.js1649716549624087400 0
-109/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/@parcel/core/test/fixtures/config/subfolder/.parcelrc1649716549514087400 0
 70/home/smelladoc/node_modules/es-abstract/2017/DefinePropertyOrThrow.js1649719864554087400 0
 65/home/smelladoc/node_modules/es-abstract/2017/IteratorComplete.js1649719864604087400 0
 55/home/smelladoc/node_modules/es-abstract/2017/ToInt8.js1649719864684087400 0
@@ -6853,7 +6936,7 @@
 62/home/smelladoc/node_modules/es-abstract/2020/TimeWithinDay.js1649719864674087400 0
 54/home/smelladoc/node_modules/svgo/dist/svgo.browser.js1649717969314087400 0
 44/home/smelladoc/node_modules/qs/lib/utils.js1649850456242411000 0
-36/home/smelladoc/dist/actualidad.html1649864817474636600 0
+36/home/smelladoc/dist/actualidad.html1652425946205666600 0
 64/home/smelladoc/node_modules/es-abstract/2020/thisNumberValue.js1649719864664087400 0
 76/home/smelladoc/node_modules/npm-run-all/node_modules/supports-color/license1649719864434087400 0
 69/home/smelladoc/node_modules/supports-preserve-symlinks-flag/index.js1649718215564087400 0
@@ -6948,6 +7031,7 @@
 55/home/smelladoc/node_modules/yaml/browser/dist/types.js1649717969214087400 0
 57/home/smelladoc/node_modules/uri-js/node_modules/punycode1649850459592411000 1
 56/home/smelladoc/node_modules/es-abstract/2020/ToInt32.js1649719864674087400 0
+79/home/smelladoc/src/images/Actualidad_roma_detalle_2_medium.png:Zone.Identifier1652258008771698500 0
 71/home/smelladoc/node_modules/es-abstract/2020/OrdinarySetPrototypeOf.js1649719864634087400 0
 72/home/smelladoc/node_modules/performance-now/test/performance-now.coffee1649850455782411000 0
 178/home/smelladoc/.npm/_cacache/content-v2/sha512/93/13/eec1e43309c082ff37ef3e3806b602679135b2528358e5c401f25492098487928b378f724c00e47d496fd939d8862d7dd7e2c12c936e546c1f75118f1b211648911539734690300 0
@@ -6990,6 +7074,7 @@
 61/home/smelladoc/node_modules/es-abstract/2020/TimeFromYear.js1649719864674087400 0
 178/home/smelladoc/.npm/_cacache/content-v2/sha512/3b/6e/e5e3168c62dfd1490e53477be9582001e4a6ff73321ca9414e33f0b87d870b9db6547353e48d300c8e87f6a4159a493c0e51deaa5077051951a3eda2309f1649850456042411000 0
 70/home/smelladoc/node_modules/es-abstract/2020/DefinePropertyOrThrow.js1649719864554087400 0
+63/home/smelladoc/dist/Actualidad_roma_detalle_small.889fc2c5.jpg1652425946165666600 0
 55/home/smelladoc/node_modules/es-abstract/helpers/mod.js1649719864614087400 0
 105/home/smelladoc/.npm/_cacache/index-v5/35/d9/5979c38e27ec8f9f73890b7f9fbcf80a8169452dc586c4d2d3109b32deb11649850429202411000 0
 105/home/smelladoc/.npm/_cacache/index-v5/7a/9c/13126f497c69f753beb44911c1bfeb44f7f9d926432067c433b9bce441211649850426272411000 0
@@ -7024,6 +7109,8 @@
 48/home/smelladoc/node_modules/pako/lib/inflate.js1649861432944636600 0
 53/home/smelladoc/.npm/_cacache/content-v2/sha512/1e/cc1648911556634690300 1
 44/home/smelladoc/node_modules/browserify-zlib1649861432944636600 1
+36/home/smelladoc/node_modules/ajv/lib1649850461682411000 1
+63/home/smelladoc/.npm/_logs/2022-05-13T07_09_14_343Z-debug-0.log1652425757115666600 0
 37/home/smelladoc/node_modules/inflight1649719864424087400 1
 113/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/linux-ppc64le/asm/include/openssl/opensslconf.h1634190635000000000 0
 54/home/smelladoc/node_modules/postcss-merge-rules/types1649850458382411000 1
@@ -7075,10 +7162,9 @@
 115/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/solaris64-x86_64-gcc/no-asm/include/openssl/err.h1647884633000000000 0
 39/home/smelladoc/node_modules/whatwg-url1649850456242411000 1
 70/home/smelladoc/node_modules/normalize-package-data/lib/safe_format.js1649719864484087400 0
-59/home/smelladoc/node_modules/commander/package-support.json1649717968974087400 0
-63/home/smelladoc/.npm/_logs/2022-04-13T15_29_32_242Z-debug-0.log1649864801774636600 0
 68/home/smelladoc/node_modules/es-abstract/2019/OrdinaryHasProperty.js1649719864634087400 0
 105/home/smelladoc/.npm/_cacache/index-v5/13/8f/db91d80686bf282346640597944fb6780f6208f405e8a1bcb41e5d1f36db1649850456272411000 0
+61/home/smelladoc/dist/Actualidad_roma_webp_small.873122ce.webp1652425946125666600 0
 48/home/smelladoc/node_modules/relateurl/lib/parse1649850456302411000 1
 53/home/smelladoc/node_modules/es-abstract/2019/Call.js1649719864534087400 0
 81/home/smelladoc/node_modules/jsdom/lib/jsdom/living/nodes/HTMLLinkElement-impl.js1649850462632411000 0
@@ -8208,6 +8294,7 @@
 50/home/smelladoc/node_modules/object.assign/LICENSE1649719864444087400 0
 47/home/smelladoc/node_modules/escalade/readme.md1649717968964087400 0
 59/home/smelladoc/node_modules/xml-name-validator/LICENSE.txt1649850455412411000 0
+46/home/smelladoc/src/images/enlaces_600_dpi.png1652379335011757600 0
 72/home/smelladoc/node_modules/autoprefixer/lib/hacks/grid-rows-columns.js1649718215664087400 0
 78/home/smelladoc/node_modules/@parcel/source-map/parcel_sourcemap_node/index.js1649717969024087400 0
 78/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/js-tokens/package.json1649716549234087400 0
@@ -8252,7 +8339,7 @@
 77/home/smelladoc/node_modules/caniuse-lite/data/features/insertadjacenthtml.js1649717969464087400 0
 105/home/smelladoc/.npm/_cacache/index-v5/d9/60/fb383ebde10156d7bf0a2d9fa18afaba8f76bec36a3d49944558d64332761649850461512411000 0
 46/home/smelladoc/node_modules/esprima/ChangeLog1649850457402411000 0
-54/home/smelladoc/src/images/Actualidad_roma_detalle.jpg1649456820884413200 0
+54/home/smelladoc/src/images/Actualidad_roma_detalle.jpg1651591992039192300 0
 62/home/smelladoc/node_modules/@parcel/core/lib/public/Bundle.js1649717969214087400 0
 78/home/smelladoc/node_modules/htmlnano/lib/modules/minifyConditionalComments.js1649717969094087400 0
 56/home/smelladoc/node_modules/function-bind/.editorconfig1649718215594087400 0
@@ -8432,6 +8519,7 @@
 44/home/smelladoc/node_modules/resolve/LICENSE1649718215594087400 0
 85/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/entities/lib/maps/legacy.json1649716549464087400 0
 76/home/smelladoc/node_modules/fast-glob/node_modules/glob-parent/package.json1649718215564087400 0
+62/home/smelladoc/src/images/Actualidad_roma_detalle_2_small.png1652258025724459100 0
 73/home/smelladoc/node_modules/purgecss/node_modules/postcss/lib/postcss.js1649850461652411000 0
 56/home/smelladoc/node_modules/@types/parse-json/README.md1649717968894087400 0
 68/home/smelladoc/node_modules/postcss-minify-font-values/package.json1649850458022411000 0
@@ -8635,6 +8723,7 @@
 105/home/smelladoc/.npm/_cacache/index-v5/9c/b4/b24f4bcdf0ad9430dd530e175736f63b711de83452cc0e3de1e8f3c135391649850458872411000 0
 95/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/msgpackr-extract-linux-x64/package.json1649716549254087400 0
 44/home/smelladoc/node_modules/.bin/sshpk-sign1649850463082411000 0
+74/home/smelladoc/src/images/Construccion_coliseo_webp_categoria_medium.webp1652354007406472500 0
 102/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/caniuse-lite/data/features/devicepixelratio.js1649716549854087400 0
 64/home/smelladoc/node_modules/postcss-reduce-initial/src/index.js1649850457542411000 0
 37/home/smelladoc/node_modules/entities1649717969124087400 1
@@ -8907,6 +8996,7 @@
 48/home/smelladoc/node_modules/colord/package.json1649850457762411000 0
 41/home/smelladoc/node_modules/util/support1649861424604636600 1
 77/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/@parcel/css/README.md1649716550084087400 0
+81/home/smelladoc/src/images/Batallas_roma_detalle_webp_medium.webp:Zone.Identifier1652259275709170600 0
 60/home/smelladoc/node_modules/@parcel/node-resolver-core/test1649717969354087400 1
 54/home/smelladoc/node_modules/html-encoding-sniffer/lib1649850455572411000 1
 47/home/smelladoc/node_modules/picomatch/index.js1649718215564087400 0
@@ -9250,6 +9340,7 @@
 105/home/smelladoc/.npm/_cacache/index-v5/98/b3/1fa33ed2849f6fd99ff3cc3b15f0369820406da669d8f26742a7f351f08c1649850461172411000 0
 51/home/smelladoc/node_modules/concat-map/.travis.yml1649719864434087400 0
 72/home/smelladoc/node_modules/postcss-discard-duplicates/types/index.d.ts1649850457932411000 0
+67/home/smelladoc/src/images/coliseo_romano_small.jpg:Zone.Identifier1652258229460517400 0
 72/home/smelladoc/node_modules/caniuse-lite/data/features/input-pattern.js1649717969464087400 0
 47/home/smelladoc/node_modules/lodash/uniqWith.js1649850462872411000 0
 72/home/smelladoc/node_modules/iconv-lite/encodings/tables/big5-added.json1649850455772411000 0
@@ -9608,6 +9699,7 @@
 127/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/linux32-s390x/asm_avx2/providers/common/include/prov/der_ec.h1647884633000000000 0
 105/home/smelladoc/.npm/_cacache/index-v5/9b/ee/6a261139f2869f4b24a4ae7f814916caa2ffaa43c1e0ca2c1cc2602d81371649850462012411000 0
 59/home/smelladoc/node_modules/es-abstract/2021/Number/add.js1649719864524087400 0
+63/home/smelladoc/src/images/Construccion_coliseo_webp_small.webp1652259451058451900 0
 105/home/smelladoc/.npm/_cacache/index-v5/6b/ac/873bbccc3b70b17e1c1fbddbda99b69f0d507fd8d12442008ee2f2518c1f1648946150018058100 0
 46/home/smelladoc/node_modules/lodash/initial.js1649850462662411000 0
 53/home/smelladoc/.npm/_cacache/content-v2/sha512/38/161648911553074690300 1
@@ -9786,7 +9878,7 @@
 81/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/@parcel/core/lib/index.js1649716549714087400 0
 49/home/smelladoc/node_modules/lmdb/dependencies/v81649717969384087400 1
 80/home/smelladoc/node_modules/@parcel/package-manager/src/MockPackageInstaller.js1649717969204087400 0
-15/home/smelladoc1649864817444636600 1
+15/home/smelladoc1652425946065666600 1
 107/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/solaris-x86-gcc/asm/include/openssl/cms.h1647884633000000000 0
 69/home/smelladoc/node_modules/purgecss/node_modules/color-name/LICENSE1649850454982411000 0
 87/home/smelladoc/node_modules/@babel/highlight/node_modules/color-convert/conversions.js1649717968934087400 0
@@ -9904,7 +9996,7 @@
 98/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/@parcel/packager-js/lib/ESMOutputFormat.js1649716549394087400 0
 70/home/smelladoc/node_modules/@babel/highlight/node_modules/ansi-styles1649717968924087400 1
 107/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/darwin64-x86_64-cc/no-asm/include/progs.h1647884632000000000 0
-34/home/smelladoc/src/categoria.html1649864753854172600 0
+34/home/smelladoc/src/categoria.html1652382320323466700 0
 58/home/smelladoc/node_modules/@babel/highlight/node_modules1649717967944087400 1
 178/home/smelladoc/.npm/_cacache/content-v2/sha512/62/e8/04279cdeff40cb4485418c2a43c003562f8a4f8f590727fda5958f31b889ebd276e4a27dea4e230f7b92d06be702c0d8f14bb9c06594e9fb533eea64f8661649850461632411000 0
 67/home/smelladoc/node_modules/css-tree/lib/syntax/node/WhiteSpace.js1649717969384087400 0
@@ -10247,6 +10339,7 @@
 99/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/linux32-s390x/asm/include/progs.h1647884633000000000 0
 62/home/smelladoc/node_modules/purgecss/node_modules/postcss/lib1649850462072411000 1
 87/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/caniuse-lite/data/regions/TD.js1649716549964087400 0
+52/home/smelladoc/src/images/coliseo_romano_medium.jpg1652258169397277000 0
 178/home/smelladoc/.npm/_cacache/content-v2/sha512/84/d3/6501dde07effe23e6b0dc58a003cbbf183b1ee3e8cf0c3b7c5a27319bcbf38b4fe8ec798a07e4e63ffe6bdaed249c2a32028af89816b00422939a341d32c1649850456432411000 0
 65/home/smelladoc/node_modules/available-typed-arrays/.eslintignore1649861424534636600 0
 62/home/smelladoc/node_modules/log4js/lib/appenders/recording.js1649852275872411000 0
@@ -10303,6 +10396,7 @@
 44/home/smelladoc/.npm/_cacache/index-v5/f5/e71649850460532411000 1
 60/home/smelladoc/node_modules/caniuse-lite/data/regions/FJ.js1649717969434087400 0
 75/home/smelladoc/node_modules/postcss-normalize-timing-functions/LICENSE-MIT1649850457402411000 0
+61/home/smelladoc/src/images/Batallas_roma_categoria_medium.jpg1652354269310576600 0
 105/home/smelladoc/.npm/_cacache/index-v5/21/5a/0bfaac0d30b529a0a41e0661a1b8108a0ab50e90ae5b7d892ddea4745faf1649718212454087400 0
 77/home/smelladoc/node_modules/css-select/lib/pseudo-selectors/filters.d.ts.map1649717969104087400 0
 65/home/smelladoc/node_modules/yaml/browser/dist/Schema-e94716c8.js1649717969194087400 0
@@ -11086,6 +11180,7 @@
 60/home/smelladoc/node_modules/asynckit/lib/readable_serial.js1649850455822411000 0
 43/home/smelladoc/node_modules/supports-color1649717968924087400 1
 69/home/smelladoc/node_modules/es-abstract/2019/CreateMethodProperty.js1649719864544087400 0
+74/home/smelladoc/src/images/Actualidad_roma_webp_small.webp:Zone.Identifier1652259151638127100 0
 67/home/smelladoc/node_modules/@parcel/transformer-babel/package.json1649717969114087400 0
 74/home/smelladoc/node_modules/@parcel/reporter-cli/test/CLIReporter.test.js1649717969104087400 0
 178/home/smelladoc/.npm/_cacache/content-v2/sha512/2a/b7/78fb02c330e10d46e8b92ba7a353bbc0c341def3b1328917fcdb1ae59c726c7e584ba342b941239373ed6ee5aa4f90a9228d9d2e684bd70268eeb36549f81649850433842411000 0
@@ -11565,6 +11660,7 @@
 45/home/smelladoc/node_modules/semver/README.md1649717969004087400 0
 44/home/smelladoc/node_modules/lodash/keyBy.js1649850462742411000 0
 114/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/@parcel/core/test/fixtures/library-scopehoist/package.json1649716549844087400 0
+67/home/smelladoc/dist/Construccion_coliseo_webp_medium.83915250.webp1652425946085666600 0
 111/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/VC-WIN32/asm_avx2/include/openssl/safestack.h1647884632000000000 0
 69/home/smelladoc/node_modules/es-abstract/2017/ToPropertyDescriptor.js1649719864684087400 0
 42/home/smelladoc/node_modules/pn/process.js1649850456932411000 0
@@ -11652,6 +11748,7 @@
 53/home/smelladoc/.npm/_cacache/content-v2/sha512/31/0e1649850434072411000 1
 64/home/smelladoc/node_modules/caniuse-lite/data/features/forms.js1649717969444087400 0
 85/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/css-select/lib/types.d.ts.map1649716549534087400 0
+75/home/smelladoc/src/images/Actualidad_roma_webp_medium.webp:Zone.Identifier1652259136197888300 0
 54/home/smelladoc/node_modules/safer-buffer/package.json1649850456722411000 0
 105/home/smelladoc/.npm/_cacache/index-v5/d0/39/f3ea46b7a48d1b108681523c9e802f48f2779894068bc9b984863ca189391649850449762411000 0
 99/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/linux-ppc/asm_avx2/crypto/include1649716553534087400 1
@@ -11778,6 +11875,7 @@
 92/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/caniuse-lite/data/features/jpegxr.js1649716549904087400 0
 74/home/smelladoc/node_modules/@parcel/transformer-raw/lib/RawTransformer.js1649717968914087400 0
 60/home/smelladoc/node_modules/css-tree/lib/syntax/node/Url.js1649717969374087400 0
+64/home/smelladoc/dist/Actualidad_roma_detalle_medium.4326db13.jpg1652425946165666600 0
 106/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/linux-elf/asm/include/openssl/opensslv.h1647884632000000000 0
 41/home/smelladoc/node_modules/defined/test1649718215594087400 1
 99/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/caniuse-lite/data/features/object-values.js1649716549934087400 0
@@ -11863,6 +11961,7 @@
 75/home/smelladoc/node_modules/caniuse-lite/data/features/css-env-function.js1649717969354087400 0
 86/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/terser/node_modules/source-map1649716549454087400 1
 60/home/smelladoc/node_modules/@parcel/source-map/src/types.js1649717969104087400 0
+76/home/smelladoc/src/images/Batallas_roma_detalle_2_small.png:Zone.Identifier1652257858967446900 0
 69/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/@parcel/types1649716549344087400 1
 54/home/smelladoc/node_modules/@parcel/utils/src/blob.js1649717968964087400 0
 58/home/smelladoc/node_modules/fs-extra/lib/json/jsonfile.js1649852275802411000 0
@@ -12004,6 +12103,7 @@
 55/home/smelladoc/node_modules/colord/plugins/minify.d.ts1649850459242411000 0
 50/home/smelladoc/.npm/_cacache/content-v2/sha512/c31649850428732411000 1
 59/home/smelladoc/node_modules/nanoid/non-secure/package.json1649718215624087400 0
+65/home/smelladoc/dist/Actualidad_roma_detalle_2_small.31b90851.png1652425946185666600 0
 57/home/smelladoc/node_modules/css-tree/lib/syntax/index.js1649717969314087400 0
 178/home/smelladoc/.npm/_cacache/content-v2/sha512/ca/e2/f989003f4db667f911807f14177e2ec234b98a8b57fccc89e7e088286ee0967006fb8bece3e1363343d97c704cd5c89f3d3c31aeab12b5c59a540c849eb31649850459052411000 0
 40/home/smelladoc/node_modules/date-format1649852275882411000 1
@@ -12849,6 +12949,7 @@
 49/home/smelladoc/node_modules/lodash/_asciiSize.js1649850458712411000 0
 178/home/smelladoc/.npm/_cacache/content-v2/sha512/7c/bf/1022b701403e3824905249caaf8fb04fd90aae31c1a80a9f50b981c461aeb6563f2a069ab51aace5c83c8059279a39a7d95b54ecb5b3ef559983ccba2bbf1648911557894690300 0
 63/home/smelladoc/node_modules/css-tree/lib/syntax/scope/index.js1649717969314087400 0
+55/home/smelladoc/dist/coliseo_romano_medium.6db7fdae.jpg1652425946195666600 0
 56/home/smelladoc/node_modules/css-tree/lib/utils/names.js1649717969344087400 0
 63/home/smelladoc/node_modules/es-abstract/2016/ArraySetLength.js1649719864524087400 0
 44/home/smelladoc/.npm/_cacache/index-v5/1c/4f1649850462122411000 1
@@ -13734,6 +13835,7 @@
 104/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/darwin64-x86_64-cc/asm/include/progs.h1647884632000000000 0
 48/home/smelladoc/node_modules/lodash/fp/deburr.js1649850462542411000 0
 64/home/smelladoc/node_modules/postcss-calc/src/lib/convertUnit.js1649850458062411000 0
+68/home/smelladoc/dist/Batallas_roma_detalle_webp_medium.a4e53968.webp1652425946075666600 0
 43/home/smelladoc/node_modules/levn/README.md1649850456172411000 0
 119/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/VC-WIN64A/asm/providers/common/include/prov/der_dsa.h1647884632000000000 0
 178/home/smelladoc/.npm/_cacache/content-v2/sha512/17/8c/0e920f689370a9f3ce020e12a0247efe7376b0ad1425976a29610ad2e7de8b80f50621dd4a84a6bc88ccc178d50f3f435a894d82a240ffc38d99fc2520941648946145308058100 0
@@ -14101,7 +14203,6 @@
 111/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/linux64-mips64/no-asm/crypto/include/internal1649716553894087400 1
 65/home/smelladoc/node_modules/@parcel/transformer-raw/package.json1649717968954087400 0
 114/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/@babel/highlight/node_modules/color-convert/conversions.js1649716549294087400 0
-49/home/smelladoc/dist/Actualidad_roma.82434368.jpg1649864817464636600 0
 51/home/smelladoc/node_modules/lodash/assignInWith.js1649850462452411000 0
 60/home/smelladoc/node_modules/@parcel/transformer-raw/LICENSE1649717968884087400 0
 44/home/smelladoc/node_modules/flatted/LICENSE1649852275842411000 0
@@ -14236,7 +14337,6 @@
 54/home/smelladoc/node_modules/brace-expansion/README.md1649719864434087400 0
 77/home/smelladoc/node_modules/postcss-merge-longhand/types/lib/canExplode.d.ts1649850459622411000 0
 61/home/smelladoc/node_modules/term-size/vendor/macos/term-size1649717968964087400 0
-91/home/smelladoc/node_modules/@parcel/package-manager/test/fixtures/has-foo/node_modules/foo1649717969254087400 1
 46/home/smelladoc/node_modules/@parcel/codeframe1649717969264087400 1
 72/home/smelladoc/node_modules/fast-glob/out/providers/matchers/partial.js1649718215634087400 0
 50/home/smelladoc/node_modules/@parcel/codeframe/src1649717969254087400 1
@@ -14295,6 +14395,7 @@
 76/home/smelladoc/node_modules/@parcel/core/lib/requests/WriteBundleRequest.js1649717969414087400 0
 63/home/smelladoc/node_modules/postcss-discard-overridden/LICENSE1649850457542411000 0
 78/home/smelladoc/node_modules/@parcel/transformer-babel/lib/BabelTransformer.js1649717968984087400 0
+68/home/smelladoc/dist/Construccion_coliseo_detalle_small.0656a7ed.jpg1652425946165666600 0
 82/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/nan/doc/object_wrappers.md1649716549614087400 0
 44/home/smelladoc/node_modules/rfdc/index.d.ts1649852275852411000 0
 118/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/@parcel/package-manager/test/fixtures/has-foo/node_modules/foo1649716549654087400 1
@@ -14466,7 +14567,6 @@
 73/home/smelladoc/node_modules/@parcel/runtime-js/lib/helpers/bundle-url.js1649717968994087400 0
 178/home/smelladoc/.npm/_cacache/content-v2/sha512/b1/0a/de21b2e59bbf38d1c5b3b6ed6d9676494fa12d4ea88f83a3ccf36d18a1c2150df1a6109a0b1df1831427f5a95915543d74334434dee26c762734b74e88531648942537308058100 0
 81/home/smelladoc/node_modules/@parcel/runtime-js/lib/helpers/browser/css-loader.js1649717969054087400 0
-63/home/smelladoc/.npm/_logs/2022-04-13T15_46_55_907Z-debug-0.log1649864816044636600 0
 82/home/smelladoc/node_modules/@parcel/runtime-js/lib/helpers/browser/wasm-loader.js1649717969194087400 0
 61/home/smelladoc/node_modules/postcss-load-config/src/index.js1649718215554087400 0
 51/home/smelladoc/.npm/_cacache/content-v2/sha1/ec/dc1649850456272411000 1
@@ -14515,6 +14615,7 @@
 63/home/smelladoc/node_modules/postcss-normalize-url/src/index.js1649850457532411000 0
 62/home/smelladoc/node_modules/type-fest/source/stringified.d.ts1649717969164087400 0
 105/home/smelladoc/.npm/_cacache/index-v5/cd/01/6281296d67cf2bcf8284fb2677bdb71dc513e8705f473fa0911ee3d935dd1649850457522411000 0
+49/home/smelladoc/dist/enlaces_150_dpi.204b2e73.png1652425946165666600 0
 81/home/smelladoc/node_modules/jsdom/lib/jsdom/living/generated/HTMLLabelElement.js1649850462232411000 0
 84/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/@types/parse-json/index.d.ts1649716549264087400 0
 145/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-module-fallback/package.json1649716549814087400 0
@@ -14772,6 +14873,7 @@
 55/home/smelladoc/node_modules/array-equal/component.json1649850455672411000 0
 87/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/caniuse-lite/data/regions/JE.js1649716549904087400 0
 93/home/smelladoc/node_modules/@parcel/core/test/fixtures/custom-format-infer-type/package.json1649717969424087400 0
+62/home/smelladoc/src/images/enlaces_300_dpi.png:Zone.Identifier1652379257177746900 0
 73/home/smelladoc/node_modules/tailwindcss/src/lib/collapseAdjacentRules.js1649718215654087400 0
 42/home/smelladoc/node_modules/@parcel/utils1649717969324087400 1
 87/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/caniuse-lite/data/regions/NU.js1649716549934087400 0
@@ -14856,12 +14958,13 @@
 71/home/smelladoc/node_modules/postcss-merge-longhand/src/lib/getDecls.js1649850458522411000 0
 71/home/smelladoc/node_modules/es-abstract/2017/OrdinaryGetPrototypeOf.js1649719864634087400 0
 98/home/smelladoc/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-fallback1649717969394087400 1
+39/home/smelladoc/src/favicon_coliseo.ico1652202320430068700 0
 48/home/smelladoc/.npm/_cacache/content-v2/sha1/b81649850460462411000 1
 59/home/smelladoc/node_modules/w3c-xmlserializer/package.json1649850455412411000 0
 55/home/smelladoc/node_modules/@parcel/utils/package.json1649717969324087400 0
 105/home/smelladoc/.npm/_cacache/index-v5/ec/6b/0f492a53bbe3c6164d822c8c172154989e547e6a5f8383a0302d708279701649850434092411000 0
 43/home/smelladoc/node_modules/lodash/join.js1649850462732411000 0
-22/home/smelladoc/src/js1649863612104636600 1
+22/home/smelladoc/src/js1652424935265666600 1
 51/home/smelladoc/node_modules/lodash/flatMapDepth.js1649850462612411000 0
 178/home/smelladoc/.npm/_cacache/content-v2/sha512/76/ba/831b771b733c7110946839770e8ed769d49fe5ca9d66367d316b39d1b3cfa6b8186041cae76eca68c795f97cec341e73276df0f3be710c12da83109128f31649850454902411000 0
 105/home/smelladoc/.npm/_cacache/index-v5/dd/50/286afc99bace92cde31d73618857aa64e0eea03a21e6918401e647e7ae131649850429002411000 0
@@ -15665,7 +15768,7 @@
 88/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/@swc/helpers/src/_await_value.js1649716549654087400 0
 71/home/smelladoc/node_modules/@parcel/runtime-react-refresh/package.json1649717968964087400 0
 58/home/smelladoc/node_modules/jsdom/node_modules/ws/LICENSE1649850459492411000 0
-105/home/smelladoc/.npm/_cacache/index-v5/af/03/5c781820370e585dc2323edbbc80669bf714da5b47d56510c7d0bd7521ee1649716513204087400 0
+105/home/smelladoc/.npm/_cacache/index-v5/af/03/5c781820370e585dc2323edbbc80669bf714da5b47d56510c7d0bd7521ee1652425285855666600 0
 44/home/smelladoc/.npm/_cacache/index-v5/11/da1649850455862411000 1
 66/home/smelladoc/node_modules/@parcel/runtime-react-refresh/LICENSE1649717968884087400 0
 68/home/smelladoc/node_modules/caniuse-lite/data/features/es6-class.js1649717969434087400 0
@@ -15850,6 +15953,7 @@
 56/home/smelladoc/node_modules/relateurl/lib/parse/path.js1649850456222411000 0
 49/home/smelladoc/node_modules/ordered-binary/tests1649717968974087400 1
 74/home/smelladoc/node_modules/@parcel/runtime-browser-hmr/src/HMRRuntime.js1649717969064087400 0
+63/home/smelladoc/.npm/_logs/2022-05-13T07_11_55_260Z-debug-0.log1652425922055666600 0
 46/home/smelladoc/node_modules/lodash/inRange.js1649850462662411000 0
 92/home/smelladoc/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/foo/nested1649717969144087400 1
 65/home/smelladoc/node_modules/available-typed-arrays/test/index.js1649861424534636600 0
@@ -16046,12 +16150,12 @@
 51/home/smelladoc/node_modules/delayed-stream/License1649850455272411000 0
 47/home/smelladoc/node_modules/delayed-stream/lib1649850455402411000 1
 60/home/smelladoc/node_modules/dotenv-expand/dotenv-expand.png1649717968894087400 0
+62/home/smelladoc/src/images/Actualidad_roma_detalle_2_large.png1652257988066139000 0
 88/home/smelladoc/.npm/_cacache/content-v2/sha1/26/e6/1ed1422fb70dd42e6e36729ed51d855fe8d91649850456962411000 0
 57/home/smelladoc/node_modules/bcrypt-pbkdf/CONTRIBUTING.md1649850455292411000 0
 53/home/smelladoc/node_modules/lodash/fp/findLastKey.js1649850462602411000 0
 57/home/smelladoc/node_modules/es-abstract/2020/TimeClip.js1649719864664087400 0
 57/home/smelladoc/node_modules/@swc/helpers/lib/_type_of.js1649717969224087400 0
-63/home/smelladoc/.npm/_logs/2022-04-13T15_29_21_360Z-debug-0.log1649863765854636600 0
 52/home/smelladoc/node_modules/ajv/lib/dotjs/_limit.js1649850455852411000 0
 36/home/smelladoc/node_modules/pidtree1649719864484087400 1
 55/home/smelladoc/node_modules/har-validator/package.json1649850455512411000 0
@@ -16432,7 +16536,7 @@
 53/home/smelladoc/.npm/_cacache/content-v2/sha512/33/731648911560094690300 1
 85/home/smelladoc/node_modules/resolve/test/resolver/nested_symlinks/mylib/package.json1649718215704087400 0
 105/home/smelladoc/.npm/_cacache/index-v5/9f/74/8e33e878b4c307a9cce07ddb8b66c8c49eecb3a8f3e662c5a1f5fc27f0851649850428572411000 0
-31/home/smelladoc/dist/index.html1649864817504636600 0
+31/home/smelladoc/dist/index.html1652425946195666600 0
 75/home/smelladoc/node_modules/postcss-merge-longhand/src/lib/decl/columns.js1649850458482411000 0
 101/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/@swc/helpers/lib/_async_generator_delegate.js1649716549354087400 0
 75/home/smelladoc/node_modules/postcss-merge-longhand/src/lib/decl/boxBase.js1649850457972411000 0
@@ -16491,6 +16595,7 @@
 53/home/smelladoc/.npm/_cacache/content-v2/sha512/84/1c1648911544474690300 1
 50/home/smelladoc/node_modules/lodash/forOwnRight.js1649850462632411000 0
 51/home/smelladoc/node_modules/assert/build/assert.js1649861434614636600 0
+66/home/smelladoc/src/images/Batallas_roma_large.jpg:Zone.Identifier1652257639324847500 0
 53/home/smelladoc/.npm/_cacache/content-v2/sha512/73/df1649850460542411000 1
 72/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/lmdb/external.js1649716549804087400 0
 70/home/smelladoc/node_modules/@parcel/reporter-dev-server/src/templates1649717968994087400 1
@@ -16684,7 +16789,6 @@
 53/home/smelladoc/node_modules/htmlparser2/lib/index.js1649717968924087400 0
 76/home/smelladoc/node_modules/@swc/helpers/src/_apply_decorated_descriptor.js1649717969234087400 0
 35/home/smelladoc/node_modules/lodash1649850462902411000 1
-54/home/smelladoc/src/images/enlaces.png:Zone.Identifier1649369905243083400 0
 44/home/smelladoc/.npm/_cacache/index-v5/cf/221649850430502411000 1
 44/home/smelladoc/.npm/_cacache/index-v5/68/7a1649850462172411000 1
 178/home/smelladoc/.npm/_cacache/content-v2/sha512/68/d7/5b9e3f4ff0f8dd5d4e326da58b2b6205de373f1280d86c2ec06b35bab68dd346c7d7c6c702f545ce07988388442b93221b5a9d922d075ae3e4006bb9dcdf1649850461462411000 0
@@ -16749,6 +16853,7 @@
 58/home/smelladoc/node_modules/es-abstract/2015/GetMethod.js1649719864574087400 0
 105/home/smelladoc/.npm/_cacache/index-v5/25/5e/e8321d61d4731578a250b240981ac3bb550d2ad726b8e9822f1ca03d43ca1649719862144087400 0
 178/home/smelladoc/.npm/_cacache/content-v2/sha512/9b/12/0301bf4bb26e83a0e27bc47fb9f97e32d4b53fe078b9d0bf42e6c22cc0adc9cd42d2e1bc24d45be374182f611e1bcd3e2db944220b5e451367f91db2ef631648942541098058100 0
+55/home/smelladoc/src/favicon_coliseo.ico:Zone.Identifier1652202320430068700 0
 105/home/smelladoc/.npm/_cacache/index-v5/be/f2/7db20b5871db7782c3b13c3803c40cf27980f0e59681ba5945fe23a13b471649719863164087400 0
 67/home/smelladoc/node_modules/es-abstract/2015/IsConcatSpreadable.js1649719864594087400 0
 61/home/smelladoc/node_modules/es-abstract/2018/HourFromTime.js1649719864584087400 0
@@ -16998,6 +17103,7 @@
 51/home/smelladoc/node_modules/lodash/fp/invertObj.js1649850462662411000 0
 44/home/smelladoc/.npm/_cacache/index-v5/09/de1649850460952411000 1
 52/home/smelladoc/node_modules/whatwg-url/lib/utils.js1649850456022411000 0
+80/home/smelladoc/src/images/Construccion_coliseo_webp_medium.webp:Zone.Identifier1652259436004986600 0
 41/home/smelladoc/.npm/_cacache/index-v5/ef1649850458022411000 1
 75/home/smelladoc/node_modules/string.prototype.padend/test/implementation.js1649719864474087400 0
 48/home/smelladoc/node_modules/lodash/fp/padEnd.js1649850462792411000 0
@@ -17222,6 +17328,7 @@
 48/home/smelladoc/node_modules/lodash/fp/forOwn.js1649850462632411000 0
 66/home/smelladoc/node_modules/postcss-normalize-unicode/LICENSE-MIT1649850457402411000 0
 55/home/smelladoc/node_modules/stealthy-require/README.md1649850455182411000 0
+69/home/smelladoc/src/images/Actualidad_roma_webp_categoria_medium.webp1652354598140478100 0
 94/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/type-fest/source/conditional-pick.d.ts1649716549404087400 0
 53/home/smelladoc/.npm/_cacache/content-v2/sha512/ec/381648942535528058100 1
 44/home/smelladoc/.npm/_cacache/index-v5/03/db1648911560634690300 1
@@ -17270,10 +17377,12 @@
 44/home/smelladoc/.npm/_cacache/index-v5/c0/f61649850458752411000 1
 100/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/caniuse-lite/data/features/variable-fonts.js1649716549984087400 0
 48/home/smelladoc/node_modules/lodash/fp/curryN.js1649850462532411000 0
+72/home/smelladoc/src/images/Actualidad_roma_detalle_2.png:Zone.Identifier1652086289694756700 0
 46/home/smelladoc/node_modules/@parcel/graph/lib1649717969114087400 1
 178/home/smelladoc/.npm/_cacache/content-v2/sha512/12/6b/7cafccf72da52b02a10a9c67fa69364a964d5e5801ad366c077b3b0b25637f87e346dbd55a8020e0cb7aeb23cf8c49fe81ba137687dbc856e6456e8ba4681648911544414690300 0
 60/home/smelladoc/node_modules/is-generator-function/.eslintrc1649861424604636600 0
 47/home/smelladoc/node_modules/lodash/fp/unset.js1649850462872411000 0
+66/home/smelladoc/dist/Construccion_coliseo_webp_large.5cd42681.webp1652425946085666600 0
 105/home/smelladoc/.npm/_cacache/index-v5/fa/7a/2dbfcca04f591bceee2464b6073c2d463e4cc5b435298726cf55071cf2d81649850455822411000 0
 69/home/smelladoc/node_modules/postcss-normalize-whitespace/LICENSE-MIT1649850457402411000 0
 103/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/VC-WIN32/no-asm/include/openssl/cmp.h1647884632000000000 0
@@ -17540,6 +17649,8 @@
 83/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/@parcel/utils/src/is-url.js1649716549674087400 0
 109/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/darwin64-arm64-cc/asm_avx2/providers/common1649716553204087400 1
 51/home/smelladoc/node_modules/lodash/_assignValue.js1649850458952411000 0
+91/home/smelladoc/node_modules/@parcel/package-manager/test/fixtures/has-foo/node_modules/foo1649717969254087400 1
+63/home/smelladoc/.npm/_logs/2022-05-13T07_12_24_861Z-debug-0.log1652425944945666600 0
 178/home/smelladoc/.npm/_cacache/content-v2/sha512/62/81/a59f71832e9c33c02252572968b6b064338b0141c21092fea7426ec4f4445f68dd3824bca8d5b6785099d3a6cc36aa5185a925ba8ac5cd69da787dfb25551649850443192411000 0
 100/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/caniuse-lite/data/features/css-textshadow.js1649716549834087400 0
 45/home/smelladoc/node_modules/lodash/keysIn.js1649850462742411000 0
@@ -17866,6 +17977,7 @@
 68/home/smelladoc/node_modules/caniuse-lite/data/features/gyroscope.js1649717969454087400 0
 70/home/smelladoc/node_modules/caniuse-lite/data/features/css-filters.js1649717969354087400 0
 64/home/smelladoc/node_modules/caniuse-lite/data/features/meter.js1649717969484087400 0
+53/home/smelladoc/.npm/_cacache/content-v2/sha512/f9/3e1652425285115666600 1
 77/home/smelladoc/node_modules/caniuse-lite/data/features/css-initial-letter.js1649717969374087400 0
 90/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/htmlnano/lib/modules/minifyUrls.js1649716549564087400 0
 68/home/smelladoc/node_modules/caniuse-lite/data/features/atob-btoa.js1649717969184087400 0
@@ -17946,7 +18058,6 @@
 51/home/smelladoc/node_modules/@parcel/codeframe/test1649717969264087400 1
 67/home/smelladoc/node_modules/caniuse-lite/data/features/fontface.js1649717969444087400 0
 107/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/linux-armv4/no-asm/include/openssl/x509.h1647884632000000000 0
-70/home/smelladoc/src/images/Actualidad_roma_detalle.jpg:Zone.Identifier1649456820884413200 0
 41/home/smelladoc/.npm/_cacache/index-v5/a41649850458972411000 1
 57/home/smelladoc/node_modules/es-abstract/2020/ToNumber.js1649719864684087400 0
 62/home/smelladoc/node_modules/caniuse-lite/data/features/u2f.js1649717969534087400 0
@@ -17958,7 +18069,7 @@
 105/home/smelladoc/.npm/_cacache/index-v5/65/1c/c41de2f0aacb602ffbb534cac40a10a7b34575a2a87cf2f83b50827b53041648946150308058100 0
 64/home/smelladoc/node_modules/@parcel/watcher/prebuilds/win32-x641649717969274087400 1
 75/home/smelladoc/node_modules/caniuse-lite/data/features/broadcastchannel.js1649717969254087400 0
-26/home/smelladoc/.npm/_logs1649864816234636600 1
+26/home/smelladoc/.npm/_logs1652425944945666600 1
 53/home/smelladoc/.npm/_cacache/content-v2/sha512/ab/ce1649850428492411000 1
 75/home/smelladoc/node_modules/caniuse-lite/data/features/css-text-spacing.js1649717969404087400 0
 73/home/smelladoc/node_modules/caniuse-lite/data/features/serviceworkers.js1649717969514087400 0
@@ -18073,7 +18184,6 @@
 45/home/smelladoc/node_modules/jsdom/lib/api.js1649850456402411000 0
 74/home/smelladoc/node_modules/caniuse-lite/data/features/media-attribute.js1649717969484087400 0
 69/home/smelladoc/node_modules/caniuse-lite/data/features/web-serial.js1649717969544087400 0
-57/home/smelladoc/dist/Actualidad_roma_detalle.f5dc0787.jpg1649864817504636600 0
 98/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/aix64-gcc-as/asm/include/openssl1649716554114087400 1
 53/home/smelladoc/.npm/_cacache/content-v2/sha512/8d/951649850458872411000 1
 75/home/smelladoc/node_modules/caniuse-lite/data/features/css-not-sel-list.js1649717969384087400 0
@@ -18192,6 +18302,7 @@
 105/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/@parcel/reporter-dev-server/src/ServerReporter.js1649716549594087400 0
 84/home/smelladoc/node_modules/caniuse-lite/data/features/document-scrollingelement.js1649717969424087400 0
 66/home/smelladoc/node_modules/caniuse-lite/data/features/history.js1649717969454087400 0
+77/home/smelladoc/src/images/Actualidad_roma_detalle_medium.jpg:Zone.Identifier1652255724720351300 0
 64/home/smelladoc/node_modules/@parcel/package-manager/src/Pnpm.js1649717969224087400 0
 82/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/svgo/plugins/reusePaths.js1649716549664087400 0
 112/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/darwin64-x86_64-cc/asm/include/openssl/asn1t.h1647884632000000000 0
@@ -18405,6 +18516,7 @@
 60/home/smelladoc/node_modules/caniuse-lite/data/regions/TJ.js1649717969524087400 0
 62/home/smelladoc/node_modules/jsdom/lib/jsdom/living/domparsing1649850459602411000 1
 60/home/smelladoc/node_modules/caniuse-lite/data/regions/CU.js1649717969414087400 0
+63/home/smelladoc/.npm/_logs/2022-05-13T07_04_43_576Z-debug-0.log1652425486625666600 0
 60/home/smelladoc/node_modules/caniuse-lite/data/regions/IE.js1649717969454087400 0
 77/home/smelladoc/node_modules/jsdom/lib/jsdom/living/generated/CDATASection.js1649850461122411000 0
 87/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/caniuse-lite/data/regions/WF.js1649716549994087400 0
@@ -18592,7 +18704,6 @@
 49/home/smelladoc/node_modules/caniuse-lite/LICENSE1649717968894087400 0
 85/home/smelladoc/node_modules/jsdom/lib/jsdom/living/generated/HTMLTableCellElement.js1649850462342411000 0
 46/home/smelladoc/node_modules/caniuse-lite/dist1649717969514087400 1
-63/home/smelladoc/.npm/_logs/2022-04-13T15_29_32_009Z-debug-0.log1649863772134636600 0
 54/home/smelladoc/node_modules/stylehacks/src/dictionary1649850458522411000 1
 58/home/smelladoc/node_modules/es-abstract/helpers/assign.js1649719864524087400 0
 82/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/@parcel/workers/lib/bus.js1649716549314087400 0
@@ -18818,6 +18929,7 @@
 47/home/smelladoc/node_modules/events/.airtap.yml1649861437304636600 0
 76/home/smelladoc/node_modules/load-json-file/node_modules/parse-json/index.js1649719864414087400 0
 51/home/smelladoc/node_modules/load-json-file/license1649719864424087400 0
+63/home/smelladoc/.npm/_logs/2022-05-13T07_11_55_748Z-debug-0.log1652425922045666600 0
 44/home/smelladoc/.npm/_cacache/index-v5/a4/6b1649850457762411000 1
 56/home/smelladoc/node_modules/load-json-file/package.json1649719864404087400 0
 53/home/smelladoc/node_modules/load-json-file/readme.md1649719864434087400 0
@@ -18828,15 +18940,17 @@
 69/home/smelladoc/node_modules/postcss-normalize-timing-functions/types1649850457722411000 1
 33/home/smelladoc/package-lock.json1649861437694636600 0
 20/home/smelladoc/.npm1649716514084087400 1
-123/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/linux-armv4/no-asm/providers/common/include/prov/der_ec.h1647884632000000000 0
-63/home/smelladoc/.npm/_logs/2022-04-13T15_46_45_878Z-debug-0.log1649864806014636600 0
-105/home/smelladoc/.npm/_cacache/index-v5/40/58/bcf75a4945571abf27d11132ec918f3163e7b0ebbcb102340d810536a07c1649861424344636600 0
-63/home/smelladoc/.npm/_logs/2022-04-13T15_29_31_743Z-debug-0.log1649864801784636600 0
-86/home/smelladoc/node_modules/terser/node_modules/source-map/lib/source-map-consumer.js1649717969134087400 0
-44/home/smelladoc/node_modules/is-absolute-url1649850455712411000 1
-76/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/msgpackr/SECURITY.md1649716549524087400 0
-63/home/smelladoc/.npm/_logs/2022-04-13T15_46_56_153Z-debug-0.log1649864816234636600 0
-50/home/smelladoc/.npm/_update-notifier-last-checked1649864816234636600 0
+63/home/smelladoc/.npm/_logs/2022-05-13T07_12_24_347Z-debug-0.log1652425944425666600 0
+178/home/smelladoc/.npm/_cacache/content-v2/sha512/ff/93/f2ac34b1664d43f25e98d6b4c9c0e19cd14522a0fcedb21c0550f3a8b14c177278ca01fe7201444acf07adc516128142686d89cd175da8b2b9cdb72801bf1648911557764690300 0
+63/home/smelladoc/.npm/_logs/2022-05-13T07_09_14_605Z-debug-0.log1652425754735666600 0
+63/home/smelladoc/.npm/_logs/2022-05-13T07_12_24_619Z-debug-0.log1652425944755666600 0
+109/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/@parcel/core/test/fixtures/config/subfolder/.parcelrc1649716549514087400 0
+63/home/smelladoc/.npm/_logs/2022-05-13T07_04_43_349Z-debug-0.log1652425483475666600 0
+63/home/smelladoc/.npm/_logs/2022-05-13T07_09_14_835Z-debug-0.log1652425757105666600 0
+88/home/smelladoc/.npm/_cacache/content-v2/sha1/41/ae/2eeb65efa62268aebfea83ac7d79299b08871649850456582411000 0
+83/home/smelladoc/node_modules/caniuse-lite/data/features/mediacapture-fromelement.js1649717969484087400 0
+109/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/caniuse-lite/data/features/registerprotocolhandler.js1649716549954087400 0
+50/home/smelladoc/.npm/_update-notifier-last-checked1652425944945666600 0
 25/home/smelladoc/.npm/_npx1649716514084087400 1
 105/home/smelladoc/.npm/_cacache/index-v5/89/7d/bd76f86bc18dcd667936defb09ba8a76cf640c659a82856f64cced4474e31649850456372411000 0
 98/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/json-parse-even-better-errors/package.json1649716549244087400 0
@@ -19150,6 +19264,9 @@
 92/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/caniuse-lite/data/features/tls1-2.js1649716549974087400 0
 44/home/smelladoc/.npm/_cacache/index-v5/92/571649850450992411000 1
 105/home/smelladoc/.npm/_cacache/index-v5/59/e5/42fc29e4686bdb246c65f16eb8cd15e90986466dc5cfdbd8db1433ea03111649850448772411000 0
+86/home/smelladoc/node_modules/terser/node_modules/source-map/lib/source-map-consumer.js1649717969134087400 0
+44/home/smelladoc/node_modules/is-absolute-url1649850455712411000 1
+76/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/msgpackr/SECURITY.md1649716549524087400 0
 44/home/smelladoc/.npm/_cacache/index-v5/3a/ee1648911560204690300 1
 77/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/msgpackr/iterators.js1649716549434087400 0
 74/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/msgpackr/stream.js1649716549464087400 0
@@ -19596,6 +19713,7 @@
 79/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/escalade/sync/index.mjs1649716549354087400 0
 89/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/linux-x86_64/asm/crypto1649716553734087400 1
 77/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/escalade/package.json1649716549314087400 0
+76/home/smelladoc/src/images/Actualidad_roma_detalle_small.jpg:Zone.Identifier1652255741407098400 0
 69/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/escalade/dist1649716549324087400 1
 111/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/aix64-gcc-as/asm_avx2/include/openssl/lhash.h1647884632000000000 0
 74/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/escalade/readme.md1649716549324087400 0
@@ -19680,7 +19798,6 @@
 71/home/smelladoc/node_modules/terser/node_modules/commander/package.json1649717968954087400 0
 117/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/@parcel/graph/test/integration/adjacency-list-shared-array.js1649716549284087400 0
 178/home/smelladoc/.npm/_cacache/content-v2/sha512/7c/a7/30414b0b9d57331f2bf8f84a91353aed4570293fe76f3ba38abc54dd2e0b97610193bfb074490d223f76d33f764123799ea75208d50047b385b02a1e08831649850427902411000 0
-63/home/smelladoc/.npm/_logs/2022-04-13T15_46_46_128Z-debug-0.log1649864811044636600 0
 53/home/smelladoc/.npm/_cacache/content-v2/sha512/7f/621649850461292411000 1
 178/home/smelladoc/.npm/_cacache/content-v2/sha512/b8/de/259411befedd0cd9479cd8b32ced2eb5a7f33b5155ce42593959922c4422892ad07ada29952bf0abce57dee268376b26a464e215f177c4b365b4830305231649850428462411000 0
 77/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/@parcel/markdown-ansi1649716549324087400 1
@@ -19979,7 +20096,6 @@
 82/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/@parcel/runtime-js/LICENSE1649716549284087400 0
 104/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/darwin-i386-cc/asm_avx2/include/crypto1649716553124087400 1
 91/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/@parcel/runtime-js/lib/JSRuntime.js1649716549574087400 0
-63/home/smelladoc/.npm/_logs/2022-04-13T15_46_55_632Z-debug-0.log1649864815714636600 0
 86/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/@parcel/runtime-js/lib/helpers1649716549534087400 1
 75/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/json5/lib/util.d.ts1649716549534087400 0
 91/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/@parcel/runtime-js/lib/helpers/node1649716549594087400 1
@@ -20500,7 +20616,7 @@
 41/home/smelladoc/.npm/_cacache/index-v5/111649850461202411000 1
 79/home/smelladoc/node_modules/caniuse-lite/data/features/high-resolution-time.js1649717969454087400 0
 105/home/smelladoc/.npm/_cacache/index-v5/08/6b/ad46d55ca529175e31495e24424ec24ed59ce48817f490f64c05d7211bb91649850459262411000 0
-38/home/smelladoc/dist/presentacion.html1649864817474636600 0
+38/home/smelladoc/dist/presentacion.html1652425946195666600 0
 103/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/@parcel/core/src/requests/BundleGraphRequest.js1649716549654087400 0
 123/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/linux64-mips64/asm_avx2/crypto/include/internal/bn_conf.h1634190635000000000 0
 79/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/@parcel/core/src/public1649716549814087400 1
@@ -20641,6 +20757,7 @@
 106/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/@parcel/core/test/fixtures/config-plugin-not-found1649716549464087400 1
 103/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/darwin64-x86_64-cc/asm/include/crypto1649716553254087400 1
 116/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/@parcel/core/test/fixtures/config-plugin-not-found/.parcelrc1649716549464087400 0
+70/home/smelladoc/src/images/imagen-clip-path_medium.jpg:Zone.Identifier1652345809378396100 0
 48/home/smelladoc/node_modules/lodash/_baseSome.js1649850461612411000 0
 103/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/@parcel/core/test/fixtures/main-format-mismatch1649716549844087400 1
 116/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/@parcel/core/test/fixtures/main-format-mismatch/package.json1649716549844087400 0
@@ -20649,6 +20766,7 @@
 105/home/smelladoc/.npm/_cacache/index-v5/f8/50/eb25efd70032e7e4833cba7065fe33441ca461ff9386de20fb5a7babeac41649850458262411000 0
 126/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/@parcel/core/test/fixtures/config-extends-not-found/.parcelrc-multiple1649716549524087400 0
 96/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/linux64-mips64/asm_avx2/crypto1649716553874087400 1
+80/home/smelladoc/src/images/Batallas_roma_detalle_webp_small.webp:Zone.Identifier1652259289764380400 0
 178/home/smelladoc/.npm/_cacache/content-v2/sha512/53/62/94cd0cc441f62bad009fbd0e665cd25c3ab89831ba931c338bf9dc27a2e75395d3f436ed27ef5a2ba5c173c933e217056e5fcae922e63f25eff02f41048a1648946144108058100 0
 106/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/@parcel/reporter-dev-server/src/templates/500.html1649716549364087400 0
 112/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/@parcel/core/test/fixtures/invalid-target-source-missing1649716549844087400 1
@@ -21172,6 +21290,7 @@
 56/home/smelladoc/node_modules/postcss-nested/package.json1649718215554087400 0
 44/home/smelladoc/.npm/_cacache/index-v5/bf/e31649850428382411000 1
 178/home/smelladoc/.npm/_cacache/content-v2/sha512/d0/1b/3a866d21432649c5fe358bf20d65202338444a08a7cb9701b4243a0a49920f3475acd1af48051106a710feb362857ac11c03d6322212baf0a3e9b7ce02ca1648942535528058100 0
+57/home/smelladoc/dist/imagen-clip-path_medium.1c56336a.jpg1652425946175666600 0
 95/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/css-tree/lib/definition-syntax/parse.js1649716549764087400 0
 81/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/lmdb/prebuilds/darwin-x641649716550024087400 1
 49/home/smelladoc/node_modules/lodash/fp/countBy.js1649850462522411000 0
@@ -21664,6 +21783,7 @@
 78/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/path-type/package.json1649716549234087400 0
 178/home/smelladoc/.npm/_cacache/content-v2/sha512/a7/5d/25fdac844b3ac1318591203eb16ee08a876169efbfac03476846e1a7e2d4c832bad955ea9fa4a8d71d8fa80e1dcae272dd3e037031354fe95a78a6fa9b361649850455442411000 0
 76/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/path-type/index.d.ts1649716549244087400 0
+56/home/smelladoc/src/images/Actualidad_roma_detalle_2.png1652086289694756700 0
 70/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/supports-color1649716549284087400 1
 51/home/smelladoc/.npm/_cacache/content-v2/sha1/dc/5e1649850458112411000 1
 52/home/smelladoc/node_modules/resolve/readme.markdown1649718215704087400 0
@@ -21701,6 +21821,7 @@
 61/home/smelladoc/.cache/node-gyp/17.8.0/include/node/v8-date.h1647884634000000000 0
 79/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/source-map/package.json1649716549224087400 0
 76/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/source-map/README.md1649716549264087400 0
+64/home/smelladoc/dist/Batallas_roma_categoria_medium.02c93801.jpg1652425946165666600 0
 81/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/csso/lib/replace/property1649716549614087400 1
 71/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/source-map/dist1649716549584087400 1
 87/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/source-map/lib/binary-search.js1649716549384087400 0
@@ -21726,7 +21847,6 @@
 72/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/htmlnano/test.js1649716549594087400 0
 178/home/smelladoc/.npm/_cacache/content-v2/sha512/52/28/802c33b7342d67b353630a5492e91c38be0759c4ed5014fecb6891c614279b4352454f3037a17629c6e8e862a3e5f63ff40feaeda9f695c458de5ae20c591649850447932411000 0
 73/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/htmlnano/index.js1649716549524087400 0
-62/home/smelladoc/src/images/Actualidad_roma.jpg:Zone.Identifier1649169289862074300 0
 116/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/htmlnano/docs/versioned_sidebars/version-2.0.0-sidebars.json1649716549744087400 0
 89/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/htmlnano/docs/docs/050-modules.md1649716549764087400 0
 44/home/smelladoc/.npm/_cacache/index-v5/70/f21649850458122411000 1
@@ -22342,9 +22462,6 @@
 98/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/caniuse-lite/data/features/inline-block.js1649716549894087400 0
 105/home/smelladoc/.npm/_cacache/index-v5/02/e7/5790300d1a96ead610f1a4763d5b55b538ed46f1e8ba47b26d27dbe6f85d1649850458192411000 0
 95/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/caniuse-lite/data/features/dom-range.js1649716549864087400 0
-88/home/smelladoc/.npm/_cacache/content-v2/sha1/41/ae/2eeb65efa62268aebfea83ac7d79299b08871649850456582411000 0
-83/home/smelladoc/node_modules/caniuse-lite/data/features/mediacapture-fromelement.js1649717969484087400 0
-109/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/caniuse-lite/data/features/registerprotocolhandler.js1649716549954087400 0
 54/home/smelladoc/node_modules/sshpk/lib/formats/auto.js1649850455822411000 0
 95/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/caniuse-lite/data/features/svg-fonts.js1649716549964087400 0
 110/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/linux-aarch64/asm_avx2/include/openssl/ssl.h1647884632000000000 0
@@ -22464,6 +22581,7 @@
 103/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/caniuse-lite/data/features/sharedarraybuffer.js1649716549964087400 0
 41/home/smelladoc/.npm/_cacache/index-v5/611649850459702411000 1
 100/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/caniuse-lite/data/features/iframe-sandbox.js1649716549894087400 0
+60/home/smelladoc/src/images/Batallas_roma_detalle_2_small.png1652257858967446900 0
 178/home/smelladoc/.npm/_cacache/content-v2/sha512/5b/5e/fbf6254719fab416f8763d13a109ed90841f26104ae0ab3a35c2922ddfab4280285a7cffa16d72212c338cf1e3c9ad9705b34be4344b5d89b11656a0a1ab1649850461112411000 0
 55/home/smelladoc/node_modules/nan/nan_maybe_pre_43_inl.h1649717969114087400 0
 95/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/caniuse-lite/data/features/shadowdom.js1649716549954087400 0
@@ -23121,6 +23239,7 @@
 105/home/smelladoc/.npm/_cacache/index-v5/23/76/f7afbc9eb60823c417e5dd1dd2f56b61e1b85cdd840120ff5644e6b033581648942540848058100 0
 79/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/escalade/dist/index.mjs1649716549344087400 0
 44/home/smelladoc/.npm/_cacache/index-v5/82/6e1649850456892411000 1
+79/home/smelladoc/src/images/Construccion_coliseo_webp_small.webp:Zone.Identifier1652259451058451900 0
 41/home/smelladoc/.npm/_cacache/index-v5/8e1649850459012411000 1
 53/home/smelladoc/.npm/_cacache/content-v2/sha512/55/e21649850456622411000 1
 44/home/smelladoc/.npm/_cacache/index-v5/8e/8e1649850449982411000 1
@@ -23481,7 +23600,7 @@
 41/home/smelladoc/.npm/_cacache/index-v5/8c1649850455932411000 1
 108/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/linux-ppc64/asm_avx2/include/openssl/bio.h1647884633000000000 0
 118/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/linux64-s390x/no-asm/include/openssl/configuration.h1647884633000000000 0
-19/home/smelladoc/src1649864780114636600 1
+19/home/smelladoc/src1652424935345666600 1
 49/home/smelladoc/node_modules/getpass/package.json1649850455142411000 0
 105/home/smelladoc/.npm/_cacache/index-v5/f4/54/93e5f379bd9df48fa1216792adb75a914874231b85c1e9b6e627f605514f1649850461662411000 0
 44/home/smelladoc/.npm/_cacache/index-v5/8c/8d1649850455982411000 1
@@ -24279,6 +24398,7 @@
 44/home/smelladoc/.npm/_cacache/index-v5/34/b81649850460742411000 1
 50/home/smelladoc/node_modules/postcss/lib/rule.d.ts1649718215674087400 0
 178/home/smelladoc/.npm/_cacache/content-v2/sha512/b4/ab/2a83bb2d33e258c0901f4d09317595d3a6f27007ab5f3a7760cb2fd0d81c80ea9a02985d9b4f96d1e660e8d56f65d1d3533da5a414076945a4c946eeb5d51649850430252411000 0
+68/home/smelladoc/dist/Construccion_roma_detalle_2_medium.d56b8cbd.png1652425946185666600 0
 105/home/smelladoc/.npm/_cacache/index-v5/33/b2/bc5d82ab814ff37db467faf09138f49de6b6d2b53444c0a4d72ce6426b001649850461642411000 0
 125/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/BSD-x86_64/asm_avx2/providers/common/include/prov/der_rsa.h1647884632000000000 0
 44/home/smelladoc/.npm/_cacache/index-v5/33/601649850462372411000 1
@@ -24315,6 +24435,7 @@
 51/home/smelladoc/.npm/_cacache/content-v2/sha1/38/381649850458572411000 1
 44/home/smelladoc/.npm/_cacache/index-v5/0b/5e1649850458592411000 1
 105/home/smelladoc/.npm/_cacache/index-v5/40/8c/81b2891a2e80e9ed861cec4078701f09049c85cd14bc69585d469e68f3d71649850445462411000 0
+105/home/smelladoc/.npm/_cacache/index-v5/40/58/bcf75a4945571abf27d11132ec918f3163e7b0ebbcb102340d810536a07c1649861424344636600 0
 44/home/smelladoc/.npm/_cacache/index-v5/40/de1649850428122411000 1
 44/home/smelladoc/.npm/_cacache/index-v5/40/dc1649850456712411000 1
 105/home/smelladoc/.npm/_cacache/index-v5/40/dc/9dfdf3a1a355c01f162039c5544f4d12fa2b3473e0ddc4d91fe9a2ddd6601649850456752411000 0
@@ -24346,6 +24467,7 @@
 44/home/smelladoc/.npm/_cacache/index-v5/00/a61649850460982411000 1
 123/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/BSD-x86_64/no-asm/providers/common/include/prov/der_dsa.h1647884632000000000 0
 44/home/smelladoc/.npm/_cacache/index-v5/2e/ee1649850449702411000 1
+69/home/smelladoc/src/images/imagen-clip-path_large.jpg:Zone.Identifier1652345791870885000 0
 105/home/smelladoc/.npm/_cacache/index-v5/2e/ee/e841228f2c58d3e1853bb640a1607ad94243fc71ab2306da6ce84f1ff5761649850449702411000 0
 44/home/smelladoc/.npm/_cacache/index-v5/2e/b01649850450762411000 1
 46/home/smelladoc/node_modules/callsites/license1649717968924087400 0
@@ -24785,7 +24907,7 @@
 44/home/smelladoc/.npm/_cacache/index-v5/af/161649850428322411000 1
 105/home/smelladoc/.npm/_cacache/index-v5/af/16/dee6b8504c5d8288f3f10c421b40df275eb3884d42e81c68b7068e681d5d1649850428322411000 0
 53/home/smelladoc/.npm/_cacache/content-v2/sha512/42/dc1649850428462411000 1
-44/home/smelladoc/.npm/_cacache/index-v5/af/031649716512934087400 1
+44/home/smelladoc/.npm/_cacache/index-v5/af/031652425284805666600 1
 105/home/smelladoc/.npm/_cacache/index-v5/af/5d/7d9af64207c862fd5999108d7ef244272e8b3ac217b3e1406f62917b294f1648911559934690300 0
 44/home/smelladoc/node_modules/resolve/sync.js1649718215704087400 0
 44/home/smelladoc/.npm/_cacache/index-v5/af/e51649850459522411000 1
@@ -24839,6 +24961,7 @@
 178/home/smelladoc/.npm/_cacache/content-v2/sha512/2e/ca/c6b4f99b620d7d6dc3c7c1db665f06d6f93a8dbed638ae21373fcddfa1e1d1ae831b1faff675d1417da6f7b7b91bcdceefee9e306e421e707226aadd10361649850459382411000 0
 46/home/smelladoc/node_modules/lodash/fp/over.js1649850462782411000 0
 105/home/smelladoc/.npm/_cacache/index-v5/92/c7/bbc0d572eb68413ec576ae6be1e0cc2a8fc40cd70599d76832e237ac71161649850749162411000 0
+54/home/smelladoc/src/images/Batallas_roma_detalle_2.png1652086505302382200 0
 105/home/smelladoc/.npm/_cacache/index-v5/2f/95/c5d283e5b9861ba8f69fa66c46af0409e9fd384bf5526f8e34448ec67b431649850427842411000 0
 178/home/smelladoc/.npm/_cacache/content-v2/sha512/1e/dc/fe467b175a4e7e3f6b25c79261dd0ebabe1423d429659b4cef9da63df3e345c7e0efd8217f7f93bfb7cc7e29a35dadd200b2bb8dce887f2a989a95ba809f1649850455992411000 0
 44/home/smelladoc/.npm/_cacache/index-v5/92/e71648911564004690300 1
@@ -24974,7 +25097,6 @@
 105/home/smelladoc/.npm/_cacache/index-v5/3a/f8/47d122ffddd321f0f45096a175487e843f420921291384848ea32713fdfd1649850458942411000 0
 44/home/smelladoc/.npm/_cacache/index-v5/3a/691649850462162411000 1
 105/home/smelladoc/.npm/_cacache/index-v5/3a/69/de370c202af6add177748255d257074c1ede4f7b159a595c2f1c170b9f7f1649850462172411000 0
-53/home/smelladoc/src/images/Batallas_roma_detalle.jpeg1649453788254244500 0
 44/home/smelladoc/.npm/_cacache/index-v5/85/7f1649719862094087400 1
 53/home/smelladoc/.npm/_cacache/content-v2/sha512/03/f71648911559684690300 1
 105/home/smelladoc/.npm/_cacache/index-v5/85/7f/73533187d1a0e7f803852d84478a390ee870dda682ff13a49bace582e2821649719862144087400 0
@@ -25014,7 +25136,6 @@
 105/home/smelladoc/.npm/_cacache/index-v5/60/91/0e151381e1401df449cec92257d150f463e8b0b4f413a6f95c69f16aa7c21649850459392411000 0
 44/home/smelladoc/.npm/_cacache/index-v5/60/ea1649716549424087400 1
 56/home/smelladoc/node_modules/htmlnano/docs/versions.json1649717969264087400 0
-63/home/smelladoc/.npm/_logs/2022-04-13T15_46_45_601Z-debug-0.log1649864811054636600 0
 105/home/smelladoc/.npm/_cacache/index-v5/60/1a/b63698b307024058da762d69517e68a93c003a2ffbef26cf95298422d4451648911559674690300 0
 117/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/linux64-s390x/asm/crypto/include/internal/bn_conf.h1634190635000000000 0
 67/home/smelladoc/node_modules/@parcel/codeframe/lib/codeframe.js.map1649717969374087400 0
@@ -26145,7 +26266,7 @@
 39/home/smelladoc/node_modules/pn/util.js1649850457942411000 0
 72/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/mdn-data/LICENSE1649716549224087400 0
 53/home/smelladoc/.npm/_cacache/content-v2/sha512/a1/591649850456822411000 1
-38/home/smelladoc/dist/index.ce73f441.js1649864817524636600 0
+38/home/smelladoc/dist/index.ce73f441.js1652425946205666600 0
 40/home/smelladoc/node_modules/w3c-hr-time1649850455672411000 1
 50/home/smelladoc/.npm/_cacache/content-v2/sha512/be1649861424544636600 1
 55/home/smelladoc/node_modules/shell-quote/example/env.js1649719864454087400 0
@@ -26250,6 +26371,7 @@
 178/home/smelladoc/.npm/_cacache/content-v2/sha512/d6/a9/1b70424f88136ac0b5fc753c951e307d06c5ead93cb6183d21bdda7471873b6037f64219a495eb890741c0106fb94ed2809441064e3b461dccef134f50681649850433502411000 0
 53/home/smelladoc/.npm/_cacache/content-v2/sha512/5f/cd1649719859714087400 1
 178/home/smelladoc/.npm/_cacache/content-v2/sha512/d6/a7/024307062b39585c76c50a2b7f7671175bdf5b0a32e9521055b078861ae7701093c2c5f75522608ac978abb2da42689625156c6c611ab35501546132c8141649850428122411000 0
+67/home/smelladoc/dist/Construccion_roma_detalle_2_large.baf7c00a.png1652425946215666600 0
 75/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/has-flag/index.d.ts1649716549244087400 0
 178/home/smelladoc/.npm/_cacache/content-v2/sha512/d6/78/78e5d79e6f9a25358ede5fcd8190f3bb492c51e524982623d3ad3745515630025f0228c03937d3e34d89078918e2b15731710d475dd2e1c76ab1c49ccb351648942541018058100 0
 61/home/smelladoc/node_modules/@parcel/source-map/dist/utils.js1649717969104087400 0
@@ -26632,6 +26754,7 @@
 89/home/smelladoc/node_modules/@parcel/core/test/fixtures/config-plugin-not-found/.parcelrc1649717969084087400 0
 53/home/smelladoc/.npm/_cacache/content-v2/sha512/6a/5c1649850461082411000 1
 178/home/smelladoc/.npm/_cacache/content-v2/sha512/6a/5c/7fce6a1e5ef263a7b2f89b110c8e1f25c55943157d60a961f369a41ec3031989584ba38d9310294a69e1db45fe89ee3f3664e75327cd3c46d37464e670bf1649850460902411000 0
+68/home/smelladoc/src/images/coliseo_romano_medium.jpg:Zone.Identifier1652258169397277000 0
 53/home/smelladoc/.npm/_cacache/content-v2/sha512/6a/0b1649850456532411000 1
 53/home/smelladoc/.npm/_cacache/content-v2/sha512/6a/f01649850456102411000 1
 178/home/smelladoc/.npm/_cacache/content-v2/sha512/6a/21/fac53dacfcf4871f2763822febe614af4a22a01beb6edf2a30f93e80a3982c7617cb4b37460e9a23f7c31f3e0cfde52b7cfc3213e6ed7ac9544c50cf8a501648946145308058100 0
@@ -26848,7 +26971,7 @@
 44/home/smelladoc/.npm/_cacache/index-v5/f6/761649850440392411000 1
 178/home/smelladoc/.npm/_cacache/content-v2/sha512/8f/4c/a47102a475e9d48bfdc203cc2a500bb9114d7e9aed5758ea16e9b79bc0603b6657fb475b7708c7a0f829e00e01b9482601f5ff2a22bf9121e31abe1560051649850441912411000 0
 53/home/smelladoc/.npm/_cacache/content-v2/sha512/8f/511649716970194087400 1
-33/home/smelladoc/src/batallas.html1649864749889485500 0
+33/home/smelladoc/src/batallas.html1652382270903377100 0
 178/home/smelladoc/.npm/_cacache/content-v2/sha512/8f/51/1198bc32e6fa094ba556b25616d45b536022410a1c661b4ed20e3f6f824e306c93876ed31cdaf2ed57c83405771d3c1b592e2340da4679e754281013fc1a1649716970194087400 0
 53/home/smelladoc/.npm/_cacache/content-v2/sha512/8f/ce1649850461082411000 1
 130/home/smelladoc/.npm/_npx/b4a9aa12c0cf34a6/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-browser-alias1649716549804087400 1
@@ -26864,7 +26987,6 @@
 178/home/smelladoc/.npm/_cacache/content-v2/sha512/8f/2b/5e4d6b8103e7f9c179f546602ade03a7077cb2e3573be3cbc0454f6e3445e42c1e1aed1d74eb0e1ee5d9531b50c97e4f93c35a2449ed69d81787a199ed031648911562244690300 0
 178/home/smelladoc/.npm/_cacache/content-v2/sha512/ff/d1/c812cd595c68523c4f17e82726ecd6a6d73f0a7280aa3dd23b79c9b5377dc4cc07ad59a86f41656a2d9b5a650f880ca5f8232036a34801cea20c9006a01d1649850458472411000 0
 53/home/smelladoc/.npm/_cacache/content-v2/sha512/ff/931648911557764690300 1
-178/home/smelladoc/.npm/_cacache/content-v2/sha512/ff/93/f2ac34b1664d43f25e98d6b4c9c0e19cd14522a0fcedb21c0550f3a8b14c177278ca01fe7201444acf07adc516128142686d89cd175da8b2b9cdb72801bf1648911557764690300 0
 69/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/asn1err.h1647884633000000000 0
 178/home/smelladoc/.npm/_cacache/content-v2/sha512/ff/90/8c3774f44785d38f80dc19a7b1a3eae8652752156ff400e39344eae3c73086d70ad65c4b066d129ebe39482fe643138b19949af9103e185b4caa9a42be781648942541098058100 0
 112/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/linux64-s390x/asm_avx2/include/openssl/asn1t.h1647884633000000000 0
@@ -26915,6 +27037,7 @@
 178/home/smelladoc/.npm/_cacache/content-v2/sha512/fd/5a/6f0b5768a0892c04fdfb26d52fc918f19dcde9b30da941bea80859f0cd263b5806cf995e8d3778ce0c9352f58aae6c788e30d54d66f30f135f3f0f6fe8871648911558664690300 0
 107/home/smelladoc/.cache/node-gyp/17.8.0/include/node/openssl/archs/darwin64-arm64-cc/asm_avx2/crypto/include1649716553184087400 1
 53/home/smelladoc/.npm/_cacache/content-v2/sha512/fd/bd1648911562974690300 1
+67/home/smelladoc/src/images/coliseum-svgrepo-com.svg:Zone.Identifier1652048705637916400 0
 53/home/smelladoc/.npm/_cacache/content-v2/sha512/fd/fd1649850457302411000 1
 53/home/smelladoc/.npm/_cacache/content-v2/sha512/fd/ec1648911559884690300 1
 178/home/smelladoc/.npm/_cacache/content-v2/sha512/fd/e6/29d49eb3621d5a972490078bb360590b9b1c48f2d93493195d6cd1d7a7cfaffab74c29d50136344bcfb4fb7f3e88a31fb5948758a5ceebaba65c5df4ee921648911560364690300 0

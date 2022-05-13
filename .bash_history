@@ -476,3 +476,44 @@ nano package.json
 clear
 npm install log4js
 nano package.json
+npm run build
+cd dist
+dir
+npm run build
+dir
+cd dist/
+dir
+cd ..
+dir
+cd node_modules/
+dir
+cd log4js/
+dir
+cd lib/
+dir
+nano log4js.js
+cd ..
+dir
+npm run build
+clear
+npm run build
+npm run start
+npm run build
+npm run start
+npm run build
+npm run start
+npm run build
+npm run start
+npm run build
+npm run start
+clear
+npm run build
+clear
+npm run build
+npm run start
+npm run build
+npm run start
+git add .
+git commit -m "Añadir dependencia log4js"
+git push -u origin main
+nano package.json

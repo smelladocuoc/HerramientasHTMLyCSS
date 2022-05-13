@@ -6,7 +6,11 @@
     <meta charset="UTF-8">
     <meta name="title" content="Construccion del Coliseo">
     <meta name="description" content="Construccion del Coliseo">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,400;0,600;1,400&family=Shadows+Into+Light&display=swap" rel="stylesheet">
     <link href="/index.77a9bc14.css" rel="stylesheet" type="text/css">
+    <link rel="icon" href="/favicon_coliseo.e35f3a54.ico">
     <script src="/index.42255495.js"></script>
     <script src="/index.ce73f441.js" defer="">var myLogger = new Log4js.getLogger();
 myLogger.info('Se ejecuta la aplicación');
@@ -18,29 +22,47 @@ myLogger.info('Se ejecuta la aplicación');
 <body onload="startT()">
 
     <header>
-
-        <div>
-            <a id="coliseo" href="/index.html">El Coliseo - Roma</a>
-            <div id="horario">
-                <div id="reloj"></div>
-                <div id="fecha"></div>
+        <div id="header-inicio">
+            <div>
+                <div id="primera-linea-cabecera">
+                    <div>
+                        <p class="logo">Travel</p>
+                    </div>
+                    <div>
+                        <a id="coliseo" href="/index.html">El Coliseo - Roma</a>
+                    </div>
+                </div>
+                <div id="horario">
+                    <div id="reloj"></div>
+                    <div id="fecha"></div>
+                </div>
             </div>
-        </div>
 
-        <div id="menu-cabecera">
-            <nav>
-                <ul>
-                    <li><a href="/categoria.html">Categoría</a></li>
-                    <li><a href="/presentacion.html">Presentación</a></li>
-                    <li><a href="/enlaces.html">Enlaces</a></li>
-                </ul>
-            </nav>
+            <div id="menu-cabecera">
+                <nav>
+                    <ul>
+                        <li><a href="/categoria.html">Categoría</a></li>
+                        <li><a href="/presentacion.html">Presentación</a></li>
+                        <li><a href="/enlaces.html">Enlaces</a></li>
+                    </ul>
+                </nav>
+            </div>
         </div>
 
     </header>
 
     <div id="contenido">
         <h1>Construcción del Coliseo de Roma</h1>
+        <figure>
+
+            <picture>
+                <source media="(max-width: 800px)" srcset="/Construccion_coliseo_webp_categoria_medium.b7d850f7.webp">
+                <source media="(min-width: 801px)" srcset="/Construccion_coliseo_webp_large.5cd42681.webp">
+                <img src="/Construccion_coliseo_webp_large.5cd42681.webp" alt="Construccion coliseo">
+            </picture>
+
+            <figcaption>Representación del Coliseo.</figcaption>
+        </figure>
         <h2>¿Cuándo se construyó el Coliseo de Roma?</h2>
         <p>El Coliseo Romano empezó sus obras en el año 70 d.C, cuando el Imperio Romano se encontraba bajo el mando
             del
@@ -90,11 +112,26 @@ myLogger.info('Se ejecuta la aplicación');
             ligera que la piedra travertina. Las bóvedas y gran parte de las plantas superiores se construyeron con
             hormigón.</p>
 
-        <figure>
-            <img id="imagen-construccion" src="/Construccion_coliseo_detalle.88b997b9.jpg" alt="Construccion Coliseo Detalle">
+        <div class="zona-imagenes-detalle">
+            <div>
+                <figure>
+                    <img src="/Construccion_coliseo_detalle_small.0656a7ed.jpg" srcset="/Construccion_coliseo_detalle_small.0656a7ed.jpg 400w,/Construccion_coliseo_detalle_medium.814ad99b.jpg 800w,/Construccion_coliseo_detalle_large.39f06950.jpg 1200w" sizes="(min-width: 60rem) 80vw,
+           (min-width: 40rem) 90vw,
+           100vw" alt="Construccion Coliseo Detalle">
 
-            <figcaption>Construcción del Coliseo.</figcaption>
-        </figure>
+                    <figcaption>Construcción del Coliseo.</figcaption>
+                </figure>
+            </div>
+            <div>
+                <figure>
+                    <img src="/Construccion_roma_detalle_2_small.1b5308cc.png" srcset="/Construccion_roma_detalle_2_small.1b5308cc.png 400w,/Construccion_roma_detalle_2_medium.d56b8cbd.png 800w,/Construccion_roma_detalle_2_large.baf7c00a.png 1200w" sizes="(min-width: 60rem) 80vw,
+           (min-width: 40rem) 90vw,
+           100vw" alt="Construccion Coliseo Detalle 2">
+
+                    <figcaption>Representación del Coliseo en blanco y negro.</figcaption>
+                </figure>
+            </div>
+        </div>
 
         <h3>Capas superiores del Coliseo de Roma</h3>
         <p>Las cuatro capas superiores del Coliseo, fueron más complicadas de construir en comparación al podio.</p>
@@ -157,11 +194,36 @@ myLogger.info('Se ejecuta la aplicación');
     </div>
 
     <footer>
-        <ul class="lista-footer">
-            <li><a href="">Aviso legal</a></li>
-            <li><a href="">Política de privacidad</a></li>
-            <li><a href="">Política de cookies</a></li>
-        </ul>
+        <div id="pie">
+            <div id="logo-pie">
+                <p class="logo">Travel</p>
+            </div>
+            <div id="lista-pie">
+
+                <div>
+                    <ul id="lista-categoria">
+                        <li><a href="/categoria.html">Categoría</a>
+                            <ul>
+                                <li><a href="/construccion.html">Construcción</a></li>
+                                <li><a href="/batallas.html">Batallas</a></li>
+                                <li><a href="/actualidad.html">Actualidad</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+                <div>
+                    <ul>
+                        <a href="/presentacion.html">Presentación</a>
+                    </ul>
+                </div>
+                <div>
+                    <ul>
+                        <li><a href="/enlaces.html">Enlaces</a></li>
+                    </ul>
+                </div>
+
+            </div>
+        </div>
     </footer>
 </body>
 

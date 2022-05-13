@@ -6,7 +6,13 @@
     <meta charset="UTF-8">
     <meta name="title" content="Enlaces">
     <meta name="description" content="Enlaces">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,400;0,600;1,400&family=Shadows+Into+Light&display=swap"
+        rel="stylesheet">
     <link href="css/styles.css" rel="stylesheet" type="text/css" />
+    <link rel="icon" href="favicon_coliseo.ico">
     <script src="js/javascript.js"></script>
     <script type="module" src="../node_modules/log4js/lib/log4js.js" type="text/javascript">
         var myLogger = new Log4js.getLogger();
@@ -18,23 +24,31 @@
 <body onload="startT()">
 
     <header>
-
-        <div>
-            <a id="coliseo" href="index.html">El Coliseo - Roma</a>
-            <div id="horario">
-                <div id="reloj"></div>
-                <div id="fecha"></div>
+        <div id="header-inicio">
+            <div>
+                <div id="primera-linea-cabecera">
+                    <div>
+                        <p class="logo">Travel</p>
+                    </div>
+                    <div>
+                        <a id="coliseo" href="index.html">El Coliseo - Roma</a>
+                    </div>
+                </div>
+                <div id="horario">
+                    <div id="reloj"></div>
+                    <div id="fecha"></div>
+                </div>
             </div>
-        </div>
 
-        <div id="menu-cabecera">
-            <nav>
-                <ul>
-                    <li><a href="categoria.html">Categoría</a></li>
-                    <li><a href="presentacion.html">Presentación</a></li>
-                    <li><a href="enlaces.html">Enlaces</a></li>
-                </ul>
-            </nav>
+            <div id="menu-cabecera">
+                <nav>
+                    <ul>
+                        <li><a href="categoria.html">Categoría</a></li>
+                        <li><a href="presentacion.html">Presentación</a></li>
+                        <li><a href="enlaces.html">Enlaces</a></li>
+                    </ul>
+                </nav>
+            </div>
         </div>
 
     </header>
@@ -42,7 +56,7 @@
     <div id="contenido">
         <h1>Enlaces</h1>
         <div id="bloques">
-            <div id="bloque-texto">
+            <div>
                 <p>En esta página se mostrarán las fuentes de donde se ha obtenido la información:</p>
                 <p class="negrita"><a
                         href="https://ingeoexpert.com/2019/03/01/el-coliseo-de-roma-como-y-cuando-se-construyo/"
@@ -97,20 +111,66 @@
                         onclick="confirmacion()">Logo
                         Enlaces</a>
                 </p>
+                <p class="negrita"><a href="https://www.svgrepo.com/svg/2432/coliseum" onclick="confirmacion()">Imagen
+                        svg Coliseo</a>
+                </p>
+                <p class="negrita"><a
+                        href="https://www.cultura10.org/wp-content/uploads/2018/10/coliseo-romano-rese%C3%B1a-hist%C3%B3rica.png"
+                        onclick="confirmacion()">Imagen construcción del Coliseo Detalle</a>
+                </p>
+                <p class="negrita"><a
+                        href="https://static1.abc.es/media/cultura/2021/06/26/coliseo5-kTBH--510x349@abc.png"
+                        onclick="confirmacion()">Imagen Roma en la actualidad Detalle</a>
+                </p>
+                <p class="negrita"><a
+                        href="https://cdn.elnacional.com.py/2021/05/Captura-de-Pantalla-2021-05-05-a-las-16.55.03.png"
+                        onclick="confirmacion()">Imagen Batalla en Roma Detalle</a>
+                </p>
+                <p class="negrita"><a
+                        href="https://www.creativefabrica.com/wp-content/uploads/2021/10/06/Line-art-Colosseum-logo-design-vector-Graphics-18416222-1-1-580x387.jpg"
+                        onclick="confirmacion()">Favicon Coliseo</a>
+                </p>
             </div>
-            <div id="bloque-imagen">
-                <img src="images/enlaces.png" alt="enlaces-logo">
+            <div>
+                <img srcset="images/enlaces_150_dpi.png,
+                images/enlaces_300_dpi.png 2x,
+                images/enlaces_600_dpi.png 4x" src="images/enlaces_600_dpi.png" alt="Logo enlaces">
             </div>
         </div>
 
     </div>
 
     <footer>
-        <ul class="lista-footer">
-            <li><a href="">Aviso legal</a></li>
-            <li><a href="">Política de privacidad</a></li>
-            <li><a href="">Política de cookies</a></li>
-        </ul>
+        <div id="pie">
+            <div id="logo-pie">
+                <p class="logo">Travel</p>
+            </div>
+            <div id="lista-pie">
+
+                <div>
+                    <ul id="lista-categoria">
+                        <li><a href="categoria.html">Categoría</a>
+                            <ul>
+                                <li><a href="construccion.html">Construcción</a></li>
+                                <li><a href="batallas.html">Batallas</a></li>
+                                <li><a href="actualidad.html">Actualidad</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+                <div>
+                    <ul>
+                        <a href="presentacion.html">Presentación</a>
+                    </ul>
+                </div>
+                <div>
+                    <ul>
+                        <li><a href="enlaces.html">Enlaces</a></li>
+                    </ul>
+                </div>
+
+            </div>
+        </div>
     </footer>
 </body>
 

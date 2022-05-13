@@ -6,7 +6,11 @@
     <meta charset="UTF-8">
     <meta name="title" content="Categoría">
     <meta name="description" content="Categoría">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,400;0,600;1,400&family=Shadows+Into+Light&display=swap" rel="stylesheet">
     <link href="/index.77a9bc14.css" rel="stylesheet" type="text/css">
+    <link rel="icon" href="/favicon_coliseo.e35f3a54.ico">
     <script src="/index.42255495.js"></script>
     <script src="/index.ce73f441.js" defer="">var myLogger = new Log4js.getLogger();
 myLogger.info('Se ejecuta la aplicación');
@@ -18,30 +22,40 @@ myLogger.info('Se ejecuta la aplicación');
 <body onload="startT()">
 
     <header>
-
-        <div>
-            <a id="coliseo" href="/index.html">El Coliseo - Roma</a>
-            <div id="horario">
-                <div id="reloj"></div>
-                <div id="fecha"></div>
+        <div id="header-inicio">
+            <div>
+                <div id="primera-linea-cabecera">
+                    <div>
+                        <p class="logo">Travel</p>
+                    </div>
+                    <div>
+                        <a id="coliseo" href="/index.html">El Coliseo - Roma</a>
+                    </div>
+                </div>
+                <div id="horario">
+                    <div id="reloj"></div>
+                    <div id="fecha"></div>
+                </div>
             </div>
-        </div>
 
-        <div id="menu-cabecera">
-            <nav>
-                <ul>
-                    <li><a href="/categoria.html">Categoría</a></li>
-                    <li><a href="/presentacion.html">Presentación</a></li>
-                    <li><a href="/enlaces.html">Enlaces</a></li>
-                </ul>
-            </nav>
+            <div id="menu-cabecera">
+                <nav>
+                    <ul>
+                        <li><a href="/categoria.html">Categoría</a></li>
+                        <li><a href="/presentacion.html">Presentación</a></li>
+                        <li><a href="/enlaces.html">Enlaces</a></li>
+                    </ul>
+                </nav>
+            </div>
         </div>
 
     </header>
 
     <div id="contenido">
         <div class="bloque">
-            <img src="/Construccion_coliseo.f7eda5f4.jpg" alt="Construccion coliseo">
+            <img src="/Construccion_coliseo_webp_small.a01faea5.webp" srcset="/Construccion_coliseo_webp_small.a01faea5.webp 400w,/Construccion_coliseo_webp_medium.83915250.webp 800w,/Construccion_coliseo_webp_large.5cd42681.webp 1200w" sizes="(min-width: 60rem) 80vw,
+           (min-width: 40rem) 90vw,
+           100vw" alt="Construccion coliseo">
             <div class="texto">
                 <h3>1. Construcción del Coliseo de Roma</h3>
                 <p>Una de las obras maestras de la arquitectura de todos los tiempos es el Coliseo de Roma, desde su
@@ -65,7 +79,9 @@ myLogger.info('Se ejecuta la aplicación');
         </div>
 
         <div class="bloque">
-            <img src="/Batallas_roma.450c46ab.webp" alt="Batallas roma">
+            <img src="/Batallas_roma_small.525a94b2.jpg" srcset="/Batallas_roma_small.525a94b2.jpg 400w,/Batallas_roma_medium.a7dda4b2.jpg 800w,/Batallas_roma_large.8a45b863.jpg 1200w" sizes="(min-width: 60rem) 80vw,
+           (min-width: 40rem) 90vw,
+           100vw" alt="Batallas roma">
             <div class="texto">
                 <h3>2. Batallas en el Coliseo</h3>
                 <p> Luchas entre bestias salvajes, condenados devorados por las fieras, combates entre
@@ -84,7 +100,9 @@ myLogger.info('Se ejecuta la aplicación');
         </div>
 
         <div class="bloque">
-            <img src="/Actualidad_roma.82434368.jpg" alt="Actualidad roma">
+            <img src="/Actualidad_roma_webp_small.873122ce.webp" srcset="/Actualidad_roma_webp_small.873122ce.webp 400w,/Actualidad_roma_webp_medium.dc023ba0.webp 800w,/Actualidad_roma_webp_large.bab4ffb0.webp 1200w" sizes="(min-width: 60rem) 80vw,
+           (min-width: 40rem) 90vw,
+           100vw" alt="Actualidad roma">
             <div class="texto">
                 <h3>3. El Coliseo en la actualidad</h3>
                 <p>En 1980, la Unesco declaró el centro histórico de Roma, incluido el Coliseo, Patrimonio de la
@@ -92,7 +110,7 @@ myLogger.info('Se ejecuta la aplicación');
                     que en algún lugar del mundo se le conmuta o aplaza una sentencia de muerte a un condenado.
                 </p>
                 <p>Este monumento de la Roma Clásica ha sido designado una de Las Nuevas Siete Maravillas del Mundo
-                    Moderno, según la designación honorífica realizada en Lisboa el 7 de julio de 2007,23​ en el
+                    Moderno, según la designación honorífica realizada en Lisboa el 7 de julio de 2007, en el
                     marco
                     del concurso New 7 Wonders, organizado por el suizo Bernard Weber, del cual la Unesco se ha
                     desmarcado completamente. </p>
@@ -103,11 +121,36 @@ myLogger.info('Se ejecuta la aplicación');
     </div>
 
     <footer>
-        <ul class="lista-footer">
-            <li><a href="">Aviso legal</a></li>
-            <li><a href="">Política de privacidad</a></li>
-            <li><a href="">Política de cookies</a></li>
-        </ul>
+        <div id="pie">
+            <div id="logo-pie">
+                <p class="logo">Travel</p>
+            </div>
+            <div id="lista-pie">
+
+                <div>
+                    <ul id="lista-categoria">
+                        <li><a href="/categoria.html">Categoría</a>
+                            <ul>
+                                <li><a href="/construccion.html">Construcción</a></li>
+                                <li><a href="/batallas.html">Batallas</a></li>
+                                <li><a href="/actualidad.html">Actualidad</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+                <div>
+                    <ul>
+                        <a href="/presentacion.html">Presentación</a>
+                    </ul>
+                </div>
+                <div>
+                    <ul>
+                        <li><a href="/enlaces.html">Enlaces</a></li>
+                    </ul>
+                </div>
+
+            </div>
+        </div>
     </footer>
 </body>
 

@@ -18,11 +18,6 @@ footer {
     padding-right: 20%;
 }
 
-#header-inicio {
-    padding-left: -15%;
-    padding-right: -15%;
-}
-
 header p {
     margin-bottom: 0;
 }
@@ -37,10 +32,6 @@ header a {
 header a:hover {
     color: rgba(0, 0, 0, 0.5);
     text-decoration: none;
-}
-
-#contenido-inicio {
-    position: relative;
 }
 
 #contenido {
@@ -72,18 +63,6 @@ header a:hover {
     font-size: 60px;
 }
 
-#titulo {
-    position: absolute;
-    top: 50%;
-    left: 25%;
-    transform: translate(-50%, -50%);
-    color: white;
-    font-family: 'Raleway', sans-serif;
-    font-size: 40px;
-    font-weight: normal;
-    width: 40%;
-}
-
 li {
     display: inline;
     padding-right: 2%;
@@ -95,23 +74,8 @@ a {
 }
 
 #imagen-portada {
-    position: relative;
-}
-
-#imagen-portada img {
     width: 100%;
     height: auto;
-}
-
-
-#imagen-portada::after {
-    content: '';
-    position: absolute;
-    left: 0;
-    top: 0;
-    width: 100%;
-    height: 100%;
-    background: linear-gradient(to right, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0));
 }
 
 #coliseo {
@@ -179,18 +143,6 @@ iframe {
     font-style: italic;
 }
 
-.lista-footer li:nth-child(n+2):before {
-    content: "\2022";
-}
-
-.lista-footer li {
-    list-style: none;
-}
-
-.lista-footer li:nth-child(n+2):before {
-    content: "";
-}
-
 footer {
     background-color: black;
     color: white;
@@ -236,6 +188,143 @@ header div {
     padding-top: 20px;
 }
 
+.logo {
+    background: radial-gradient(circle at 33% 100%,
+            #d1dace 4%,
+            #969b96 30%,
+            #686c68 62%,
+            #222322 85%,
+            #282727);
+    width: fit-content;
+    border-radius: 20%;
+    font-size: 3rem;
+    color: white;
+    font-family: 'Shadows Into Light', cursive;
+    text-shadow: 2px 4px 1px rgb(15, 103, 16);
+    font-weight: bold;
+}
+
+#pie {
+    display: grid;
+    grid-template-columns: 30% 70%;
+}
+
+#lista-pie {
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    text-align: center;
+    margin-top: 2%;
+}
+
+#logo-pie {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+#lista-categoria li {
+    display: list-item;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.bevel {
+    -webkit-clip-path: polygon(20% 0%, 80% 0%, 100% 20%, 100% 80%, 80% 100%, 20% 100%, 0% 80%, 0% 20%);
+    clip-path: polygon(20% 0%, 80% 0%, 100% 20%, 100% 80%, 80% 100%, 20% 100%, 0% 80%, 0% 20%);
+}
+
+.shape-outer {
+    display: flex;
+    flex-shrink: 0;
+    height: calc(30rem);
+    width: calc(100%);
+    margin: 25px;
+    background-image: linear-gradient(to bottom right, #3cff53, #22ac3b, #076218);
+}
+
+.shape-inner {
+    height: calc(90%);
+    width: calc(90%);
+    background: url(../images/Roma3.jpg) no-repeat center;
+    background-size: cover;
+    margin: auto;
+}
+
+.circle {
+    animation: 2s infinite alternate circle;
+}
+
+@keyframes circle {
+    from {
+        -webkit-clip-path: circle(0%);
+        clip-path: circle(0%);
+    }
+
+    to {
+        -webkit-clip-path: circle(120px);
+        clip-path: circle(120px);
+    }
+}
+
+#imagen-animada {
+    width: 100%;
+    height: 250px;
+}
+
+#titulo {
+    text-align: center;
+}
+
+#titulo {
+    font-family: 'Shadows Into Light';
+}
+
+#titulo p {
+    font-family: 'Shadows Into Light';
+    font-size: 2rem;
+    line-height: 2rem;
+}
+
+#animacion-svg {
+    text-align: center;
+}
+
+#Layer_1 {
+    width: 50%;
+    height: auto;
+}
+
+.coliseo {
+    animation: slide 8s infinite;
+}
+
+@keyframes slide {
+    from {
+        transform: translateY(-70px);
+    }
+
+    50% {
+        transform: translateY(60px);
+    }
+
+    to {
+        transform: translateY(-70px);
+    }
+}
+
+#primera-linea-cabecera {
+    display: grid;
+    grid-template-columns: 40% 60%;
+}
+
+#primera-linea-cabecera :nth-child(2) {
+    padding-top: 3rem;
+}
+
+.zona-imagenes-detalle {
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
 @media (max-width: 1200px) {
 
     .bloque {
@@ -246,9 +335,13 @@ header div {
     .bloque img {
         padding: 0;
     }
+
+    .zona-imagenes-detalle {
+        display: block;
+    }
 }
 
-@media (max-width: 860px) {
+@media (max-width: 800px) {
 
     header,
     #header-inicio,
@@ -286,7 +379,6 @@ header div {
         text-align: center;
     }
 
-    .lista-footer li,
     #enlaces-detalles li {
         display: list-item;
         list-style: none;
@@ -300,10 +392,24 @@ header div {
     .bloque img {
         padding: 0;
     }
+
+    #pie {
+        grid-template-columns: none;
+    }
+
+    #lista-pie {
+        grid-template-columns: none;
+    }
 }
 
 @media (max-width: 400px) {
     #contenido h1 {
         font-size: 35px;
     }
+
+    #primera-linea-cabecera {
+        grid-template-columns: none;
+    }
+
+
 }

@@ -6,7 +6,13 @@
     <meta charset="UTF-8">
     <meta name="title" content="El Coliseo de Roma">
     <meta name="description" content="El Coliseo de Roma">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,400;0,600;1,400&family=Shadows+Into+Light&display=swap"
+        rel="stylesheet">
     <link href="css/styles.css" rel="stylesheet" type="text/css" />
+    <link rel="icon" href="favicon_coliseo.ico">
     <script src="js/javascript.js"></script>
     <script type="module" src="../node_modules/log4js/lib/log4js.js" type="text/javascript">
         var myLogger = new Log4js.getLogger();
@@ -20,7 +26,14 @@
     <header>
         <div id="header-inicio">
             <div>
-                <a id="coliseo" href="index.html">El Coliseo - Roma</a>
+                <div id="primera-linea-cabecera">
+                    <div>
+                        <p class="logo">Travel</p>
+                    </div>
+                    <div>
+                        <a id="coliseo" href="index.html">El Coliseo - Roma</a>
+                    </div>
+                </div>
                 <div id="horario">
                     <div id="reloj"></div>
                     <div id="fecha"></div>
@@ -40,9 +53,11 @@
 
     </header>
 
-    <div id="contenido-inicio">
+    <div id="contenido">
         <div id="imagen-portada">
-            <img src="images/Roma3.jpg" alt="fondo-roma">
+            <div class="shape-outer bevel">
+                <div class="shape-inner bevel"></div>
+            </div>
         </div>
         <div id="titulo">
             <h1>El Coliseo de Roma</h1>
@@ -50,7 +65,46 @@
                 batallas
                 que en él se celebraban</p>
         </div>
+
+        <img id="imagen-animada" src="images/imagen-clip-path_small.jpg"
+            srcset="images/imagen-clip-path_small.jpg 400w, images/imagen-clip-path_medium.jpg 800w, images/imagen-clip-path_large.jpg 1200w"
+            sizes="(min-width: 60rem) 80vw,
+           (min-width: 40rem) 90vw,
+           100vw" class="circle" alt="Roma clip-path">
     </div>
+
+    <footer>
+        <div id="pie">
+            <div id="logo-pie">
+                <p class="logo">Travel</p>
+            </div>
+            <div id="lista-pie">
+
+                <div>
+                    <ul id="lista-categoria">
+                        <li><a href="categoria.html">Categoría</a>
+                            <ul>
+                                <li><a href="construccion.html">Construcción</a></li>
+                                <li><a href="batallas.html">Batallas</a></li>
+                                <li><a href="actualidad.html">Actualidad</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+                <div>
+                    <ul>
+                        <a href="presentacion.html">Presentación</a>
+                    </ul>
+                </div>
+                <div>
+                    <ul>
+                        <li><a href="enlaces.html">Enlaces</a></li>
+                    </ul>
+                </div>
+
+            </div>
+        </div>
+    </footer>
 </body>
 
 </html>
