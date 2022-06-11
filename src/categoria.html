@@ -6,22 +6,30 @@
     <meta charset="UTF-8">
     <meta name="title" content="Categoría">
     <meta name="description" content="Categoría">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link
-        href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,400;0,600;1,400&family=Shadows+Into+Light&display=swap"
-        rel="stylesheet">
     <link href="css/styles.css" rel="stylesheet" type="text/css" />
     <link rel="icon" href="favicon_coliseo.ico">
-    <script async src="js/javascript.js"></script>
-    <script type="module" src="../node_modules/log4js/lib/log4js.js" type="text/javascript">
-        var myLogger = new Log4js.getLogger();
-        myLogger.info('Se ejecuta la aplicación');
-    </script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
 <body onload="startT()">
+
+    <script async src="js/javascript.js"></script>
+    <script>
+        WebFontConfig = {
+            google: {
+                families: ['Raleway', 'Shadows Into Light']
+            }
+        };
+
+        (function (d) {
+            var ab = d.createElement('script'), c = d.scripts[0];
+
+            ab.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js';
+            ab.async = true;
+
+            c.parentNode.insertBefore(ab, c);
+        })(document);
+    </script>
 
     <header>
         <div id="header-inicio">
