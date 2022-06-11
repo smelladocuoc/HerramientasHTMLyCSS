@@ -50,22 +50,3 @@ function confirmacion() {
     alert("Accediendo a una dirección externa")
 
 }
-
-
-
-<script>
-    WebFontConfig = {
-        google: {
-        families: ['Raleway', 'Shadows Into Light']
-            }
-        };
-
-    (function (d) {
-            var ab = d.createElement('script'), c = d.scripts[0];
-
-    ab.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js';
-    ab.async = true;
-
-    c.parentNode.insertBefore(ab, c);
-        })(document);
-</script>
