@@ -6,11 +6,6 @@
     <meta charset="UTF-8">
     <meta name="title" content="El Coliseo de Roma">
     <meta name="description" content="El Coliseo de Roma">
-
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link
-        href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,400;0,600;1,400&family=Shadows+Into+Light&display=swap"
-        rel="stylesheet">
     <link href="css/styles.css" rel="stylesheet" type="text/css" />
     <link rel="icon" href="favicon_coliseo.ico">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -19,6 +14,20 @@
 <body onload="startT()">
 
     <script async src="js/javascript.js"></script>
+    <script>
+        WebFontConfig = {
+            google: {
+                families: ['Raleway', 'Shadows Into Light']
+            }
+        };
+
+        (function (d) {
+            var wf = d.createElement('script'), s = d.scripts[0];
+            wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js';
+            wf.async = true;
+            s.parentNode.insertBefore(wf, s);
+        })(document);
+    </script>
 
     <header>
         <div id="header-inicio">
