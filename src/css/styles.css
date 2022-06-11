@@ -71,6 +71,7 @@ li {
 p,
 a {
     font-family: 'Raleway', sans-serif;
+    font-display: swap;
 }
 
 #imagen-portada {
@@ -107,11 +108,13 @@ a {
 .texto h3 {
     margin-bottom: 0;
     font-family: 'Raleway', sans-serif;
+    font-display: swap;
 }
 
 .texto p {
     font-family: 'Raleway', sans-serif;
     line-height: 25px;
+    font-display: swap;
 }
 
 .video {
@@ -182,6 +185,7 @@ header div {
     font-family: 'Raleway', sans-serif;
     font-weight: bold;
     margin-top: 8px;
+    font-display: swap;
 }
 
 #enlaces-detalles {
@@ -202,6 +206,7 @@ header div {
     border-radius: 20%;
     text-shadow: 2px 4px 1px rgb(15, 103, 16);
     font-weight: bold;
+    font-display: swap;
 }
 
 #pie {
@@ -276,12 +281,14 @@ header div {
 
 #titulo {
     font-family: 'Shadows Into Light';
+    font-display: swap;
 }
 
 #titulo p {
     font-family: 'Shadows Into Light';
     font-size: 2rem;
     line-height: 2rem;
+    font-display: swap;
 }
 
 #animacion-svg {
