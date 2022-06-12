@@ -34,6 +34,48 @@ header a:hover {
     text-decoration: none;
 }
 
+/* raleway-regular - latin */
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('../fonts/raleway-v27-latin-regular.eot');
+    /* IE9 Compat Modes */
+    src: local(''),
+        url('../fonts/raleway-v27-latin-regular.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/raleway-v27-latin-regular.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/raleway-v27-latin-regular.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/raleway-v27-latin-regular.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/raleway-v27-latin-regular.svg#Raleway') format('svg');
+    /* Legacy iOS */
+}
+
+/* shadows-into-light-regular - latin */
+@font-face {
+    font-family: 'Shadows Into Light';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('../fonts/shadows-into-light-v15-latin-regular.eot');
+    /* IE9 Compat Modes */
+    src: local(''),
+        url('../fonts/shadows-into-light-v15-latin-regular.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/shadows-into-light-v15-latin-regular.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/shadows-into-light-v15-latin-regular.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/shadows-into-light-v15-latin-regular.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/shadows-into-light-v15-latin-regular.svg#ShadowsIntoLight') format('svg');
+    /* Legacy iOS */
+}
+
 #contenido {
     position: relative;
     padding-left: 20%;
